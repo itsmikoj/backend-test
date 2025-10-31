@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Faith & Beliefs",
+            "question": "What does grace mean in Christian theology?",
+            "options": [
+                "God's unmerited favor",
+                "Reward for good works",
+                "Human effort",
+                "Predetermined destiny"
+            ],
+            "answer": "God's unmerited favor"
+        },
+        {
+            "topic": "Faith & Beliefs",
+            "question": "What is the foundation of salvation according to the Reformation?",
+            "options": [
+                "Faith alone",
+                "Faith and works",
+                "Sacraments",
+                "Church tradition"
+            ],
+            "answer": "Faith alone"
+        },
+        {
+            "topic": "Faith & Beliefs",
+            "question": "What does the Holy Trinity represent?",
+            "options": [
+                "Father, Son and Holy Spirit",
+                "Creation, Redemption and Sanctification",
+                "Faith, Hope and Charity",
+                "Law, Grace and Mercy"
+            ],
+            "answer": "Father, Son and Holy Spirit"
+        }
+    ]
+}

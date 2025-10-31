@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el primer mandamiento con promesa?",
+            "options": [
+                "Honrar a padre y madre",
+                "No matarás",
+                "No robarás",
+                "No codiciarás"
+            ],
+            "answer": "Honrar a padre y madre"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu se menciona primero en Gálatas 5?",
+            "options": [
+                "Amor",
+                "Gozo",
+                "Paz",
+                "Paciencia"
+            ],
+            "answer": "Amor"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué armadura espiritual menciona Pablo en Efesios 6?",
+            "options": [
+                "Armadura de Dios",
+                "Armadura de fe",
+                "Armadura de luz",
+                "Armadura de justicia"
+            ],
+            "answer": "Armadura de Dios"
+        }
+    ]
+}

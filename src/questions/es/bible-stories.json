@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Historias Bíblicas",
+            "question": "¿Quién construyó el arca según la historia de Noé?",
+            "options": [
+                "Noé",
+                "Moisés",
+                "Abraham",
+                "David"
+            ],
+            "answer": "Noé"
+        },
+        {
+            "topic": "Historias Bíblicas",
+            "question": "¿Qué señal dio Dios a Noé después del diluvio?",
+            "options": [
+                "Un arcoíris",
+                "Una estrella",
+                "Una paloma",
+                "Un trueno"
+            ],
+            "answer": "Un arcoíris"
+        },
+        {
+            "topic": "Historias Bíblicas",
+            "question": "¿Quién fue vendido por sus hermanos y terminó en Egipto?",
+            "options": [
+                "José",
+                "Benjamín",
+                "Judá",
+                "Rubén"
+            ],
+            "answer": "José"
+        }
+    ]
+}

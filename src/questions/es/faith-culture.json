@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Cultura de la Fe",
+            "question": "¿Qué símbolo cristiano fue usado por los primeros creyentes para identificarse?",
+            "options": [
+                "El pez",
+                "La cruz",
+                "El cordero",
+                "El pan"
+            ],
+            "answer": "El pez"
+        },
+        {
+            "topic": "Cultura de la Fe",
+            "question": "¿En qué siglo se legalizó el cristianismo en el Imperio Romano?",
+            "options": [
+                "Siglo IV",
+                "Siglo I",
+                "Siglo II",
+                "Siglo V"
+            ],
+            "answer": "Siglo IV"
+        },
+        {
+            "topic": "Cultura de la Fe",
+            "question": "¿Qué emperador romano convocó el Primer Concilio de Nicea?",
+            "options": [
+                "Constantino",
+                "Nerón",
+                "Justiniano",
+                "Teodosio"
+            ],
+            "answer": "Constantino"
+        }
+    ]
+}

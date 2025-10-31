@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Christian Life",
+            "question": "Which is the first commandment with a promise?",
+            "options": [
+                "Honor your father and mother",
+                "You shall not murder",
+                "You shall not steal",
+                "You shall not covet"
+            ],
+            "answer": "Honor your father and mother"
+        },
+        {
+            "topic": "Christian Life",
+            "question": "What fruit of the Spirit is mentioned first in Galatians 5?",
+            "options": [
+                "Love",
+                "Joy",
+                "Peace",
+                "Patience"
+            ],
+            "answer": "Love"
+        },
+        {
+            "topic": "Christian Life",
+            "question": "What spiritual armor does Paul mention in Ephesians 6?",
+            "options": [
+                "Armor of God",
+                "Armor of faith",
+                "Armor of light",
+                "Armor of righteousness"
+            ],
+            "answer": "Armor of God"
+        }
+    ]
+}
