@@ -51,9 +51,9 @@ export const createSession = async (userId: string) => {
 export const joinSession = async (sessionCode: string, userId: string) => {
     const session = gameSessionManager.getSession(sessionCode);
     
-    if (session.gameState.gameStarted === true) {
-        throw new Error("Game Started");
-    }
+    // if (session.gameState.gameStarted === true) {
+    //     throw new Error("Game Started");
+    // }
     const profile = await getProfileService(userId);
 
     const newPlayer = createPlayer(
