@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué ciudad nació Jesús?",
+            "options": [
+                "Belén",
+                "Nazaret",
+                "Jerusalén",
+                "Jericó"
+            ],
+            "answer": "Belén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde recibió Moisés los Diez Mandamientos?",
+            "options": [
+                "Monte Sinaí",
+                "Monte Carmelo",
+                "Monte de los Olivos",
+                "Monte Tabor"
+            ],
+            "answer": "Monte Sinaí"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué río fue bautizado Jesús?",
+            "options": [
+                "Río Jordán",
+                "Río Nilo",
+                "Río Éufrates",
+                "Río Tigris"
+            ],
+            "answer": "Río Jordán"
+        }
+    ]
+}

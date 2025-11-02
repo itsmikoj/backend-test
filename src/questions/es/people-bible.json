@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Personas de la Biblia",
+            "question": "¿Quién fue conocido como el 'amigo de Dios'?",
+            "options": [
+                "Abraham",
+                "Moisés",
+                "David",
+                "Juan el Bautista"
+            ],
+            "answer": "Abraham"
+        },
+        {
+            "topic": "Personas de la Biblia",
+            "question": "¿Qué apóstol era conocido como el 'discípulo amado'?",
+            "options": [
+                "Juan",
+                "Pedro",
+                "Santiago",
+                "Andrés"
+            ],
+            "answer": "Juan"
+        },
+        {
+            "topic": "Personas de la Biblia",
+            "question": "¿Quién fue la madre de Samuel?",
+            "options": [
+                "Ana",
+                "Sara",
+                "Rebeca",
+                "Raquel"
+            ],
+            "answer": "Ana"
+        }
+    ]
+}

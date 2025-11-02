@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Places & Events",
+            "question": "In which city was Jesus born?",
+            "options": [
+                "Bethlehem",
+                "Nazareth",
+                "Jerusalem",
+                "Jericho"
+            ],
+            "answer": "Bethlehem"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did Moses receive the Ten Commandments?",
+            "options": [
+                "Mount Sinai",
+                "Mount Carmel",
+                "Mount of Olives",
+                "Mount Tabor"
+            ],
+            "answer": "Mount Sinai"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In which river was Jesus baptized?",
+            "options": [
+                "Jordan River",
+                "Nile River",
+                "Euphrates River",
+                "Tigris River"
+            ],
+            "answer": "Jordan River"
+        }
+    ]
+}

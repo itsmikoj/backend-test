@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Faith & Culture",
+            "question": "What Christian symbol was used by early believers to identify themselves?",
+            "options": [
+                "The fish",
+                "The cross",
+                "The lamb",
+                "The bread"
+            ],
+            "answer": "The fish"
+        },
+        {
+            "topic": "Faith & Culture",
+            "question": "In what century was Christianity legalized in the Roman Empire?",
+            "options": [
+                "4th century",
+                "1st century",
+                "2nd century",
+                "5th century"
+            ],
+            "answer": "4th century"
+        },
+        {
+            "topic": "Faith & Culture",
+            "question": "Which Roman emperor convened the First Council of Nicaea?",
+            "options": [
+                "Constantine",
+                "Nero",
+                "Justinian",
+                "Theodosius"
+            ],
+            "answer": "Constantine"
+        }
+    ]
+}

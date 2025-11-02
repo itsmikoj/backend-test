@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Creencias Religiosas",
+            "question": "¿Qué significa la gracia en la teología cristiana?",
+            "options": [
+                "Favor inmerecido de Dios",
+                "Recompensa por buenas obras",
+                "Esfuerzo humano",
+                "Destino predeterminado"
+            ],
+            "answer": "Favor inmerecido de Dios"
+        },
+        {
+            "topic": "Creencias Religiosas",
+            "question": "¿Cuál es el fundamento de la salvación según la Reforma?",
+            "options": [
+                "Solo por fe",
+                "Fe y obras",
+                "Sacramentos",
+                "Tradición eclesial"
+            ],
+            "answer": "Solo por fe"
+        },
+        {
+            "topic": "Creencias Religiosas",
+            "question": "¿Qué representa la Santísima Trinidad?",
+            "options": [
+                "Padre, Hijo y Espíritu Santo",
+                "Creación, Redención y Santificación",
+                "Fe, Esperanza y Caridad",
+                "Ley, Gracia y Misericordia"
+            ],
+            "answer": "Padre, Hijo y Espíritu Santo"
+        }
+    ]
+}

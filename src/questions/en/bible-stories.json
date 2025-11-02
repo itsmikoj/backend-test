@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Bible Stories",
+            "question": "Who built the ark according to Noah's story?",
+            "options": [
+                "Noah",
+                "Moses",
+                "Abraham",
+                "David"
+            ],
+            "answer": "Noah"
+        },
+        {
+            "topic": "Bible Stories",
+            "question": "What sign did God give Noah after the flood?",
+            "options": [
+                "A rainbow",
+                "A star",
+                "A dove",
+                "Thunder"
+            ],
+            "answer": "A rainbow"
+        },
+        {
+            "topic": "Bible Stories",
+            "question": "Who was sold by his brothers and ended up in Egypt?",
+            "options": [
+                "Joseph",
+                "Benjamin",
+                "Judah",
+                "Reuben"
+            ],
+            "answer": "Joseph"
+        }
+    ]
+}

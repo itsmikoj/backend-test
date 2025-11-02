@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Adoración y Música",
+            "question": "¿Qué instrumento tocaba el rey David?",
+            "options": [
+                "Arpa",
+                "Tambor",
+                "Flauta",
+                "Trompeta"
+            ],
+            "answer": "Arpa"
+        },
+        {
+            "topic": "Adoración y Música",
+            "question": "¿Qué libro de la Biblia contiene la mayoría de los salmos?",
+            "options": [
+                "Salmos",
+                "Proverbios",
+                "Cantares",
+                "Lamentaciones"
+            ],
+            "answer": "Salmos"
+        },
+        {
+            "topic": "Adoración y Música",
+            "question": "¿Quién dirigió la alabanza cuando se dedicó el templo de Salomón?",
+            "options": [
+                "Los levitas",
+                "Los profetas",
+                "Los sacerdotes",
+                "El rey"
+            ],
+            "answer": "Los levitas"
+        }
+    ]
+}

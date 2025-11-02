@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "People of the Bible",
+            "question": "Who was known as 'God's friend'?",
+            "options": [
+                "Abraham",
+                "Moses",
+                "David",
+                "John the Baptist"
+            ],
+            "answer": "Abraham"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which apostle was known as the 'beloved disciple'?",
+            "options": [
+                "John",
+                "Peter",
+                "James",
+                "Andrew"
+            ],
+            "answer": "John"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was Samuel's mother?",
+            "options": [
+                "Hannah",
+                "Sarah",
+                "Rebekah",
+                "Rachel"
+            ],
+            "answer": "Hannah"
+        }
+    ]
+}

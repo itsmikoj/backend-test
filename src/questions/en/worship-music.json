@@ -1,0 +1,37 @@
+{
+    "questions": [
+        {
+            "topic": "Worship & Music",
+            "question": "What instrument did King David play?",
+            "options": [
+                "Harp",
+                "Tambourine",
+                "Flute",
+                "Trumpet"
+            ],
+            "answer": "Harp"
+        },
+        {
+            "topic": "Worship & Music",
+            "question": "Which book of the Bible contains most of the psalms?",
+            "options": [
+                "Psalms",
+                "Proverbs",
+                "Song of Songs",
+                "Lamentations"
+            ],
+            "answer": "Psalms"
+        },
+        {
+            "topic": "Worship & Music",
+            "question": "Who led the praise when Solomon's temple was dedicated?",
+            "options": [
+                "The Levites",
+                "The prophets",
+                "The priests",
+                "The king"
+            ],
+            "answer": "The Levites"
+        }
+    ]
+}
