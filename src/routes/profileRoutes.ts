@@ -32,7 +32,7 @@ profileRoutes.post(
   [upload.single("image"), validateImage],
   uploadPhotoController
 );
-profileRoutes.postt("/update-username", updateUsernameController);
+profileRoutes.post("/update-username", updateUsernameController);
 
 profileRoutes.use(multerErrorHandler);
 

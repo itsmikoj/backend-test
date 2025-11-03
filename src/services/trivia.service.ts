@@ -26,7 +26,7 @@ export const createSession = async (userId: string) => {
     const player = createPlayer(
         {
             id: profile.id,
-            username: profile.username,
+            username: profile.username || "",
             fullName: profile.full_name,
         },
         true
@@ -59,7 +59,7 @@ export const joinSession = async (sessionCode: string, userId: string) => {
     const newPlayer = createPlayer(
         {
             id: profile.id,
-            username: profile.username,
+            username: profile.username || "",
             fullName: profile.full_name,
         },
         false
