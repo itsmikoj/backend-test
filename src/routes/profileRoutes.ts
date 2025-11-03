@@ -33,7 +33,7 @@ profileRoutes.post(
   uploadPhotoController
 );
 profileRoutes.post("/update-username", updateUsernameController);
-
+console.log("test")
 profileRoutes.use(multerErrorHandler);
 
 export default profileRoutes;
