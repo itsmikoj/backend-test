@@ -153,3 +153,36 @@ export const checkUsernameService = async (username: string): Promise<boolean> =
   return count === 0;
 };
 
+export const updateUsernameService = async (
+  userId: string,
+  newUsername: string
+): Promise<Profile> => {
+  if (!newUsername?.trim()) {
+    throw new Error("Username is required");
+  }
+
+  const trimmed = newUsername.trim().toLowerCase();
+
+  const existingProfile = await getProfileService(userId);
+
+  if (existingProfile.username?.toLowerCase() === trimmed) {
+    throw new Error("New username must be different from current username");
+  }
+
+  const { data, error } = await supabase
+    .from("profile")
+    .update({ username: trimmed })
+    .eq("id", userId)
+    .select("*")
+    .single();
+
+  if (error) {
+    throw new Error("DB updateUsernameService: " + error.message);
+  }
+
+  if (!data) {
+    throw new Error("Profile not found after update");
+  }
+
+  return data as Profile;
+};

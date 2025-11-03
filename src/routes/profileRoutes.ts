@@ -10,6 +10,7 @@ import {
   createProfileController,
   updateProfileController,
   checkUsernameController,
+  updateUsernameController,
 } from "../controllers/profileController";
 import {
   upload,
@@ -31,6 +32,7 @@ profileRoutes.post(
   [upload.single("image"), validateImage],
   uploadPhotoController
 );
+profileRoutes.postt("/update-username", updateUsernameController);
 
 profileRoutes.use(multerErrorHandler);
 
