@@ -50,7 +50,7 @@ export const createSession = async (userId: string) => {
 
 export const joinSession = async (sessionCode: string, userId: string) => {
     const session = gameSessionManager.getSession(sessionCode);
-    
+
     if (session.gameState.gameStarted === true) {
         throw new Error("Game Started");
     }
@@ -119,3 +119,9 @@ export const leaveSession = async (sessionCode: string, playerId: string) => {
     await broadcastGameState(sessionCode, session);
     console.log("Broadcast actualizado tras salida");
 };
+
+export const statusSession = async (sessionCode: string): Promise<boolean> => {
+    const session = gameSessionManager.getSession(sessionCode);
+    const status = session.gameState.gameEnded
+    return status;
+}

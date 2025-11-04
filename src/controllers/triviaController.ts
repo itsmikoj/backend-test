@@ -103,3 +103,16 @@ export const getQuestions = async (req: Request, res: Response) => {
         });
     }
 };
+
+export const getTriviaStatusController = async (req: Request, res: Response) => {
+    try {
+        const { sessionCode } = req.body;
+        const result = await triviaService.statusSession(sessionCode);
+        res.json({
+            status: result
+        });
+    } catch (error: any) {
+        console.error("Error status session:", error);
+        res.status(500).json({ error: error.message || "Error status session" });
+    }
+};
