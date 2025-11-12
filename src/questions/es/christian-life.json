@@ -1,0 +1,2204 @@
+{
+    "questions": [
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de ser declarado justo por Dios, no por obras sino por la fe en Cristo?",
+            "options": [
+                "Santificación",
+                "Redención",
+                "Justificación",
+                "Expiación"
+            ],
+            "answer": "Justificación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "Según Efesios 2:8-9, ¿por qué medio somos salvos?",
+            "options": [
+                "Por obras y esfuerzo",
+                "Por obedecer la Ley",
+                "Por gracia, mediante la fe",
+                "Por el bautismo"
+            ],
+            "answer": "Por gracia, mediante la fe"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el significado del nombre griego \"Jesús\"?",
+            "options": [
+                "El Rey",
+                "Dios con nosotros",
+                "El SEÑOR es salvación",
+                "El Ungido"
+            ],
+            "answer": "El SEÑOR es salvación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la evidencia o \"la certeza de lo que se espera\", según Hebreos 11:1?",
+            "options": [
+                "Obediencia",
+                "Amor",
+                "Esperanza",
+                "Fe"
+            ],
+            "answer": "Fe"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué palabra describe el acto del creyente de alejarse del pecado y volverse hacia Dios?",
+            "options": [
+                "Bautismo",
+                "Arrepentimiento",
+                "Confesión",
+                "Consagración"
+            ],
+            "answer": "Arrepentimiento"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué concepto describe la nueva vida que Dios da al creyente, el \"nacer de nuevo\"?",
+            "options": [
+                "Regeneración",
+                "Restauración",
+                "Renovación",
+                "Reconciliación"
+            ],
+            "answer": "Regeneración"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué atributo de Dios implica que Él está sin pecado y es inigualable en perfección?",
+            "options": [
+                "Omnipotencia",
+                "Omnisciencia",
+                "Justicia",
+                "Santidad"
+            ],
+            "answer": "Santidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término bíblico describe el perdón de los pecados logrado por el derramamiento de la sangre de Cristo?",
+            "options": [
+                "Reconciliación",
+                "Imputación",
+                "Redención",
+                "Obediencia"
+            ],
+            "answer": "Redención"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué nos ha dado Dios como sello y garantía de nuestra herencia futura (Ef. 1:13-14)?",
+            "options": [
+                "La Biblia",
+                "El bautismo",
+                "El Espíritu Santo",
+                "La Iglesia"
+            ],
+            "answer": "El Espíritu Santo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa que Jesús es nuestro \"Abogado\" ante el Padre (1 Juan 2:1)?",
+            "options": [
+                "Que Él nos castiga",
+                "Que intercede por nosotros",
+                "Que nos juzga",
+                "Que nos enseña"
+            ],
+            "answer": "Que intercede por nosotros"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la dependencia completa del creyente en Dios para la justicia y el perdón?",
+            "options": [
+                "Obras",
+                "Mandamientos",
+                "Gracia",
+                "Sacrificios"
+            ],
+            "answer": "Gracia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el proceso continuo y progresivo de volverse más como Cristo en carácter?",
+            "options": [
+                "Santificación",
+                "Justificación",
+                "Glorificación",
+                "Adopción"
+            ],
+            "answer": "Santificación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el significado de la palabra \"Ágape\" en el contexto del amor cristiano?",
+            "options": [
+                "Amor familiar",
+                "Amor de amistad",
+                "Amor incondicional y sacrificial",
+                "Amor romántico"
+            ],
+            "answer": "Amor incondicional y sacrificial"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué se logró con la muerte de Jesús en la cruz, satisfaciendo la ira de Dios contra el pecado (Rom. 3:25)?",
+            "options": [
+                "Justificación",
+                "Propiciación",
+                "Misericordia",
+                "Perdón"
+            ],
+            "answer": "Propiciación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el primer y más grande mandamiento según Jesús (Mateo 22:37)?",
+            "options": [
+                "Amar a tu prójimo",
+                "Amar a Dios con todo tu corazón, alma y mente",
+                "Honrar a tu padre y a tu madre",
+                "No matar"
+            ],
+            "answer": "Amar a Dios con todo tu corazón, alma y mente"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué enseña la Biblia sobre la relación entre la fe y las obras (Santiago 2:17)?",
+            "options": [
+                "La fe reemplaza a las obras",
+                "La fe sin obras está muerta",
+                "Las obras son más importantes",
+                "Las obras son suficientes para la salvación"
+            ],
+            "answer": "La fe sin obras está muerta"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué permite al Espíritu Santo que clamemos a Dios como \"Abba Padre\" (Romanos 8:15)?",
+            "options": [
+                "Liberación",
+                "Sabiduría",
+                "Adopción",
+                "Sanidad"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la fuente de verdad infalible y autoritativa para la vida cristiana?",
+            "options": [
+                "La tradición",
+                "Las Escrituras (Biblia)",
+                "Los concilios de la iglesia",
+                "La experiencia personal"
+            ],
+            "answer": "Las Escrituras (Biblia)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué dijo Jesús que era necesario para que un creyente lo siguiera (Lucas 9:23)?",
+            "options": [
+                "Dar dinero",
+                "Predicar el Evangelio",
+                "Negarse a sí mismo y tomar su cruz",
+                "Orar sin cesar"
+            ],
+            "answer": "Negarse a sí mismo y tomar su cruz"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la certeza de que Dios completará la obra de salvación en el creyente?",
+            "options": [
+                "Seguridad (o Perseverancia)",
+                "Predestinación",
+                "Omnipotencia",
+                "Imputación"
+            ],
+            "answer": "Seguridad (o Perseverancia)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa la palabra griega \"Ekklesia\", que se traduce como iglesia en el Nuevo Testamento?",
+            "options": [
+                "Un edificio para adorar",
+                "Una asamblea de los llamados",
+                "Un grupo de líderes",
+                "Una gran multitud"
+            ],
+            "answer": "Una asamblea de los llamados"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el principal acto de obediencia que simboliza la muerte al pecado y la resurrección a una nueva vida?",
+            "options": [
+                "La Cena del Señor",
+                "El Bautismo",
+                "La Ofrenda",
+                "La Confesión"
+            ],
+            "answer": "El Bautismo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el estado original de la humanidad como pecadora y separada de la vida de Dios?",
+            "options": [
+                "La Caída (o Estado de Pecado)",
+                "Predestinación",
+                "Tentación",
+                "Misericordia"
+            ],
+            "answer": "La Caída (o Estado de Pecado)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa \"Paz con Dios\", que se obtiene mediante la fe en Jesucristo (Romanos 5:1)?",
+            "options": [
+                "Ausencia de problemas",
+                "Un sentimiento de calma",
+                "El fin de la hostilidad y enemistad con Dios",
+                "Un pacto temporal"
+            ],
+            "answer": "El fin de la hostilidad y enemistad con Dios"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el propósito último del creyente, según Romanos 8:29?",
+            "options": [
+                "Ser famoso",
+                "Ser rico",
+                "Ser transformado a la imagen de Cristo",
+                "Ser inmortal"
+            ],
+            "answer": "Ser transformado a la imagen de Cristo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué doctrina enseña que el creyente es hecho hijo de Dios y coheredero con Cristo?",
+            "options": [
+                "Justificación",
+                "Adopción",
+                "Santificación",
+                "Unión"
+            ],
+            "answer": "Adopción"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué palabra describe el acto de acoger y apoyar a extraños y hermanos en la fe (Romanos 12:13)?",
+            "options": [
+                "Caridad",
+                "Generosidad",
+                "Hospitalidad",
+                "Comunión"
+            ],
+            "answer": "Hospitalidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el acto de la Cena del Señor (Comunión) según 1 Corintios 11:26?",
+            "options": [
+                "Un simple recordatorio",
+                "Una comida ordinaria",
+                "Una proclamación de la muerte del Señor hasta que Él venga",
+                "Un ritual de limpieza"
+            ],
+            "answer": "Una proclamación de la muerte del Señor hasta que Él venga"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el estado de estar espiritualmente muerto y separado de la vida de Dios (Efesios 2:1)?",
+            "options": [
+                "Ignorancia",
+                "Enfermedad",
+                "Transgresiones",
+                "Tristeza"
+            ],
+            "answer": "Transgresiones"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa el concepto bíblico de \"Temor de Dios\"?",
+            "options": [
+                "Miedo a ser castigado",
+                "Terror del futuro",
+                "Profunda reverencia y obediencia a Su autoridad",
+                "Miedo a los demonios"
+            ],
+            "answer": "Profunda reverencia y obediencia a Su autoridad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debemos hacer para que la Palabra de Dios no sea quitada de nuestros corazones, según la Parábola del Sembrador?",
+            "options": [
+                "Retenerla (o Entenderla)",
+                "Escribirla",
+                "Citarla en público",
+                "Venderla"
+            ],
+            "answer": "Retenerla (o Entenderla)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud describe Pablo como más importante que la fe y la esperanza (1 Corintios 13)?",
+            "options": [
+                "Amor",
+                "Sabiduría",
+                "Paciencia",
+                "Conocimiento"
+            ],
+            "answer": "Amor"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término bíblico describe la transferencia de nuestra pecaminosidad a Cristo y Su justicia a nosotros?",
+            "options": [
+                "Reconciliación",
+                "Imputación",
+                "Sustitución",
+                "Revelación"
+            ],
+            "answer": "Imputación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué mandamiento dio Jesús a Sus discípulos justo antes de ascender al cielo (Mateo 28:19-20)?",
+            "options": [
+                "Amarse unos a otros",
+                "Vayan y hagan discípulos a todas las naciones",
+                "Esperen en el templo",
+                "Vendan todas sus posesiones"
+            ],
+            "answer": "Vayan y hagan discípulos a todas las naciones"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué describe la Biblia como \"el don de Dios\", que no es resultado de obras?",
+            "options": [
+                "Vida eterna",
+                "Sabiduría",
+                "Sacerdocio",
+                "Fe"
+            ],
+            "answer": "Fe"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la función principal del creyente en el mundo, según Jesús, comparándolo con la luz?",
+            "options": [
+                "Ser pasivo",
+                "Glorificar al Padre con buenas obras",
+                "Esconderse del mundo",
+                "Acumular riquezas"
+            ],
+            "answer": "Glorificar al Padre con buenas obras"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa el concepto del cristiano en \"Unión con Cristo\" (Romanos 6:5)?",
+            "options": [
+                "Que somos iguales a Él",
+                "Que lo conocemos",
+                "Que estamos unidos con Su muerte y resurrección",
+                "Que vivimos donde Él vivió"
+            ],
+            "answer": "Que estamos unidos con Su muerte y resurrección"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué cualidad debemos mostrar al hablar, según Colosenses 4:6, que debe estar \"sazonada con sal\"?",
+            "options": [
+                "Humor",
+                "Fuerza",
+                "Gracia (Amabilidad)",
+                "Sabiduría"
+            ],
+            "answer": "Gracia (Amabilidad)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el propósito principal de la Ley de Dios, una vez que hemos sido justificados por la fe?",
+            "options": [
+                "Condenarnos",
+                "Ganar la salvación",
+                "Ser una guía para la vida piadosa (santificación)",
+                "Ser ignorada"
+            ],
+            "answer": "Ser una guía para la vida piadosa (santificación)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el estado final y perfecto de los creyentes en la presencia de Dios?",
+            "options": [
+                "Santificación",
+                "Resurrección",
+                "Glorificación",
+                "Recompensa"
+            ],
+            "answer": "Glorificación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el primer fruto del Espíritu mencionado en Gálatas 5:22-23?",
+            "options": [
+                "Amor",
+                "Gozo",
+                "Paz",
+                "Paciencia"
+            ],
+            "answer": "Amor"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu se describe como la cualidad de mantener la alegría, incluso en medio de las pruebas?",
+            "options": [
+                "Paciencia",
+                "Templanza",
+                "Gozo",
+                "Fe"
+            ],
+            "answer": "Gozo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu describe la calma interna y la armonía con Dios y con los demás?",
+            "options": [
+                "Amor",
+                "Paz",
+                "Bondad",
+                "Mansedumbre"
+            ],
+            "answer": "Paz"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu es la capacidad de soportar personas o circunstancias difíciles sin quejarse?",
+            "options": [
+                "Amor",
+                "Benignidad",
+                "Paciencia (o Longanimidad)",
+                "Dominio propio"
+            ],
+            "answer": "Paciencia (o Longanimidad)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu implica actuar con consideración y amabilidad hacia los demás?",
+            "options": [
+                "Fe",
+                "Mansedumbre",
+                "Benignidad (o Amabilidad)",
+                "Bondad"
+            ],
+            "answer": "Benignidad (o Amabilidad)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu se refiere a la integridad moral y la búsqueda de hacer lo correcto?",
+            "options": [
+                "Mansedumbre",
+                "Paciencia",
+                "Paz",
+                "Bondad"
+            ],
+            "answer": "Bondad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu describe la cualidad de ser confiable, leal y constante en la fe?",
+            "options": [
+                "Bondad",
+                "Amor",
+                "Fe",
+                "Paz"
+            ],
+            "answer": "Fe"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu se refiere a la humildad y la disposición a someterse a la voluntad de Dios sin arrogancia?",
+            "options": [
+                "Dominio propio",
+                "Mansedumbre",
+                "Paciencia",
+                "Bondad"
+            ],
+            "answer": "Mansedumbre"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu es la capacidad de controlar los deseos, emociones e impulsos propios?",
+            "options": [
+                "Mansedumbre",
+                "Fe",
+                "Gozo",
+                "Dominio propio (o Templanza)"
+            ],
+            "answer": "Dominio propio (o Templanza)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué promesa dio Jesús a Sus discípulos antes de ascender, refiriéndose al Espíritu Santo (Juan 14:16)?",
+            "options": [
+                "Dinero",
+                "El Consolador (o Paracleto)",
+                "Un nuevo templo",
+                "Sabiduría"
+            ],
+            "answer": "El Consolador (o Paracleto)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la función del Espíritu Santo en relación con el pecado, según Juan 16:8?",
+            "options": [
+                "Perdonar",
+                "Silenciar",
+                "Convencer al mundo de pecado, justicia y juicio",
+                "Ignorar"
+            ],
+            "answer": "Convencer al mundo de pecado, justicia y juicio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la forma principal en que el Espíritu Santo guía al creyente a entender la Palabra de Dios (1 Cor. 2:10)?",
+            "options": [
+                "Milagros",
+                "Sueños",
+                "Iluminación",
+                "Profecía"
+            ],
+            "answer": "Iluminación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe las habilidades sobrenaturales dadas por el Espíritu Santo para la edificación de la Iglesia?",
+            "options": [
+                "Talentos",
+                "Habilidades",
+                "Dones Espirituales",
+                "Ministerios"
+            ],
+            "answer": "Dones Espirituales"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué don espiritual implica la habilidad de discernir si un espíritu es de Dios o no?",
+            "options": [
+                "Profecía",
+                "Discernimiento de espíritus",
+                "Sanidad",
+                "Lenguas"
+            ],
+            "answer": "Discernimiento de espíritus"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué significa \"la llenura del Espíritu\", según Efesios 5:18?",
+            "options": [
+                "Un evento único",
+                "Ser continuamente controlado y capacitado por el Espíritu",
+                "Hablar en lenguas",
+                "Estar físicamente presente"
+            ],
+            "answer": "Ser continuamente controlado y capacitado por el Espíritu"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué acto se considera la experiencia inicial de recibir el Espíritu Santo en la salvación (1 Cor. 12:13)?",
+            "options": [
+                "Hablar en lenguas",
+                "Ser bautizados en el cuerpo de Cristo",
+                "Imposición de manos",
+                "Ayunar"
+            ],
+            "answer": "Ser bautizados en el cuerpo de Cristo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término bíblico describe el acto de entristecer al Espíritu Santo (Efesios 4:30)?",
+            "options": [
+                "Ignorarlo",
+                "Malinterpretarlo",
+                "Participar en conducta y lenguaje impíos",
+                "No asistir a la iglesia"
+            ],
+            "answer": "Participar en conducta y lenguaje impíos"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué don espiritual específico se describe como hablar a Dios, no a los hombres, y edificarse a sí mismo (1 Cor. 14:2)?",
+            "options": [
+                "Profecía",
+                "Interpretación",
+                "Lenguas",
+                "Enseñanza"
+            ],
+            "answer": "Lenguas"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Quién distribuye los dones espirituales a los creyentes como Él quiere (1 Cor. 12:11)?",
+            "options": [
+                "Los Apóstoles",
+                "Los Pastores",
+                "La Iglesia",
+                "El Espíritu Santo"
+            ],
+            "answer": "El Espíritu Santo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el propósito principal de los dones espirituales en la iglesia (Efesios 4:12)?",
+            "options": [
+                "Alardear del poder",
+                "Ganar riqueza",
+                "Equipar a los santos para la obra del ministerio",
+                "Condenar a los incrédulos"
+            ],
+            "answer": "Equipar a los santos para la obra del ministerio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la autoridad docente y la guía dada por el Espíritu a los primeros apóstoles?",
+            "options": [
+                "Santificación",
+                "Inspiración",
+                "Regeneración",
+                "Revelación"
+            ],
+            "answer": "Revelación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud es lo opuesto a la desesperación y la resignación, resultando de una expectativa confiada en las promesas de Dios?",
+            "options": [
+                "Fe",
+                "Esperanza",
+                "Paciencia",
+                "Resistencia"
+            ],
+            "answer": "Esperanza"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué fruto del Espíritu es más evidente cuando un creyente soporta con paciencia y confía en el tiempo de Dios?",
+            "options": [
+                "Gozo",
+                "Mansedumbre",
+                "Paciencia (Longanimidad)",
+                "Dominio propio"
+            ],
+            "answer": "Paciencia (Longanimidad)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el estado espiritual de vivir según la carne, no según el Espíritu (Romanos 8:5)?",
+            "options": [
+                "Ignorancia",
+                "Carnalidad",
+                "Santidad",
+                "Obediencia"
+            ],
+            "answer": "Carnalidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué hace el Espíritu Santo con los creyentes para hacerlos un solo cuerpo, independientemente de su origen (1 Cor. 12:13)?",
+            "options": [
+                "Los separa",
+                "Los bautiza",
+                "Los juzga",
+                "Los aísla"
+            ],
+            "answer": "Los bautiza"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué don espiritual implica explicar un mensaje dado en un lenguaje desconocido?",
+            "options": [
+                "Profecía",
+                "Interpretación de lenguas",
+                "Conocimiento",
+                "Sabiduría"
+            ],
+            "answer": "Interpretación de lenguas"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud es lo opuesto al orgullo e implica una visión correcta de uno mismo ante Dios y los demás?",
+            "options": [
+                "Humildad",
+                "Confianza",
+                "Fuerza",
+                "Audacia"
+            ],
+            "answer": "Humildad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué obra espiritual del Espíritu permite a los creyentes ser transformados de gloria en gloria (2 Cor. 3:18)?",
+            "options": [
+                "Sanidad",
+                "Renovación",
+                "Juicio",
+                "Hablar"
+            ],
+            "answer": "Renovación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la fuente última de todo el buen fruto mostrado en la vida cristiana (Gál. 5:22)?",
+            "options": [
+                "Buenas intenciones",
+                "Disciplina",
+                "Esfuerzo humano",
+                "El Espíritu Santo"
+            ],
+            "answer": "El Espíritu Santo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué tipo de paz da Cristo que es diferente de la paz del mundo (Juan 14:27)?",
+            "options": [
+                "Temporal",
+                "Condicional",
+                "La Suya propia (o Verdadera)",
+                "Material"
+            ],
+            "answer": "La Suya propia (o Verdadera)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud demuestra quien somete sus propios derechos y poder al control de Dios?",
+            "options": [
+                "Valor",
+                "Audacia",
+                "Mansedumbre",
+                "Cel"
+            ],
+            "answer": "Mansedumbre"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina espiritual de controlar lo que dices (Santiago 1:26)?",
+            "options": [
+                "Hablar fuerte",
+                "Hablar seguido",
+                "Refrenar la lengua",
+                "Decir cosas inteligentes"
+            ],
+            "answer": "Refrenar la lengua"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el propósito de la ley para aquellos que andan en el Espíritu (Gálatas 5:23)?",
+            "options": [
+                "Condenarlos",
+                "No hay ley contra tales cosas",
+                "Debilitarlos",
+                "Aislarlos"
+            ],
+            "answer": "No hay ley contra tales cosas"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cómo llama Jesús a las personas que soportan la tentación y son aprobadas (Santiago 1:12)?",
+            "options": [
+                "Bienaventurados (o Felices)",
+                "Ricos",
+                "Sabios",
+                "Perfectos"
+            ],
+            "answer": "Bienaventurados (o Felices)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué don espiritual implica dar un mensaje de Dios a la iglesia para animar, exhortar o consolar?",
+            "options": [
+                "Profecía",
+                "Conocimiento",
+                "Enseñanza",
+                "Sabiduría"
+            ],
+            "answer": "Profecía"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿A qué compara la Biblia el amor al dinero (1 Timoteo 6:10)?",
+            "options": [
+                "Un capricho pasajero",
+                "Una buena inversión",
+                "La raíz de todos los males",
+                "Una herramienta necesaria"
+            ],
+            "answer": "La raíz de todos los males"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué necesita pedir el cristiano a Dios para actuar sabiamente en situaciones difíciles (Santiago 1:5)?",
+            "options": [
+                "Sabiduría",
+                "Riquezas",
+                "Poder",
+                "Salud"
+            ],
+            "answer": "Sabiduría"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué característica debe poseer quien pide sabiduría a Dios (Santiago 1:6)?",
+            "options": [
+                "Conocimiento",
+                "Fe (o sin dudar)",
+                "Humildad",
+                "Audacia"
+            ],
+            "answer": "Fe (o sin dudar)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué les dice Pablo a los cristianos que \"se vistan\" como parte del nuevo hombre, en relación con el perdón (Colosenses 3:13)?",
+            "options": [
+                "Fuerza",
+                "Poder",
+                "Compasión (o Misericordia)",
+                "Oro"
+            ],
+            "answer": "Compasión (o Misericordia)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la forma principal en que el Espíritu nos ayuda en nuestras oraciones cuando no sabemos qué pedir (Romanos 8:26)?",
+            "options": [
+                "Dándonos las palabras correctas",
+                "Intercediendo con gemidos indecibles",
+                "Dándonos una visión",
+                "Dándonos una lista"
+            ],
+            "answer": "Intercediendo con gemidos indecibles"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina espiritual de comunicarse con Dios a través de la conversación, la petición y la adoración?",
+            "options": [
+                "Oración",
+                "Ayuno",
+                "Lectura",
+                "Comunión"
+            ],
+            "answer": "Oración"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe acompañar a la oración, según Filipenses 4:6, para guardar nuestros corazones y mentes?",
+            "options": [
+                "Miedo",
+                "Arrepentimiento",
+                "Acción de gracias",
+                "Ayuno"
+            ],
+            "answer": "Acción de gracias"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué disciplina espiritual implica abstenerse de comida por un tiempo para buscar la guía de Dios o interceder?",
+            "options": [
+                "Oración",
+                "Ayuno",
+                "Meditación",
+                "Soledad"
+            ],
+            "answer": "Ayuno"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el acto de leer la Escritura profundamente y reflexionar sobre ella para el crecimiento y transformación espiritual?",
+            "options": [
+                "Estudio",
+                "Lectura",
+                "Meditación",
+                "Memorización"
+            ],
+            "answer": "Meditación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué práctica implica apartar tiempo para estar solo con Dios, libre de distracciones?",
+            "options": [
+                "Soledad",
+                "Estudio",
+                "Adoración",
+                "Servicio"
+            ],
+            "answer": "Soledad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué ordenó Jesús que sus seguidores buscaran primero sobre todas las cosas (Mateo 6:33)?",
+            "options": [
+                "Riqueza",
+                "El Reino de Dios y Su justicia",
+                "Milagros",
+                "Salud"
+            ],
+            "answer": "El Reino de Dios y Su justicia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el término para la acción de Dios de dar autoridad e inspirar Sus palabras a los escritores bíblicos?",
+            "options": [
+                "Iluminación",
+                "Inspiración",
+                "Interpretación",
+                "Canonización"
+            ],
+            "answer": "Inspiración"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué disciplina espiritual implica dar un porcentaje de los ingresos a la obra de Dios (a menudo el 10%)?",
+            "options": [
+                "Diezmo",
+                "Ofrenda",
+                "Limonsna",
+                "Inversión"
+            ],
+            "answer": "Diezmo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el acto espiritual de reconocer y confesar los pecados a Dios o a otro creyente?",
+            "options": [
+                "Arrepentimiento",
+                "Confesión",
+                "Justificación",
+                "Adoración"
+            ],
+            "answer": "Confesión"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe acompañar a la confesión para verdaderamente recibir el perdón de Dios (1 Juan 1:9)?",
+            "options": [
+                "Obras",
+                "Sacrificios",
+                "Fidelidad y Justicia (de Dios)",
+                "Anuncio público"
+            ],
+            "answer": "Fidelidad y Justicia (de Dios)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina cristiana de detener deliberadamente el trabajo y dedicar un día al descanso y la adoración?",
+            "options": [
+                "Servicio",
+                "Sábado",
+                "Ayuno",
+                "Diezmo"
+            ],
+            "answer": "Sábado"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el estudio cuidadoso y sistemático de las Escrituras para entender su significado original?",
+            "options": [
+                "Exégesis",
+                "Homilética",
+                "Escatología",
+                "Soteriología"
+            ],
+            "answer": "Exégesis"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina de servir activamente a los demás, como lo ejemplificó Cristo al lavar los pies de los discípulos?",
+            "options": [
+                "Predicación",
+                "Enseñanza",
+                "Servicio",
+                "Liderazgo"
+            ],
+            "answer": "Servicio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe acompañar a la lectura de la Biblia para que sea efectiva, según Santiago 1:22?",
+            "options": [
+                "Memorización",
+                "Meditación",
+                "Hacer (o Practicar)",
+                "Explicación"
+            ],
+            "answer": "Hacer (o Practicar)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué dice Jesús que es la condición para recibir lo que pedimos en oración (Mateo 21:22)?",
+            "options": [
+                "Llorar fuerte",
+                "Creer",
+                "Ayunar",
+                "Dar"
+            ],
+            "answer": "Creer"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la palabra griega para el amor fraternal y afectuoso, a menudo expresado a través de la comunión?",
+            "options": [
+                "Ágape",
+                "Eros",
+                "Philia",
+                "Storge"
+            ],
+            "answer": "Philia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué práctica espiritual implica cantar alabanzas y expresar reverencia a Dios en un entorno grupal?",
+            "options": [
+                "Adoración Corporativa",
+                "Soledad",
+                "Meditación",
+                "Estudio"
+            ],
+            "answer": "Adoración Corporativa"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la gestión cuidadosa y responsable de los recursos y talentos encomendados por Dios?",
+            "options": [
+                "Mayordomía",
+                "Generosidad",
+                "Administración",
+                "Dar"
+            ],
+            "answer": "Mayordomía"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué le dijo Jesús a Nicodemo que era necesario para que una persona viera el reino de Dios (Juan 3:3)?",
+            "options": [
+                "Ser bautizado",
+                "Obedecer la Ley",
+                "Nacer de nuevo (o de lo alto)",
+                "Orar constantemente"
+            ],
+            "answer": "Nacer de nuevo (o de lo alto)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es la práctica de repetir la Escritura en silencio o en voz alta para entenderla y ser convencido por ella?",
+            "options": [
+                "Lectura",
+                "Meditación",
+                "Estudio",
+                "Predicación"
+            ],
+            "answer": "Meditación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué instruye Pablo a los creyentes que se pongan para protegerse contra las artimañas del Diablo (Efesios 6:11)?",
+            "options": [
+                "Una coraza",
+                "Un escudo",
+                "Toda la armadura de Dios",
+                "Un yelmo"
+            ],
+            "answer": "Toda la armadura de Dios"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué parte de la armadura es la Palabra de Dios, usada tanto para la defensa como para el ataque (Efesios 6:17)?",
+            "options": [
+                "El Escudo de la Fe",
+                "La Coraza de la Justicia",
+                "El Cinturón de la Verdad",
+                "La Espada del Espíritu"
+            ],
+            "answer": "La Espada del Espíritu"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿A qué disciplina espiritual se retiraba Jesús a menudo antes de tomar decisiones importantes o enfrentar pruebas?",
+            "options": [
+                "Oración en Solitario",
+                "Ayuno",
+                "Predicación",
+                "Enseñanza"
+            ],
+            "answer": "Oración en Solitario"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es lo opuesto a la doble mente, contra lo cual Santiago advierte al pedir sabiduría a Dios?",
+            "options": [
+                "Valor",
+                "Humildad",
+                "Estabilidad (o Mentalidad Sencilla)",
+                "Audacia"
+            ],
+            "answer": "Estabilidad (o Mentalidad Sencilla)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cómo llama Jesús a sus seguidores que oyen la palabra de Dios y la guardan (Lucas 11:28)?",
+            "options": [
+                "Bienaventurados (o Felices)",
+                "Sabios",
+                "Poderosos",
+                "Perfectos"
+            ],
+            "answer": "Bienaventurados (o Felices)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el estado espiritual que permite al cristiano acercarse confiadamente al trono de Dios (Hebreos 4:16)?",
+            "options": [
+                "Humildad",
+                "Obediencia",
+                "Confianza (o Audacia)",
+                "Miedo"
+            ],
+            "answer": "Confianza (o Audacia)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué enseñó Jesús que era la clave para mover montañas, incluso una pequeña cantidad de ella (Mateo 17:20)?",
+            "options": [
+                "Fe como un grano de mostaza",
+                "Oración fuerte",
+                "Ayuno",
+                "Conocimiento"
+            ],
+            "answer": "Fe como un grano de mostaza"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina de examinar los motivos y acciones propios contra el estándar de las Escrituras?",
+            "options": [
+                "Autoexamen",
+                "Comparación",
+                "Estudio",
+                "Confesión"
+            ],
+            "answer": "Autoexamen"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué actitud debe acompañar la ofrenda cristiana, según 2 Corintios 9:7?",
+            "options": [
+                "Obligación",
+                "De mala gana",
+                "Alegría",
+                "Reluctancia"
+            ],
+            "answer": "Alegría"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es la práctica de cantar o recitar los Salmos y otros himnos como forma de devoción?",
+            "options": [
+                "Profecía",
+                "Predicación",
+                "Lectura (o Canto) del Salterio",
+                "Ayuno"
+            ],
+            "answer": "Lectura (o Canto) del Salterio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué parte de la armadura espiritual cubre el centro de nuestro ser, protegiendo nuestra integridad moral?",
+            "options": [
+                "El Escudo de la Fe",
+                "La Coraza de la Justicia",
+                "El Yelmo de la Salvación",
+                "El Cinturón de la Verdad"
+            ],
+            "answer": "La Coraza de la Justicia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué disciplina implica buscar consejo o advice de creyentes maduros para obtener guía?",
+            "options": [
+                "Estudio",
+                "Meditación",
+                "Rendición de Cuentas (o Consejería)",
+                "Soledad"
+            ],
+            "answer": "Rendición de Cuentas (o Consejería)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué hizo Jesús en la cruz para asegurar nuestro acceso a la presencia de Dios (Hebreos 10:19-20)?",
+            "options": [
+                "Dio dinero",
+                "Predicó",
+                "Rasgó el velo (abrió un camino nuevo)",
+                "Resucitó"
+            ],
+            "answer": "Rasgó el velo (abrió un camino nuevo)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el estado espiritual de estar vigilante y sobrio, en preparación para el regreso del Señor?",
+            "options": [
+                "Cel",
+                "Resistencia",
+                "Vigilancia (o Alerta)",
+                "Paciencia"
+            ],
+            "answer": "Vigilancia (o Alerta)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué instó Pablo a los cristianos a hacer \"sin cesar\" (1 Tesalonicenses 5:17)?",
+            "options": [
+                "Leer la Biblia",
+                "Orar",
+                "Ayunar",
+                "Dar dinero"
+            ],
+            "answer": "Orar"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la disciplina de expresar gracias y alabanza a Dios independientemente de las circunstancias?",
+            "options": [
+                "Gratitud",
+                "Humildad",
+                "Sumisión",
+                "Servicio"
+            ],
+            "answer": "Gratitud"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué ordenó Jesús a sus seguidores que hicieran con sus enemigos (Mateo 5:44)?",
+            "options": [
+                "Ignorarlos",
+                "Enfrentarlos",
+                "Amarlos y orar por ellos",
+                "Separarse de ellos"
+            ],
+            "answer": "Amarlos y orar por ellos"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué dice la Biblia que es necesario para que oigamos la voz de Dios en las Escrituras (Juan 10:27)?",
+            "options": [
+                "Inteligencia",
+                "Ser Sus ovejas",
+                "Ser profeta",
+                "Ser rico"
+            ],
+            "answer": "Ser Sus ovejas"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué dijo Jesús que era la clave para vencer la tentación, especialmente cuando Sus discípulos se durmieron (Marcos 14:38)?",
+            "options": [
+                "Pelear",
+                "Velar y Orar",
+                "Huir",
+                "Ayunar"
+            ],
+            "answer": "Velar y Orar"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es la disciplina de pasar tiempo en un lugar tranquilo y apartado para oír la voz de Dios sin interacción humana?",
+            "options": [
+                "Silencio",
+                "Estudio",
+                "Servicio",
+                "Canto"
+            ],
+            "answer": "Silencio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el vínculo común y el compartir entre creyentes, caracterizado por el cuidado mutuo y el amor (Hechos 2:42)?",
+            "options": [
+                "Comunión (o Koinonía)",
+                "Servicio",
+                "Ofrenda",
+                "Enseñanza"
+            ],
+            "answer": "Comunión (o Koinonía)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la función principal de la iglesia, según la Gran Comisión de Jesús?",
+            "options": [
+                "Construir edificios grandes",
+                "Hacer discípulos",
+                "Recaudar dinero",
+                "Organizar eventos sociales"
+            ],
+            "answer": "Hacer discípulos"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué rol de liderazgo se enfoca en el cuidado espiritual, la alimentación y la protección de la congregación (pastor)?",
+            "options": [
+                "Pastor (o Anciano)",
+                "Diácono",
+                "Maestro",
+                "Evangelista"
+            ],
+            "answer": "Pastor (o Anciano)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué rol de liderazgo se enfoca en el servicio práctico, la administración y la satisfacción de las necesidades físicas en la iglesia?",
+            "options": [
+                "Pastor",
+                "Diácono",
+                "Apóstol",
+                "Profeta"
+            ],
+            "answer": "Diácono"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el estado espiritual de vivir juntos en armonía, acuerdo y propósito compartido (Salmo 133)?",
+            "options": [
+                "Unidad",
+                "Obediencia",
+                "Autoridad",
+                "Separación"
+            ],
+            "answer": "Unidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la experiencia compartida de sufrir por causa de Cristo, que une a los creyentes?",
+            "options": [
+                "Aislamiento",
+                "Vergüenza",
+                "Persecución",
+                "Traición"
+            ],
+            "answer": "Persecución"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué dijo Jesús que sería la evidencia para el mundo de que los creyentes son verdaderamente Sus discípulos (Juan 13:35)?",
+            "options": [
+                "Sus milagros",
+                "Su riqueza",
+                "Su amor los unos por los otros",
+                "Su conocimiento"
+            ],
+            "answer": "Su amor los unos por los otros"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para el reconocimiento formal y el envío de trabajadores de la iglesia para esparcir el Evangelio?",
+            "options": [
+                "Misión (o Envío)",
+                "Ordenación",
+                "Bautismo",
+                "Enseñanza"
+            ],
+            "answer": "Misión (o Envío)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de ofrecer oraciones por las necesidades específicas de otros?",
+            "options": [
+                "Adoración",
+                "Confesión",
+                "Intercesión (o Súplica)",
+                "Meditación"
+            ],
+            "answer": "Intercesión (o Súplica)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el deber de los cristianos de compartir el mensaje del Evangelio con los no creyentes?",
+            "options": [
+                "Evangelismo",
+                "Enseñanza",
+                "Adoración",
+                "Comunión"
+            ],
+            "answer": "Evangelismo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es la práctica de acoger a extraños o invitados en el hogar propio (Hebreos 13:2)?",
+            "options": [
+                "Generosidad",
+                "Hospitalidad",
+                "Servicio",
+                "Diezmo"
+            ],
+            "answer": "Hospitalidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la característica central de una relación espiritual saludable (Fil. 2:3)?",
+            "options": [
+                "Interés propio",
+                "Altruismo (o Humildad)",
+                "Competencia",
+                "Autoridad"
+            ],
+            "answer": "Altruismo (o Humildad)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la práctica de restaurar a un hermano o hermana que peca con mansedumbre y humildad (Gálatas 6:1)?",
+            "options": [
+                "Juzgar",
+                "Separar",
+                "Restauración",
+                "Condenación"
+            ],
+            "answer": "Restauración"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la clave para resolver conflictos entre creyentes, según Mateo 18:15?",
+            "options": [
+                "Hacerlo público",
+                "Ignorarlo",
+                "Ir en privado al hermano",
+                "Llamar a la policía"
+            ],
+            "answer": "Ir en privado al hermano"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué responsabilidad financiera enfatiza la Biblia respecto a los pobres y vulnerables?",
+            "options": [
+                "Caridad (o Limosna)",
+                "Prestar",
+                "Invertir",
+                "Diezmar"
+            ],
+            "answer": "Caridad (o Limosna)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para un grupo de creyentes dedicados a la rendición de cuentas, el crecimiento y el compartir la vida?",
+            "options": [
+                "Grupo Pequeño (o Iglesia en Casa)",
+                "Corporación",
+                "Denominación",
+                "Concilio"
+            ],
+            "answer": "Grupo Pequeño (o Iglesia en Casa)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el método principal que usa Dios para entrenar y disciplinar a Sus hijos (Hebreos 12:6)?",
+            "options": [
+                "Castigo (o Disciplina)",
+                "Recompensa",
+                "Promoción",
+                "Aislamiento"
+            ],
+            "answer": "Castigo (o Disciplina)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué responsabilidad da la Biblia a los padres respecto a la crianza de sus hijos (Proverbios 22:6)?",
+            "options": [
+                "Provisión financiera",
+                "Educación",
+                "Instruirlos (o Enseñarles) en el camino que deben seguir",
+                "Entretenimiento"
+            ],
+            "answer": "Instruirlos (o Enseñarles) en el camino que deben seguir"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de corregir o urgir a alguien hacia un comportamiento justo?",
+            "options": [
+                "Perdón",
+                "Juicio",
+                "Exhortación",
+                "Sumisión"
+            ],
+            "answer": "Exhortación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término se usa para toda la comunidad de cristianos a través del tiempo y el espacio (Efesios 1:1)?",
+            "options": [
+                "Santos (o Santos)",
+                "Sacerdotes",
+                "Profetas",
+                "Apóstoles"
+            ],
+            "answer": "Santos (o Santos)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud cristiana es lo opuesto a jactarse y atribuirse el mérito de los logros propios?",
+            "options": [
+                "Fe",
+                "Humildad",
+                "Poder",
+                "Riqueza"
+            ],
+            "answer": "Humildad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el estado espiritual de los creyentes trabajando juntos efectivamente para un objetivo común?",
+            "options": [
+                "Sinergia (o Cooperación)",
+                "Competencia",
+                "Aislamiento",
+                "Sumisión"
+            ],
+            "answer": "Sinergia (o Cooperación)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe caracterizar la actitud de un siervo en la iglesia (Marcos 10:45)?",
+            "options": [
+                "Buscar poder",
+                "Buscar riquezas",
+                "Buscar servir a los demás",
+                "Buscar reconocimiento"
+            ],
+            "answer": "Buscar servir a los demás"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la acción espiritual de orar o cantar con un sonido fuerte y gozoso?",
+            "options": [
+                "Aclamación (o Grito)",
+                "Silencio",
+                "Confesión",
+                "Ayuno"
+            ],
+            "answer": "Aclamación (o Grito)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el medio principal de ánimo entre creyentes (Hebreos 10:25)?",
+            "options": [
+                "Escribir cartas",
+                "Dar regalos",
+                "Reunirse juntos",
+                "Orar solo"
+            ],
+            "answer": "Reunirse juntos"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la declaración formal de creencia aceptada por la iglesia?",
+            "options": [
+                "Credo",
+                "Ley",
+                "Doctrina",
+                "Historia"
+            ],
+            "answer": "Credo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la responsabilidad espiritual de las mujeres mayores hacia las más jóvenes (Tito 2:3-5)?",
+            "options": [
+                "Darles dinero",
+                "Enseñarles a amar a sus esposos e hijos",
+                "Hacer su trabajo",
+                "Juzgarlas"
+            ],
+            "answer": "Enseñarles a amar a sus esposos e hijos"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la ciudadanía última del cristiano (Filipenses 3:20)?",
+            "options": [
+                "Jerusalén",
+                "Roma",
+                "El cielo",
+                "La tierra"
+            ],
+            "answer": "El cielo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la persona que se mantiene al lado de un hermano o hermana en tiempos difíciles?",
+            "options": [
+                "Compañero (o Amigo)",
+                "Juez",
+                "Adversario",
+                "Extraño"
+            ],
+            "answer": "Compañero (o Amigo)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿En qué debe basarse el matrimonio cristiano, según Efesios 5:25, refiriéndose al amor de Cristo por la Iglesia?",
+            "options": [
+                "Interés mutuo",
+                "Amor Sacrificial",
+                "Estabilidad financiera",
+                "Pasatiempos compartidos"
+            ],
+            "answer": "Amor Sacrificial"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué tipo de relación con Dios es el fundamento para una comunidad espiritual saludable (Amós 3:3)?",
+            "options": [
+                "Rica",
+                "Poderosa",
+                "Acuerdo (o Armonía)",
+                "Independiente"
+            ],
+            "answer": "Acuerdo (o Armonía)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué llama Pablo a los creyentes a hacer con las cargas los unos de los otros (Gálatas 6:2)?",
+            "options": [
+                "Ignorarlas",
+                "Aumentarlas",
+                "Sobrellevar (o Cargar) las",
+                "Juzgarlas"
+            ],
+            "answer": "Sobrellevar (o Cargar) las"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de buscar esparcir el Evangelio a un lugar nuevo y no alcanzado?",
+            "options": [
+                "Pionero",
+                "Colono",
+                "Maestro",
+                "Pastor"
+            ],
+            "answer": "Pionero"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe poder hacer un líder de la iglesia efectivamente, según 1 Timoteo 3:2?",
+            "options": [
+                "Hacer milagros",
+                "Hablar en lenguas",
+                "Enseñar",
+                "Ser rico"
+            ],
+            "answer": "Enseñar"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la estructura u organización del liderazgo de la iglesia local?",
+            "options": [
+                "Gobierno Eclesiástico",
+                "Doctrina",
+                "Canon",
+                "Historia"
+            ],
+            "answer": "Gobierno Eclesiástico"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la principal arma contra el Diablo, según Santiago 4:7?",
+            "options": [
+                "Espadas",
+                "Dinero",
+                "Resistencia (sometiéndose a Dios)",
+                "Ayuno"
+            ],
+            "answer": "Resistencia (sometiéndose a Dios)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de separarse de las prácticas mundanas para dedicarse completamente a Dios?",
+            "options": [
+                "Aislamiento",
+                "Bautismo",
+                "Consagración",
+                "Justificación"
+            ],
+            "answer": "Consagración"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para el alimento espiritual que nutre y sostiene el cuerpo de Cristo?",
+            "options": [
+                "Palabra",
+                "Pan",
+                "Agua",
+                "Vino"
+            ],
+            "answer": "Palabra"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué debe hacerse en todo, según Colosenses 3:17, cuando se trabaja para el Señor?",
+            "options": [
+                "Hacerlo en el nombre del Señor Jesús",
+                "Hacerlo con gran fanfarria",
+                "Hacerlo perfectamente",
+                "Hacerlo solo"
+            ],
+            "answer": "Hacerlo en el nombre del Señor Jesús"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el estado espiritual de dependencia de Dios y de los demás, en lugar de la autosuficiencia?",
+            "options": [
+                "Interdependencia",
+                "Independencia",
+                "Confianza",
+                "Autosuficiencia"
+            ],
+            "answer": "Interdependencia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término se refiere al estado final de bienaventuranza para los redimidos en Cristo, viviendo con Él para siempre?",
+            "options": [
+                "Santificación",
+                "Resurrección",
+                "Gloria",
+                "Juicio"
+            ],
+            "answer": "Gloria"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué pieza espiritual de la armadura se usa para apagar todos los dardos de fuego del enemigo (Efesios 6:16)?",
+            "options": [
+                "Yelmo de la Salvación",
+                "Escudo de la Fe",
+                "Coraza de la Justicia",
+                "Espada del Espíritu"
+            ],
+            "answer": "Escudo de la Fe"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el tiempo de gran tribulación y sufrimiento antes del regreso final de Cristo?",
+            "options": [
+                "Tribulación",
+                "Milenio",
+                "Juicio",
+                "Redención"
+            ],
+            "answer": "Tribulación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué pieza espiritual de la armadura protege la mente y la forma de pensar del creyente (Efesios 6:17)?",
+            "options": [
+                "Escudo de la Fe",
+                "Coraza de la Justicia",
+                "Yelmo de la Salvación",
+                "Cinturón de la Verdad"
+            ],
+            "answer": "Yelmo de la Salvación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué pieza espiritual de la armadura representa la disposición para proclamar el Evangelio de la Paz (Efesios 6:15)?",
+            "options": [
+                "El Cinturón de la Verdad",
+                "La Coraza",
+                "El Escudo",
+                "Los Zapatos (Pies)"
+            ],
+            "answer": "Los Zapatos (Pies)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para el castigo final y eterno para los no redimidos (Mateo 25:46)?",
+            "options": [
+                "Perdición",
+                "Purgatorio",
+                "Aislamiento",
+                "Sueño"
+            ],
+            "answer": "Perdición"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el futuro regreso físico de Cristo a la Tierra con poder y gloria?",
+            "options": [
+                "Segunda Venida (o Advenimiento)",
+                "Rapto",
+                "Ascensión",
+                "Encarnación"
+            ],
+            "answer": "Segunda Venida (o Advenimiento)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término teológico describe el tribunal de Cristo para que los creyentes reciban recompensas por su servicio?",
+            "options": [
+                "Tribunal de Cristo",
+                "Gran Trono Blanco",
+                "Sala del Juicio",
+                "Altar"
+            ],
+            "answer": "Tribunal de Cristo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la batalla final entre las fuerzas del bien y del mal (Apocalipsis 16:16)?",
+            "options": [
+                "Las Cruzadas",
+                "Armagedón",
+                "Día D",
+                "La Gran Guerra"
+            ],
+            "answer": "Armagedón"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el lugar de comunión y presencia eterna con Dios?",
+            "options": [
+                "Cielo",
+                "Paraíso",
+                "Nueva Tierra",
+                "Sión"
+            ],
+            "answer": "Cielo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué acción se toma contra el Diablo cuando hace acusaciones contra los creyentes (Zacarías 3:2)?",
+            "options": [
+                "Perdonarlo",
+                "Ignorarlo",
+                "Reprenderlo (en el nombre del Señor)",
+                "Orar a él"
+            ],
+            "answer": "Reprenderlo (en el nombre del Señor)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué arma espiritual se describe como penetrante hasta la división del alma y del espíritu (Hebreos 4:12)?",
+            "options": [
+                "La Palabra de Dios",
+                "La Oración",
+                "El Ayuno",
+                "El Amor"
+            ],
+            "answer": "La Palabra de Dios"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para el principal enemigo del alma cristiana, el engañador del mundo?",
+            "options": [
+                "Satanás (o Diablo)",
+                "El hombre",
+                "La carne",
+                "El mundo"
+            ],
+            "answer": "Satanás (o Diablo)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el acto de mantenerse firme contra el engaño del enemigo?",
+            "options": [
+                "Firmeza",
+                "Retirada",
+                "Negociación",
+                "Rendición"
+            ],
+            "answer": "Firmeza"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la recompensa última para los creyentes que han vivido fielmente (2 Timoteo 4:8)?",
+            "options": [
+                "Corona",
+                "Riquezas",
+                "Poder",
+                "Trono"
+            ],
+            "answer": "Corona"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término se refiere a los seres angelicales que principalmente sirven a Dios y ministran a los creyentes?",
+            "options": [
+                "Ángeles",
+                "Querubines",
+                "Serafines",
+                "Ancianos"
+            ],
+            "answer": "Ángeles"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué concepto espiritual es el antídoto para el miedo a la muerte del creyente (1 Cor. 15:54)?",
+            "options": [
+                "Escape",
+                "Paz",
+                "Victoria",
+                "Silencio"
+            ],
+            "answer": "Victoria"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la morada final y perfecta de Dios y los redimidos (Apocalipsis 21)?",
+            "options": [
+                "Cielo Nuevo y Tierra Nueva (o Ciudad Santa)",
+                "Jardín del Edén",
+                "Purgatorio",
+                "Nube"
+            ],
+            "answer": "Cielo Nuevo y Tierra Nueva (o Ciudad Santa)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término teológico para el proceso de ser juzgado por la vida y las obras de uno?",
+            "options": [
+                "Juicio",
+                "Evaluación",
+                "Condenación",
+                "Reconciliación"
+            ],
+            "answer": "Juicio"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué les dijo Jesús a los discípulos sobre el momento específico de Su regreso (Hechos 1:7)?",
+            "options": [
+                "Es conocido por todos",
+                "Es conocido por los apóstoles",
+                "No les correspondía a ellos saberlo",
+                "Será el próximo año"
+            ],
+            "answer": "No les correspondía a ellos saberlo"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué arma espiritual se usa para derribar argumentos y altiveces (2 Corintios 10:4)?",
+            "options": [
+                "Fuerza humana",
+                "La Palabra de Dios (Armas Espirituales)",
+                "Dinero",
+                "Miedo"
+            ],
+            "answer": "La Palabra de Dios (Armas Espirituales)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el estado final de perfección y renovación corporal para los creyentes?",
+            "options": [
+                "Inmortalidad",
+                "Enfermedad",
+                "Decaimiento",
+                "Mortalidad"
+            ],
+            "answer": "Inmortalidad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe el principio espiritual de recibir de vuelta lo que uno ha dado (Gálatas 6:7)?",
+            "options": [
+                "Siembra y Cosecha",
+                "Diezmo",
+                "Generosidad",
+                "Trabajo"
+            ],
+            "answer": "Siembra y Cosecha"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la ceguera espiritual o dureza que puede afectar el corazón humano?",
+            "options": [
+                "Dureza",
+                "Debilidad",
+                "Conocimiento",
+                "Perspicacia"
+            ],
+            "answer": "Dureza"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la remoción de la iglesia de Cristo de la Tierra antes de la Tribulación (una visión específica)?",
+            "options": [
+                "Rapto",
+                "Segunda Venida",
+                "Ascensión",
+                "Resurrección"
+            ],
+            "answer": "Rapto"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para el evento final y culminante que inicia el estado eterno?",
+            "options": [
+                "Consumación",
+                "Principio",
+                "Mitad",
+                "Retraso"
+            ],
+            "answer": "Consumación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el propósito de las pruebas y tribulaciones que enfrentan los creyentes (Santiago 1:3)?",
+            "options": [
+                "Hacerlos tristes",
+                "Producir perseverancia (o resistencia)",
+                "Hacerlos ricos",
+                "Hacerlos famosos"
+            ],
+            "answer": "Producir perseverancia (o resistencia)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud debe caracterizar la actitud del cristiano hacia la inevitable venida del Señor?",
+            "options": [
+                "Vigilancia (o Preparación)",
+                "Miedo",
+                "Complacencia",
+                "Ignorancia"
+            ],
+            "answer": "Vigilancia (o Preparación)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término se refiere a la presión constante o atracción para pecar?",
+            "options": [
+                "Tentación",
+                "Pecado",
+                "Mal",
+                "Problema"
+            ],
+            "answer": "Tentación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es la acción espiritual de ceder la voluntad y los deseos personales a la voluntad de Dios?",
+            "options": [
+                "Sumisión (o Rendición)",
+                "Control",
+                "Poder",
+                "Riqueza"
+            ],
+            "answer": "Sumisión (o Rendición)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la lucha espiritual contra el pecado que los creyentes enfrentan a lo largo de la vida?",
+            "options": [
+                "Lucha (o Guerra)",
+                "Paz",
+                "Descanso",
+                "Silencio"
+            ],
+            "answer": "Lucha (o Guerra)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la certeza de recibir lo que Dios ha prometido?",
+            "options": [
+                "Seguridad",
+                "Esperanza",
+                "Deseo",
+                "Suposición"
+            ],
+            "answer": "Seguridad"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es la fuente última de toda verdad, que derrota las mentiras del Diablo?",
+            "options": [
+                "Dios (o Cristo)",
+                "El hombre",
+                "La naturaleza",
+                "La ley"
+            ],
+            "answer": "Dios (o Cristo)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué estado espiritual es lo opuesto a la oscuridad y el engaño mundano (Juan 8:12)?",
+            "options": [
+                "Luz",
+                "Sombra",
+                "Noche",
+                "Ignorancia"
+            ],
+            "answer": "Luz"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué enseña Jesús que será la característica de los falsos profetas, haciéndolos reconocibles?",
+            "options": [
+                "Su riqueza",
+                "Su elocuencia",
+                "Su Fruto",
+                "Su ropa"
+            ],
+            "answer": "Su Fruto"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué virtud es esencial para superar tentaciones y pruebas (Santiago 4:7)?",
+            "options": [
+                "Resistencia",
+                "Huida",
+                "Negociación",
+                "Rendición"
+            ],
+            "answer": "Resistencia"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué término describe la restauración final y la reconciliación de todas las cosas en Cristo (Colosenses 1:20)?",
+            "options": [
+                "Renovación (o Reconciliación)",
+                "Destrucción",
+                "Fin",
+                "Caos"
+            ],
+            "answer": "Renovación (o Reconciliación)"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Cuál es el estado último de los justos después de la resurrección?",
+            "options": [
+                "Vida Eterna",
+                "Purgatorio",
+                "Extinción",
+                "Sueño"
+            ],
+            "answer": "Vida Eterna"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué es el término para la lucha espiritual continua y constante contra el pecado en la vida del creyente?",
+            "options": [
+                "Mortificación",
+                "Justificación",
+                "Glorificación",
+                "Adopción"
+            ],
+            "answer": "Mortificación"
+        },
+        {
+            "topic": "Vida Cristiana",
+            "question": "¿Qué describe la Biblia como una prueba temporal, que produce perseverancia y madurez?",
+            "options": [
+                "Prueba (o Test)",
+                "Bendición",
+                "Recompensa",
+                "Suerte"
+            ],
+            "answer": "Prueba (o Test)"
+        }
+    ]
+}

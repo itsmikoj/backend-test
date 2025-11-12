@@ -1,0 +1,895 @@
+{
+    "questions": [
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Por qué evento bíblico significativo es principalmente conocido Belén?",
+            "options": [
+                "La coronación del rey David",
+                "El lugar de nacimiento de Jesús",
+                "El lugar donde se recibieron los 10 Mandamientos",
+                "Donde Jesús dio el Sermón del Monte"
+            ],
+            "answer": "El lugar de nacimiento de Jesús"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué evento dramático tuvo lugar en el Mar Rojo involucrando a Moisés y los israelitas?",
+            "options": [
+                "Los israelitas libraron una gran batalla allí",
+                "El pueblo se detuvo durante cuarenta años",
+                "El mar fue milagrosamente convertido en sangre",
+                "Dios partió las aguas para que cruzaran"
+            ],
+            "answer": "Dios partió las aguas para que cruzaran"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad rodearon los israelitas durante siete días antes de que sus murallas cayeran milagrosamente?",
+            "options": [
+                "Babilonia",
+                "Jericó",
+                "Jerusalén",
+                "Samaria"
+            ],
+            "answer": "Jericó"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del huerto donde Jesús oró intensamente antes de su arresto?",
+            "options": [
+                "El Huerto del Edén",
+                "El Huerto de Getsemaní",
+                "El Huerto de los Olivos",
+                "El Huerto de Sarón"
+            ],
+            "answer": "El Huerto de Getsemaní"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué monte recibió Moisés los Diez Mandamientos?",
+            "options": [
+                "Monte de los Olivos",
+                "Monte Tabor",
+                "Monte Hermón",
+                "Monte Sinaí (o Horeb)"
+            ],
+            "answer": "Monte Sinaí (o Horeb)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué ciudad realizó Jesús su primer milagro, convirtiendo el agua en vino?",
+            "options": [
+                "Belén",
+                "Caná",
+                "Nazaret",
+                "Jerusalén"
+            ],
+            "answer": "Caná"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del lugar donde Jesús fue crucificado?",
+            "options": [
+                "Capernaúm",
+                "Belén",
+                "Gólgota (o Calvario)",
+                "Nazaret"
+            ],
+            "answer": "Gólgota (o Calvario)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué evento significativo en la vida de Pablo ocurrió en el camino a Damasco?",
+            "options": [
+                "Fue arrestado",
+                "Conoció a Pedro",
+                "Quedó ciego y se convirtió",
+                "Predicó su primer sermón"
+            ],
+            "answer": "Quedó ciego y se convirtió"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "La Torre de Babel fue construida en la tierra de Sinar con la intención de alcanzar ¿qué?",
+            "options": [
+                "El Cielo",
+                "Un refugio seguro del diluvio",
+                "El Palacio del Rey",
+                "El mar"
+            ],
+            "answer": "El Cielo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde descansó finalmente el Arca de Noé después del Gran Diluvio?",
+            "options": [
+                "Monte Sion",
+                "Monte Carmelo",
+                "Montes de Ararat",
+                "Monte Hermón"
+            ],
+            "answer": "Montes de Ararat"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "Las ciudades de Sodoma y Gomorra fueron destruidas por Dios debido a su gran maldad con ¿qué?",
+            "options": [
+                "Un gran diluvio",
+                "Fuego y azufre",
+                "Un masivo terremoto",
+                "Una plaga"
+            ],
+            "answer": "Fuego y azufre"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del río donde Juan el Bautista bautizaba a la gente, incluido Jesús?",
+            "options": [
+                "Río Éufrates",
+                "Río Nilo",
+                "Río Jordán",
+                "Río Tigris"
+            ],
+            "answer": "Río Jordán"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué gran ciudad se negó Jonás a predicar, lo que llevó a que fuera tragado por un gran pez?",
+            "options": [
+                "Jerusalén",
+                "Nínive",
+                "Babilonia",
+                "Tiro"
+            ],
+            "answer": "Nínive"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué pueblo creció Jesús después de regresar de Egipto?",
+            "options": [
+                "Belén",
+                "Jerusalén",
+                "Nazaret",
+                "Capernaúm"
+            ],
+            "answer": "Nazaret"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué ubicación pronunció el Apóstol Pablo su famoso discurso sobre el 'Dios Desconocido'?",
+            "options": [
+                "Éfeso",
+                "Atenas (Areópago)",
+                "Roma",
+                "Corinto"
+            ],
+            "answer": "Atenas (Areópago)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde pronunció Jesús el Sermón del Monte, que contiene las Bienaventuranzas?",
+            "options": [
+                "En el Monte de los Olivos",
+                "En la orilla del Mar de Galilea",
+                "Una ladera (o monte) cerca de Capernaúm",
+                "En los atrios del Templo"
+            ],
+            "answer": "Una ladera (o monte) cerca de Capernaúm"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad estableció el rey David como la capital de su reino?",
+            "options": [
+                "Hebrón",
+                "Jericó",
+                "Jerusalén",
+                "Samaria"
+            ],
+            "answer": "Jerusalén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué evento milagroso ocurrió en el Día de Pentecostés en Jerusalén?",
+            "options": [
+                "Un nuevo rey fue coronado",
+                "El Espíritu Santo descendió sobre los apóstoles",
+                "Un masivo terremoto sacudió la ciudad",
+                "Jesús ascendió al cielo"
+            ],
+            "answer": "El Espíritu Santo descendió sobre los apóstoles"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era la estructura física construida para albergar el Arca del Pacto durante las andanzas de Israel en el desierto?",
+            "options": [
+                "El Templo",
+                "El Tabernáculo",
+                "La Sinagoga",
+                "El Santuario"
+            ],
+            "answer": "El Tabernáculo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Sobre qué cuerpo de agua caminó Jesús durante una tormenta para alcanzar a sus discípulos?",
+            "options": [
+                "El Mar Mediterráneo",
+                "El Mar Muerto",
+                "El Mar de Galilea (o Tiberíades)",
+                "El Mar Rojo"
+            ],
+            "answer": "El Mar de Galilea (o Tiberíades)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué isla fue exiliado el Apóstol Juan, donde escribió el Libro de Apocalipsis?",
+            "options": [
+                "Creta",
+                "Chipre",
+                "Patmos",
+                "Malta"
+            ],
+            "answer": "Patmos"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del valle donde David derrotó al gigante Goliat?",
+            "options": [
+                "Valle de Jezreel",
+                "Valle de la Decisión",
+                "Valle de Ela",
+                "Valle de los Reyes"
+            ],
+            "answer": "Valle de Ela"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué profeta fue arrojado a un foso de leones en la ciudad de Babilonia?",
+            "options": [
+                "Jeremías",
+                "Elías",
+                "Daniel",
+                "Ezequiel"
+            ],
+            "answer": "Daniel"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué lugar específico en el Templo se rasgó el velo en dos cuando Jesús murió?",
+            "options": [
+                "El Atrio de los Gentiles",
+                "El Lugar Santo",
+                "El Lugar Santísimo (Santo de los Santos)",
+                "La Tesorería"
+            ],
+            "answer": "El Lugar Santísimo (Santo de los Santos)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del estanque en Jerusalén donde Jesús sanó a un hombre que había estado enfermo durante 38 años?",
+            "options": [
+                "Estanque de Siloé",
+                "Estanque de Betesda",
+                "Estanque de Gihón",
+                "Estanque de Ezequías"
+            ],
+            "answer": "Estanque de Betesda"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál fue la primera ciudad que los israelitas atacaron y conquistaron al entrar en la Tierra Prometida?",
+            "options": [
+                "Jerusalén",
+                "Hebrón",
+                "Jericó",
+                "Hai"
+            ],
+            "answer": "Jericó"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué antiguo reino se le prohibió a Moisés entrar por Dios, solo pudiendo verlo desde el Monte Nebo?",
+            "options": [
+                "Egipto",
+                "Moab",
+                "La Tierra Prometida (Canaán)",
+                "Asiria"
+            ],
+            "answer": "La Tierra Prometida (Canaán)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "La ciudad de Éfeso fue hogar de un gran templo dedicado a ¿qué diosa griega?",
+            "options": [
+                "Atenea",
+                "Afrodita",
+                "Artemisa (Diana)",
+                "Hera"
+            ],
+            "answer": "Artemisa (Diana)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del Monte donde Jesús ascendió al cielo?",
+            "options": [
+                "Monte Sinaí",
+                "Monte Hermón",
+                "Monte de los Olivos",
+                "Monte Carmelo"
+            ],
+            "answer": "Monte de los Olivos"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál fue el recurso principal encontrado cuando los israelitas se quejaron de hambre en el desierto?",
+            "options": [
+                "Pescado y agua",
+                "Maná y Codornices",
+                "Dátiles e higos",
+                "Aceite y vino"
+            ],
+            "answer": "Maná y Codornices"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué región viajaban Jesús y sus discípulos cuando la mujer con el flujo de sangre tocó su manto?",
+            "options": [
+                "Judea",
+                "Samaria",
+                "Galilea",
+                "Decápolis"
+            ],
+            "answer": "Galilea"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde nació el Apóstol Pablo?",
+            "options": [
+                "Jerusalén",
+                "Tarso",
+                "Corinto",
+                "Roma"
+            ],
+            "answer": "Tarso"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la tierra prometida por Dios a Abraham y sus descendientes?",
+            "options": [
+                "Mesopotamia",
+                "Gosén",
+                "Canaán",
+                "Babel"
+            ],
+            "answer": "Canaán"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué evento clave ocurrió en la puerta de la ciudad de Belén, involucrando a Rut y Booz?",
+            "options": [
+                "Una batalla con los filisteos",
+                "Booz tomó públicamente a Rut como su esposa",
+                "Rut conoció a la familia de Noemí",
+                "El rey David fue ungido en secreto"
+            ],
+            "answer": "Booz tomó públicamente a Rut como su esposa"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ubicación se conoce como \"Armagedón\" en el Libro de Apocalipsis?",
+            "options": [
+                "El Valle de la Decisión",
+                "Monte Meguido (o Har Meguido)",
+                "El Río Éufrates",
+                "Monte Sion"
+            ],
+            "answer": "Monte Meguido (o Har Meguido)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la ciudad donde los creyentes fueron llamados por primera vez \"cristianos\"?",
+            "options": [
+                "Jerusalén",
+                "Antioquía",
+                "Roma",
+                "Corinto"
+            ],
+            "answer": "Antioquía"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde desafió Elías famosamente a los profetas de Baal a un concurso de fuego?",
+            "options": [
+                "Monte Sinaí",
+                "Monte Horeb",
+                "Monte Carmelo",
+                "Monte Sion"
+            ],
+            "answer": "Monte Carmelo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué cuerpo de agua conecta el Río Jordán con el Golfo de Aqaba (Mar Rojo) y es conocido por su alto contenido de sal?",
+            "options": [
+                "Mar de Galilea",
+                "Mar Muerto",
+                "Mar Grande (Mediterráneo)",
+                "Lago Hula"
+            ],
+            "answer": "Mar Muerto"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál fue la ubicación de la visión donde Dios llamó a Isaías a ser profeta?",
+            "options": [
+                "En el desierto",
+                "Junto al Río Quebar",
+                "En el Templo",
+                "En el Monte Sinaí"
+            ],
+            "answer": "En el Templo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "La Transfiguración de Jesús tuvo lugar en un monte alto, a menudo identificado tradicionalmente como ¿qué?",
+            "options": [
+                "Monte Hermón",
+                "Monte Tabor",
+                "Monte de los Olivos",
+                "Monte Moriah"
+            ],
+            "answer": "Monte Tabor"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué ciudad fue mandado el Apóstol Pedro por Dios, lo que llevó a la conversión de Cornelio, un gentil?",
+            "options": [
+                "Jope",
+                "Cesarea",
+                "Roma",
+                "Antioquía"
+            ],
+            "answer": "Cesarea"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del desierto donde los israelitas vagaron durante cuarenta años?",
+            "options": [
+                "Desierto de Shur",
+                "Desierto de Zin",
+                "Desierto de Parán",
+                "Desierto de Sin (o Sinaí)"
+            ],
+            "answer": "Desierto de Sin (o Sinaí)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad fue la ubicación principal para el ministerio de Jesús en Galilea, a menudo llamada \"su propia ciudad\"?",
+            "options": [
+                "Nazaret",
+                "Caná",
+                "Capernaúm",
+                "Tiberíades"
+            ],
+            "answer": "Capernaúm"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "La ciudad de Filipos, donde Pablo y Silas fueron encarcelados, estaba ubicada en ¿qué antigua región?",
+            "options": [
+                "Asia Menor",
+                "Grecia (Macedonia)",
+                "Italia",
+                "Judea"
+            ],
+            "answer": "Grecia (Macedonia)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál fue el evento donde el Espíritu Santo permitió a los discípulos hablar en los idiomas nativos de personas de muchas naciones?",
+            "options": [
+                "La Ascensión",
+                "Pentecostés",
+                "La Transfiguración",
+                "La Última Cena"
+            ],
+            "answer": "Pentecostés"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué río se le ordenó al general sirio Naamán sumergirse siete veces para ser curado de la lepra?",
+            "options": [
+                "Río Jordán",
+                "Río Abana",
+                "Río Farfar",
+                "Río Nilo"
+            ],
+            "answer": "Río Jordán"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde enfrentó el Apóstol Pablo una severa oposición y sufrió un naufragio?",
+            "options": [
+                "Patmos",
+                "Malta",
+                "Creta",
+                "Chipre"
+            ],
+            "answer": "Malta"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del estanque en Jerusalén al que Jesús le dijo al ciego que se lavara para recibir la vista?",
+            "options": [
+                "Estanque de Betesda",
+                "Estanque de Siloé",
+                "Estanque de Gihón",
+                "Estanque de Ezequías"
+            ],
+            "answer": "Estanque de Siloé"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué pasaje famoso predicó Jesús en la ladera de una montaña, comenzando con las Bienaventuranzas?",
+            "options": [
+                "La Oración del Señor",
+                "El Sermón del Monte",
+                "El Discurso del Monte de los Olivos",
+                "La Gran Comisión"
+            ],
+            "answer": "El Sermón del Monte"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Dónde cruzaron los israelitas el Río Jordán para entrar a la Tierra Prometida, bajo el liderazgo de Josué?",
+            "options": [
+                "En Jericó",
+                "Cerca del Mar Muerto",
+                "Frente a Jericó",
+                "En el Mar de Galilea"
+            ],
+            "answer": "Frente a Jericó"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad era conocida por el templo de la diosa Artemisa, que causó un gran motín contra Pablo?",
+            "options": [
+                "Corinto",
+                "Filipos",
+                "Éfeso",
+                "Atenas"
+            ],
+            "answer": "Éfeso"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "El profeta Elías fue alimentado por cuervos mientras se escondía junto a ¿qué arroyo específico?",
+            "options": [
+                "Arroyo Cedrón",
+                "Arroyo Querit",
+                "Río Jordán",
+                "Arroyo Besor"
+            ],
+            "answer": "Arroyo Querit"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad fue el destino principal de muchas de las cartas (epístolas) del Apóstol Pablo?",
+            "options": [
+                "Roma",
+                "Corinto",
+                "Tesalónica",
+                "Todas las anteriores"
+            ],
+            "answer": "Todas las anteriores"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué evento en la vida de Jesús se celebra el Domingo de Ramos, marcando su entrada en Jerusalén?",
+            "options": [
+                "La Última Cena",
+                "La Entrada Triunfal",
+                "La Limpieza del Templo",
+                "La Resurrección de Lázaro"
+            ],
+            "answer": "La Entrada Triunfal"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la ciudad de donde Abraham fue llamado por Dios para dejar a su familia e ir a una nueva tierra?",
+            "options": [
+                "Ur de los caldeos",
+                "Harán",
+                "Betel",
+                "Siquem"
+            ],
+            "answer": "Ur de los caldeos"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué estructura significativa fue construida por el rey Salomón en el Monte Moriah en Jerusalén?",
+            "options": [
+                "El Palacio de David",
+                "El Primer Templo",
+                "Las Murallas de la Ciudad",
+                "La Torre de David"
+            ],
+            "answer": "El Primer Templo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la isla donde Pablo fue mordido por una víbora, pero no sufrió daño?",
+            "options": [
+                "Creta",
+                "Malta",
+                "Chipre",
+                "Patmos"
+            ],
+            "answer": "Malta"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué sitio, cerca del Mar Rojo, es identificado tradicionalmente como la ubicación donde Dios estableció un pacto con Israel?",
+            "options": [
+                "Mara",
+                "Elim",
+                "Refidim",
+                "Monte Sinaí"
+            ],
+            "answer": "Monte Sinaí"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Sobre qué ciudad lloró Jesús, prediciendo su destrucción?",
+            "options": [
+                "Betania",
+                "Nazaret",
+                "Capernaúm",
+                "Jerusalén"
+            ],
+            "answer": "Jerusalén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué ciudad nació el rey David?",
+            "options": [
+                "Jerusalén",
+                "Hebrón",
+                "Belén",
+                "Nazaret"
+            ],
+            "answer": "Belén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "El primer sermón cristiano, registrado en el Libro de los Hechos, fue predicado en ¿qué ciudad?",
+            "options": [
+                "Antioquía",
+                "Jerusalén",
+                "Roma",
+                "Samaria"
+            ],
+            "answer": "Jerusalén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la cadena montañosa donde finalmente aterrizó el Arca de Noé?",
+            "options": [
+                "Monte Carmelo",
+                "Monte Sion",
+                "Montes de Ararat",
+                "Monte Nebo"
+            ],
+            "answer": "Montes de Ararat"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "La ciudad de Corinto fue famosa por los Juegos Ístmicos y fue la destinataria de dos cartas importantes de ¿qué Apóstol?",
+            "options": [
+                "Pedro",
+                "Juan",
+                "Pablo",
+                "Santiago"
+            ],
+            "answer": "Pablo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué ciudad romana viajó y predicó el Apóstol Pablo, para luego ser ejecutado allí?",
+            "options": [
+                "Éfeso",
+                "Corinto",
+                "Roma",
+                "Antioquía"
+            ],
+            "answer": "Roma"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la tierra donde Caín se estableció después de ser expulsado por Dios por asesinar a Abel?",
+            "options": [
+                "Edén",
+                "Nod",
+                "Sinar",
+                "Canaán"
+            ],
+            "answer": "Nod"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del huerto donde Adán y Eva fueron colocados por Dios?",
+            "options": [
+                "Huerto de Getsemaní",
+                "Huerto del Edén",
+                "Huerto de los Olivos",
+                "Huerto de Sarón"
+            ],
+            "answer": "Huerto del Edén"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "El sitio de la batalla final mencionado en el Libro de Apocalipsis se conoce como ¿qué?",
+            "options": [
+                "Meguido (Armagedón)",
+                "Babilonia",
+                "Jerusalén",
+                "Damasco"
+            ],
+            "answer": "Meguido (Armagedón)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la ciudad que se convirtió en la capital del Reino del Norte de Israel?",
+            "options": [
+                "Jerusalén",
+                "Hebrón",
+                "Samaria",
+                "Betel"
+            ],
+            "answer": "Samaria"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué río fluía del Jardín del Edén y se dividía en cuatro ríos separados?",
+            "options": [
+                "El Nilo",
+                "El Tigris",
+                "El Éufrates",
+                "El Pisón"
+            ],
+            "answer": "El Pisón"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿En qué ubicación se detuvo el milagro del maná, después de que los israelitas cruzaron el Río Jordán?",
+            "options": [
+                "Monte Sinaí",
+                "Gilgal",
+                "Jericó",
+                "Moab"
+            ],
+            "answer": "Gilgal"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué ciudad, conocida por su adoración de ídolos, fue el sitio del gran concurso de Elías con los profetas de Baal?",
+            "options": [
+                "Tiro",
+                "Jezreel",
+                "Samaria",
+                "Monte Carmelo"
+            ],
+            "answer": "Monte Carmelo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre de la ciudad portuaria desde donde Jonás intentó huir de Dios navegando a Tarsis?",
+            "options": [
+                "Tiro",
+                "Jope",
+                "Sidón",
+                "Cesarea"
+            ],
+            "answer": "Jope"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿A qué ciudad viajaba Pablo cuando encontró una luz brillante y la voz de Jesús, lo que llevó a su conversión?",
+            "options": [
+                "Jerusalén",
+                "Damasco",
+                "Antioquía",
+                "Roma"
+            ],
+            "answer": "Damasco"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué famoso lago es conocido alternativamente como el Mar de Genesaret o Mar de Tiberíades?",
+            "options": [
+                "Mar Muerto",
+                "Mar de Galilea",
+                "Mar Rojo",
+                "Lago Hula"
+            ],
+            "answer": "Mar de Galilea"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál era el nombre del monte donde el Templo fue reconstruido por Zorobabel después del exilio babilónico?",
+            "options": [
+                "Monte Sion",
+                "Monte Moriah",
+                "Monte de los Olivos",
+                "Monte Nebo"
+            ],
+            "answer": "Monte Moriah"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué estructura fue el sitio de la vida espiritual del pueblo judío, que fue destruida por los romanos en el 70 d.C.?",
+            "options": [
+                "El Tabernáculo",
+                "La Sinagoga",
+                "El Templo (Segundo)",
+                "El Muro Occidental"
+            ],
+            "answer": "El Templo (Segundo)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Cuál fue la razón principal de la destrucción de Sodoma y Gomorra?",
+            "options": [
+                "Hambruna",
+                "Maldad moral (pecado)",
+                "Guerra",
+                "Terremoto"
+            ],
+            "answer": "Maldad moral (pecado)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué mar cruzaron los israelitas, con el ejército egipcio ahogándose detrás de ellos?",
+            "options": [
+                "Mar de Galilea",
+                "Mar Muerto",
+                "Mar Rojo",
+                "Mar Mediterráneo"
+            ],
+            "answer": "Mar Rojo"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué monte es identificado tradicionalmente como el lugar donde Abraham estuvo preparado para sacrificar a Isaac?",
+            "options": [
+                "Monte Nebo",
+                "Monte Moriah",
+                "Monte Sion",
+                "Monte Tabor"
+            ],
+            "answer": "Monte Moriah"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "¿Qué área fue el destino del Éxodo, donde los israelitas finalmente se establecieron?",
+            "options": [
+                "La Tierra Prometida (Canaán)",
+                "Egipto",
+                "Babilonia",
+                "Asiria"
+            ],
+            "answer": "La Tierra Prometida (Canaán)"
+        },
+        {
+            "topic": "Lugares y Eventos",
+            "question": "El milagro de la alimentación de los 5,000 tuvo lugar cerca de ¿qué cuerpo de agua principal?",
+            "options": [
+                "El Mar Mediterráneo",
+                "El Mar Muerto",
+                "El Mar de Galilea",
+                "El Mar Rojo"
+            ],
+            "answer": "El Mar de Galilea"
+        }
+    ]
+}

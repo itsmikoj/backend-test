@@ -1,0 +1,685 @@
+{
+    "questions": [
+        {
+            "topic": "Places & Events",
+            "question": "What significant biblical event is Bethlehem primarily known for?",
+            "options": [
+                "The crowning of King David",
+                "The birthplace of Jesus",
+                "The place where the 10 Commandments were received",
+                "Where Jesus gave the Sermon on the Mount"
+            ],
+            "answer": "The birthplace of Jesus"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What dramatic event took place at the Red Sea involving Moses and the Israelites?",
+            "options": [
+                "The Israelites fought a great battle there",
+                "The people stopped for forty years",
+                "The sea was miraculously turned into blood",
+                "God parted the waters for them to cross"
+            ],
+            "answer": "God parted the waters for them to cross"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city did the Israelites march around for seven days before its walls miraculously fell down?",
+            "options": ["Babylon", "Jericho", "Jerusalem", "Samaria"],
+            "answer": "Jericho"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the garden where Jesus prayed intensely before his arrest?",
+            "options": [
+                "The Garden of Eden",
+                "The Garden of Gethsemane",
+                "The Garden of Olives",
+                "The Garden of Sharon"
+            ],
+            "answer": "The Garden of Gethsemane"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What mountain did Moses receive the Ten Commandments on?",
+            "options": [
+                "Mount of Olives",
+                "Mount Tabor",
+                "Mount Hermon",
+                "Mount Sinai (or Horeb)"
+            ],
+            "answer": "Mount Sinai (or Horeb)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In what city did Jesus perform his first miracle, turning water into wine?",
+            "options": ["Bethlehem", "Cana", "Nazareth", "Jerusalem"],
+            "answer": "Cana"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the place where Jesus was crucified?",
+            "options": ["Capernaum", "Bethlehem", "Golgotha (or Calvary)", "Nazareth"],
+            "answer": "Golgotha (or Calvary)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What significant event in the life of Paul occurred on the road to Damascus?",
+            "options": [
+                "He was arrested",
+                "He met Peter",
+                "He was struck blind and converted",
+                "He preached his first sermon"
+            ],
+            "answer": "He was struck blind and converted"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The Tower of Babel was built in the land of Shinar with the intention of reaching what?",
+            "options": [
+                "Heaven",
+                "A safe haven from flood",
+                "The King's Palace",
+                "The sea"
+            ],
+            "answer": "Heaven"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did Noah's Ark finally come to rest after the Great Flood?",
+            "options": [
+                "Mount Zion",
+                "Mount Carmel",
+                "Mountains of Ararat",
+                "Mount Hermon"
+            ],
+            "answer": "Mountains of Ararat"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The city of Sodom and Gomorrah were destroyed by God due to their great wickedness with what?",
+            "options": [
+                "A great flood",
+                "Fire and sulfur (brimstone)",
+                "A massive earthquake",
+                "A plague"
+            ],
+            "answer": "Fire and sulfur (brimstone)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the river where John the Baptist baptized people, including Jesus?",
+            "options": [
+                "Euphrates River",
+                "Nile River",
+                "River Jordan",
+                "Tigris River"
+            ],
+            "answer": "River Jordan"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What great city did Jonah refuse to preach to, leading to him being swallowed by a large fish?",
+            "options": ["Jerusalem", "Nineveh", "Babylon", "Tyre"],
+            "answer": "Nineveh"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What town did Jesus grow up in after returning from Egypt?",
+            "options": ["Bethlehem", "Jerusalem", "Nazareth", "Capernaum"],
+            "answer": "Nazareth"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In what location did the Apostle Paul deliver his famous address on the 'Unknown God'?",
+            "options": ["Ephesus", "Athens (Areopagus)", "Rome", "Corinth"],
+            "answer": "Athens (Areopagus)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did Jesus deliver the Sermon on the Mount, containing the Beatitudes?",
+            "options": [
+                "On the Mount of Olives",
+                "On the shore of the Sea of Galilee",
+                "A hillside (or mountain) near Capernaum",
+                "In the Temple courts"
+            ],
+            "answer": "A hillside (or mountain) near Capernaum"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city did King David establish as the capital of his kingdom?",
+            "options": ["Hebron", "Jericho", "Jerusalem", "Samaria"],
+            "answer": "Jerusalem"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What miraculous event occurred at the Day of Pentecost in Jerusalem?",
+            "options": [
+                "A new king was crowned",
+                "The Holy Spirit descended on the apostles",
+                "A massive earthquake shook the city",
+                "Jesus ascended to heaven"
+            ],
+            "answer": "The Holy Spirit descended on the apostles"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the physical structure built to house the Ark of the Covenant during Israel's wanderings in the wilderness?",
+            "options": ["The Temple", "The Tabernacle", "The Synagogue", "The Sanctuary"],
+            "answer": "The Tabernacle"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What body of water did Jesus walk upon during a storm to reach his disciples?",
+            "options": [
+                "The Mediterranean Sea",
+                "The Dead Sea",
+                "The Sea of Galilee (or Tiberias)",
+                "The Red Sea"
+            ],
+            "answer": "The Sea of Galilee (or Tiberias)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What island was the Apostle John exiled to, where he wrote the Book of Revelation?",
+            "options": ["Crete", "Cyprus", "Patmos", "Malta"],
+            "answer": "Patmos"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the valley where David defeated the giant Goliath?",
+            "options": [
+                "Valley of Jezreel",
+                "Valley of Decision",
+                "Valley of Elah",
+                "Valley of the Kings"
+            ],
+            "answer": "Valley of Elah"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Which prophet was cast into a den of lions in the city of Babylon?",
+            "options": ["Jeremiah", "Elijah", "Daniel", "Ezekiel"],
+            "answer": "Daniel"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What specific place in the Temple did the curtain tear in two when Jesus died?",
+            "options": [
+                "The Court of the Gentiles",
+                "The Holy Place",
+                "The Most Holy Place (Holy of Holies)",
+                "The Treasury"
+            ],
+            "answer": "The Most Holy Place (Holy of Holies)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the pool in Jerusalem where Jesus healed a man who had been ill for 38 years?",
+            "options": [
+                "Pool of Siloam",
+                "Pool of Bethesda",
+                "Pool of Gihon",
+                "Pool of Hezekiah"
+            ],
+            "answer": "Pool of Bethesda"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the first city the Israelites attacked and conquered upon entering the Promised Land?",
+            "options": ["Jerusalem", "Hebron", "Jericho", "Ai"],
+            "answer": "Jericho"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What ancient kingdom was Moses forbidden by God to enter, viewing it only from Mount Nebo?",
+            "options": ["Egypt", "Moab", "The Promised Land (Canaan)", "Assyria"],
+            "answer": "The Promised Land (Canaan)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The city of Ephesus was home to a great temple dedicated to which Greek goddess?",
+            "options": ["Athena", "Aphrodite", "Artemis (Diana)", "Hera"],
+            "answer": "Artemis (Diana)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the Mount where Jesus ascended into heaven?",
+            "options": [
+                "Mount Sinai",
+                "Mount Hermon",
+                "Mount of Olives",
+                "Mount Carmel"
+            ],
+            "answer": "Mount of Olives"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the primary resource found when the Israelites complained of hunger in the wilderness?",
+            "options": [
+                "Fish and water",
+                "Manna and Quail",
+                "Dates and figs",
+                "Oil and wine"
+            ],
+            "answer": "Manna and Quail"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In what region were Jesus and his disciples traveling when the woman with the issue of blood touched his garment?",
+            "options": ["Judea", "Samaria", "Galilee", "Decapolis"],
+            "answer": "Galilee"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where was the Apostle Paul born?",
+            "options": ["Jerusalem", "Tarsus", "Corinth", "Rome"],
+            "answer": "Tarsus"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the land promised by God to Abraham and his descendants?",
+            "options": ["Mesopotamia", "Goshen", "Canaan", "Babel"],
+            "answer": "Canaan"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the key event that occurred at the city gate of Bethlehem, involving Ruth and Boaz?",
+            "options": [
+                "A battle with the Philistines",
+                "Boaz publicly took Ruth as his wife",
+                "Ruth met Naomi's family",
+                "King David was secretly anointed"
+            ],
+            "answer": "Boaz publicly took Ruth as his wife"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What location is referred to as \"Armageddon\" in the Book of Revelation?",
+            "options": [
+                "The Valley of Decision",
+                "Mount Megiddo (or Har Megiddo)",
+                "The Euphrates River",
+                "Mount Zion"
+            ],
+            "answer": "Mount Megiddo (or Har Megiddo)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the city where the believers were first called \"Christians\"?",
+            "options": ["Jerusalem", "Antioch", "Rome", "Corinth"],
+            "answer": "Antioch"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did Elijah famously challenge the prophets of Baal to a contest of fire?",
+            "options": ["Mount Sinai", "Mount Horeb", "Mount Carmel", "Mount Zion"],
+            "answer": "Mount Carmel"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What body of water connects the River Jordan to the Gulf of Aqaba (Red Sea) and is known for its high salt content?",
+            "options": [
+                "Sea of Galilee",
+                "Dead Sea",
+                "Great Sea (Mediterranean)",
+                "Lake Huleh"
+            ],
+            "answer": "Dead Sea"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the location of the vision where God called Isaiah to be a prophet?",
+            "options": [
+                "In the wilderness",
+                "Beside the River Chebar",
+                "In the Temple",
+                "On Mount Sinai"
+            ],
+            "answer": "In the Temple"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The Transfiguration of Jesus took place on a high mountain, often traditionally identified as what?",
+            "options": [
+                "Mount Hermon",
+                "Mount Tabor",
+                "Mount of Olives",
+                "Mount Moriah"
+            ],
+            "answer": "Mount Tabor"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was the Apostle Peter commanded by God to go to, leading to the conversion of Cornelius, a Gentile?",
+            "options": ["Joppa", "Caesarea", "Rome", "Antioch"],
+            "answer": "Caesarea"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the wilderness where the Israelites wandered for forty years?",
+            "options": [
+                "Wilderness of Shur",
+                "Wilderness of Zin",
+                "Wilderness of Paran",
+                "Wilderness of Sin (or Sinai)"
+            ],
+            "answer": "Wilderness of Sin (or Sinai)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was the primary location for Jesus' ministry in Galilee, often called \"his own city\"?",
+            "options": ["Nazareth", "Cana", "Capernaum", "Tiberias"],
+            "answer": "Capernaum"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The city of Philippi, where Paul and Silas were imprisoned, was located in what ancient region?",
+            "options": ["Asia Minor", "Greece (Macedonia)", "Italy", "Judea"],
+            "answer": "Greece (Macedonia)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the event where the Holy Spirit enabled the disciples to speak in the native languages of people from many nations?",
+            "options": [
+                "The Ascension",
+                "Pentecost",
+                "The Transfiguration",
+                "The Last Supper"
+            ],
+            "answer": "Pentecost"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In what river was Naaman the Syrian general commanded to dip seven times to be cured of leprosy?",
+            "options": [
+                "River Jordan",
+                "River Abana",
+                "River Pharpar",
+                "Nile River"
+            ],
+            "answer": "River Jordan"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did the Apostle Paul face severe opposition and suffer shipwreck?",
+            "options": ["Patmos", "Malta", "Crete", "Cyprus"],
+            "answer": "Malta"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the pool in Jerusalem that Jesus told the blind man to wash in to receive his sight?",
+            "options": [
+                "Pool of Bethesda",
+                "Pool of Siloam",
+                "Pool of Gihon",
+                "Pool of Hezekiah"
+            ],
+            "answer": "Pool of Siloam"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What famous passage did Jesus preach on the side of a mountain, beginning with the Beatitudes?",
+            "options": [
+                "The Lord's Prayer",
+                "The Sermon on the Mount",
+                "The Olivet Discourse",
+                "The Great Commission"
+            ],
+            "answer": "The Sermon on the Mount"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "Where did the Israelites cross the River Jordan to enter the Promised Land, under the leadership of Joshua?",
+            "options": [
+                "At Jericho",
+                "Near the Dead Sea",
+                "Opposite Jericho",
+                "At the Sea of Galilee"
+            ],
+            "answer": "Opposite Jericho"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was known for the temple of the goddess Artemis, which caused a great riot against Paul?",
+            "options": ["Corinth", "Philippi", "Ephesus", "Athens"],
+            "answer": "Ephesus"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The prophet Elijah was fed by ravens while hiding by what specific brook?",
+            "options": [
+                "Brook Kidron",
+                "Brook Cherith",
+                "River Jordan",
+                "Brook Besor"
+            ],
+            "answer": "Brook Cherith"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was the main destination for many of the Apostle Paul's letters (epistles)?",
+            "options": ["Rome", "Corinth", "Thessalonica", "All of the above"],
+            "answer": "All of the above"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What event in the life of Jesus is celebrated on Palm Sunday, marking his entry into Jerusalem?",
+            "options": [
+                "The Last Supper",
+                "The Triumphal Entry",
+                "The Cleansing of the Temple",
+                "The Raising of Lazarus"
+            ],
+            "answer": "The Triumphal Entry"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the city where Abraham was called by God to leave his family and go to a new land?",
+            "options": ["Ur of the Chaldeans", "Haran", "Bethel", "Shechem"],
+            "answer": "Ur of the Chaldeans"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What significant structure was built by King Solomon on Mount Moriah in Jerusalem?",
+            "options": [
+                "The Palace of David",
+                "The First Temple",
+                "The City Walls",
+                "The Tower of David"
+            ],
+            "answer": "The First Temple"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the island where Paul was bitten by a viper, but suffered no harm?",
+            "options": ["Crete", "Malta", "Cyprus", "Patmos"],
+            "answer": "Malta"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What site, near the Red Sea, is traditionally identified as the location where God established a covenant with Israel?",
+            "options": ["Marah", "Elim", "Rephidim", "Mount Sinai"],
+            "answer": "Mount Sinai"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city did Jesus weep over, foretelling its destruction?",
+            "options": ["Bethany", "Nazareth", "Capernaum", "Jerusalem"],
+            "answer": "Jerusalem"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was King David born in?",
+            "options": ["Jerusalem", "Hebron", "Bethlehem", "Nazareth"],
+            "answer": "Bethlehem"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The first Christian sermon, recorded in the Book of Acts, was preached in what city?",
+            "options": ["Antioch", "Jerusalem", "Rome", "Samaria"],
+            "answer": "Jerusalem"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the mountain range where Noah's Ark finally landed?",
+            "options": [
+                "Mount Carmel",
+                "Mount Zion",
+                "Mountains of Ararat",
+                "Mount Nebo"
+            ],
+            "answer": "Mountains of Ararat"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The city of Corinth was famous for the Isthmian Games and was the recipient of two major letters from which Apostle?",
+            "options": ["Peter", "John", "Paul", "James"],
+            "answer": "Paul"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What Roman city did the Apostle Paul travel to and preach in, only to be executed there later?",
+            "options": ["Ephesus", "Corinth", "Rome", "Antioch"],
+            "answer": "Rome"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the land where Cain settled after he was cast out by God for murdering Abel?",
+            "options": ["Eden", "Nod", "Shinar", "Canaan"],
+            "answer": "Nod"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the garden where Adam and Eve were placed by God?",
+            "options": [
+                "Garden of Gethsemane",
+                "Garden of Eden",
+                "Garden of Olives",
+                "Garden of Sharon"
+            ],
+            "answer": "Garden of Eden"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The final battle site mentioned in the Book of Revelation is referred to as what?",
+            "options": ["Megiddo (Armageddon)", "Babylon", "Jerusalem", "Damascus"],
+            "answer": "Megiddo (Armageddon)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the city that became the capital of the Northern Kingdom of Israel?",
+            "options": ["Jerusalem", "Hebron", "Samaria", "Bethel"],
+            "answer": "Samaria"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What river flowed out of the Garden of Eden and divided into four separate rivers?",
+            "options": ["The Nile", "The Tigris", "The Euphrates", "The Pishon"],
+            "answer": "The Pishon"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "In what location did the miracle of the manna stop, after the Israelites crossed the Jordan River?",
+            "options": ["Mount Sinai", "Gilgal", "Jericho", "Moab"],
+            "answer": "Gilgal"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city, known for its idol worship, was the site of Elijah's great contest with the prophets of Baal?",
+            "options": ["Tyre", "Jezreel", "Samaria", "Mount Carmel"],
+            "answer": "Mount Carmel"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the port city where Jonah tried to flee from God by sailing to Tarshish?",
+            "options": ["Tyre", "Joppa", "Sidon", "Caesarea"],
+            "answer": "Joppa"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What city was Paul traveling to when he encountered a bright light and Jesus' voice, leading to his conversion?",
+            "options": ["Jerusalem", "Damascus", "Antioch", "Rome"],
+            "answer": "Damascus"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What famous lake is alternatively known as the Sea of Gennesaret or Sea of Tiberias?",
+            "options": ["Dead Sea", "Sea of Galilee", "Red Sea", "Lake Huleh"],
+            "answer": "Sea of Galilee"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the name of the hill where the Temple was rebuilt by Zerubbabel after the Babylonian exile?",
+            "options": [
+                "Mount Zion",
+                "Mount Moriah",
+                "Mount of Olives",
+                "Mount Nebo"
+            ],
+            "answer": "Mount Moriah"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What structure was the site of the Jewish people's spiritual life, which was destroyed by the Romans in A.D. 70?",
+            "options": [
+                "The Tabernacle",
+                "The Synagogue",
+                "The Temple (Second)",
+                "The Western Wall"
+            ],
+            "answer": "The Temple (Second)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What was the primary reason for the destruction of Sodom and Gomorrah?",
+            "options": [
+                "Famine",
+                "Moral wickedness (sin)",
+                "Warfare",
+                "Earthquake"
+            ],
+            "answer": "Moral wickedness (sin)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What sea did the Israelites cross, with the Egyptian army drowning behind them?",
+            "options": [
+                "Sea of Galilee",
+                "Dead Sea",
+                "Red Sea",
+                "Mediterranean Sea"
+            ],
+            "answer": "Red Sea"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What mountain is traditionally identified as the place where Abraham was prepared to sacrifice Isaac?",
+            "options": ["Mount Nebo", "Mount Moriah", "Mount Zion", "Mount Tabor"],
+            "answer": "Mount Moriah"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "What area was the destination of the Exodus, where the Israelites eventually settled?",
+            "options": [
+                "The Promised Land (Canaan)",
+                "Egypt",
+                "Babylon",
+                "Assyria"
+            ],
+            "answer": "The Promised Land (Canaan)"
+        },
+        {
+            "topic": "Places & Events",
+            "question": "The miracle of the feeding of the 5,000 took place near what major body of water?",
+            "options": [
+                "The Mediterranean Sea",
+                "The Dead Sea",
+                "The Sea of Galilee",
+                "The Red Sea"
+            ],
+            "answer": "The Sea of Galilee"
+        }
+    ]
+}

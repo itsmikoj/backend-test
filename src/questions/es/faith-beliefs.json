@@ -1,0 +1,818 @@
+{
+    "questions": [
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cómo se llama la creencia judía en un solo Dios?",
+            "options": [
+                "Politeísmo",
+                "Monoteísmo",
+                "Panteísmo",
+                "Animismo"
+            ],
+            "answer": "Monoteísmo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término teológico cristiano para el favor inmerecido de Dios hacia la humanidad?",
+            "options": [
+                "Obras",
+                "Ley",
+                "Gracia",
+                "Mérito"
+            ],
+            "answer": "Gracia"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para el prometido libertador definitivo de la nación judía, un concepto también central en la creencia cristiana?",
+            "options": [
+                "Profeta",
+                "Mesías",
+                "Rey",
+                "Sabio"
+            ],
+            "answer": "Mesías"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué conjunto de leyes forma el fundamento moral dado a Moisés?",
+            "options": [
+                "Las Bienaventuranzas",
+                "Los Diez Mandamientos",
+                "La Regla de Oro",
+                "Los Decretos Apostólicos"
+            ],
+            "answer": "Los Diez Mandamientos"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la doctrina cristiana que describe a Dios existiendo como tres personas: Padre, Hijo y Espíritu Santo?",
+            "options": [
+                "La Soberanía",
+                "La Encarnación",
+                "La Trinidad",
+                "La Redención"
+            ],
+            "answer": "La Trinidad"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la condición espiritual y moral de la humanidad heredada del pecado de Adán?",
+            "options": [
+                "Depravación Total",
+                "Pecado Original",
+                "Justicia Imputada",
+                "Legalismo"
+            ],
+            "answer": "Pecado Original"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término describe el acto de alejarse del pecado y comprometerse a un cambio de dirección hacia Dios?",
+            "options": [
+                "Justificación",
+                "Santificación",
+                "Arrepentimiento",
+                "Redención"
+            ],
+            "answer": "Arrepentimiento"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el nombre del día de descanso y adoración judío observado desde el viernes por la tarde hasta el sábado por la tarde?",
+            "options": [
+                "Sucot",
+                "Sabbat",
+                "Pésaj (Pascua)",
+                "Janucá"
+            ],
+            "answer": "Sabbat"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué sacramento cristiano implica el lavado simbólico con agua, que representa la nueva vida en Cristo?",
+            "options": [
+                "Confirmación",
+                "Eucaristía",
+                "Bautismo",
+                "Unción"
+            ],
+            "answer": "Bautismo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "La ceremonia cristiana que involucra pan y vino, conmemorando la Última Cena de Jesús, se llama más comúnmente...",
+            "options": [
+                "Adviento",
+                "Cuaresma",
+                "Comunión (o Eucaristía)",
+                "Penitencia"
+            ],
+            "answer": "Comunión (o Eucaristía)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término colectivo para los primeros cinco libros de la Biblia (Génesis, Éxodo, Levítico, Números, Deuteronomio)?",
+            "options": [
+                "Nevi'im (Profetas)",
+                "Ketuvim (Escritos)",
+                "Apócrifos",
+                "Pentateuco (o Torá)"
+            ],
+            "answer": "Pentateuco (o Torá)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la creencia de que las Escrituras están sin error en los manuscritos originales?",
+            "options": [
+                "Inerrancia",
+                "Expiación",
+                "Revelación",
+                "Inspiración"
+            ],
+            "answer": "Inerrancia"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué festividad cristiana celebra la resurrección de Jesucristo?",
+            "options": [
+                "Navidad",
+                "Cuaresma",
+                "Pascua (Resurrección)",
+                "Pentecostés"
+            ],
+            "answer": "Pascua (Resurrección)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué festividad judía es conocida como el \"Día del Perdón\", el día más sagrado del año?",
+            "options": [
+                "Purim",
+                "Rosh Hashaná",
+                "Yom Kipur",
+                "Shavuot"
+            ],
+            "answer": "Yom Kipur"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El concepto de \"Tzedaká\" en el judaísmo se refiere principalmente a...",
+            "options": [
+                "Estudiar la Torá",
+                "Dar caridad/Justicia",
+                "Ayunar",
+                "Adorar en el Templo"
+            ],
+            "answer": "Dar caridad/Justicia"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la creencia de que todo lo que sucede ha sido decidido eternamente por Dios?",
+            "options": [
+                "Libre Albedrío",
+                "Providencia",
+                "Predestinación",
+                "Humanismo"
+            ],
+            "answer": "Predestinación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué significa literalmente el nombre \"Jesús\" (Yeshúa)?",
+            "options": [
+                "Dios es Salvación",
+                "Dios es Amor",
+                "Dios es Santo",
+                "Dios es Poderoso"
+            ],
+            "answer": "Dios es Salvación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El Evangelio de Juan comienza famosamente con la declaración: \"En el principio era el ________.\"",
+            "options": [
+                "Luz",
+                "Hombre",
+                "Verbo (Palabra)",
+                "Espíritu"
+            ],
+            "answer": "Verbo (Palabra)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término describe el acto de proclamar verdades religiosas a los no creyentes, a menudo ordenado por Jesús?",
+            "options": [
+                "Discipulado",
+                "Evangelismo",
+                "Comunión (Koinonía)",
+                "Ascetismo"
+            ],
+            "answer": "Evangelismo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué fiesta cristiana importante celebra la encarnación, o el nacimiento de Jesús?",
+            "options": [
+                "Adviento",
+                "Epifanía",
+                "Pascua",
+                "Navidad"
+            ],
+            "answer": "Navidad"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el último libro del Nuevo Testamento, centrado principalmente en la profecía y los tiempos finales?",
+            "options": [
+                "Romanos",
+                "Santiago",
+                "Apocalipsis (Revelación)",
+                "Hebreos"
+            ],
+            "answer": "Apocalipsis (Revelación)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué práctica religiosa implica abstenerse de alimentos por un período, a menudo por disciplina espiritual y duelo?",
+            "options": [
+                "Meditación",
+                "Ayuno",
+                "Limonsna",
+                "Peregrinación"
+            ],
+            "answer": "Ayuno"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El concepto cristiano de ________ es el estado de ser declarado justo a los ojos de Dios.",
+            "options": [
+                "Santificación",
+                "Justificación",
+                "Glorificación",
+                "Redención"
+            ],
+            "answer": "Justificación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término se usa para los signos espirituales y físicos que acompañan la segunda venida de Cristo y el fin del mundo?",
+            "options": [
+                "Escatología",
+                "Pneumatología",
+                "Soteriología",
+                "Eclesiología"
+            ],
+            "answer": "Escatología"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál de los Diez Mandamientos se centra en honrar a los padres?",
+            "options": [
+                "Cuarto",
+                "Quinto",
+                "Sexto",
+                "Séptimo"
+            ],
+            "answer": "Quinto"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para el estudio de la naturaleza de Dios y la verdad religiosa?",
+            "options": [
+                "Sociología",
+                "Filosofía",
+                "Teología",
+                "Antropología"
+            ],
+            "answer": "Teología"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué evento específico del Nuevo Testamento se considera a menudo el nacimiento de la Iglesia Cristiana?",
+            "options": [
+                "La Transfiguración",
+                "La Crucifixión",
+                "El Día de Pentecostés",
+                "La Última Cena"
+            ],
+            "answer": "El Día de Pentecostés"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué significa la palabra \"Cristo\" (Christos)?",
+            "options": [
+                "Hijo de Dios",
+                "Ungido",
+                "Salvador",
+                "Señor de Señores"
+            ],
+            "answer": "Ungido"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el nombre de la estructura religiosa principal utilizada para la adoración y la enseñanza en el judaísmo?",
+            "options": [
+                "Templo",
+                "Mezquita",
+                "Iglesia",
+                "Sinagoga"
+            ],
+            "answer": "Sinagoga"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué libro de la Biblia es principalmente una colección de himnos y oraciones?",
+            "options": [
+                "Proverbios",
+                "Eclesiastés",
+                "Salmos",
+                "Cantar de los Cantares"
+            ],
+            "answer": "Salmos"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cómo se llama la ley dietética judía que rige la preparación y el consumo de alimentos?",
+            "options": [
+                "Halal",
+                "Kósher (Kashrut)",
+                "Sharia",
+                "Mitzvá"
+            ],
+            "answer": "Kósher (Kashrut)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "La enseñanza cristiana de que Jesús era completamente Dios y completamente hombre se llama...",
+            "options": [
+                "Omnisciencia",
+                "Transubstanciación",
+                "La Unión Hipostática",
+                "Inmutabilidad"
+            ],
+            "answer": "La Unión Hipostática"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué festival judío celebra la re-dedicación del Segundo Templo en Jerusalén?",
+            "options": [
+                "Pésaj (Pascua)",
+                "Sucot",
+                "Janucá",
+                "Yom Kipur"
+            ],
+            "answer": "Janucá"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la creencia de que el cuerpo de Jesús fue llevado directamente al cielo después de su resurrección?",
+            "options": [
+                "El Rapto",
+                "La Asunción",
+                "La Ascensión",
+                "La Transfiguración"
+            ],
+            "answer": "La Ascensión"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término del Nuevo Testamento para una \"carta\" escrita por un Apóstol?",
+            "options": [
+                "Profecía",
+                "Parábola",
+                "Evangelio",
+                "Epístola"
+            ],
+            "answer": "Epístola"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué significa el término hebreo \"Amén\"?",
+            "options": [
+                "Oremos",
+                "Alabad a Dios",
+                "Así sea",
+                "El Rey viene"
+            ],
+            "answer": "Así sea"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El concepto de \"sheol\" en el Antiguo Testamento a menudo se traduce como...",
+            "options": [
+                "Cielo",
+                "Infierno",
+                "La tumba (o el sepulcro)",
+                "Paraíso"
+            ],
+            "answer": "La tumba (o el sepulcro)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál de los Diez Mandamientos prohíbe adorar ídolos o imágenes falsas?",
+            "options": [
+                "Primero",
+                "Segundo",
+                "Tercero",
+                "Cuarto"
+            ],
+            "answer": "Segundo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la doctrina que enfatiza la autoridad y estructura únicas de la iglesia?",
+            "options": [
+                "Soteriología",
+                "Pneumatología",
+                "Eclesiología",
+                "Cristología"
+            ],
+            "answer": "Eclesiología"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "En el Nuevo Testamento, ¿qué apóstol es conocido por enfatizar la relación entre la fe y las buenas obras?",
+            "options": [
+                "Pablo",
+                "Pedro",
+                "Juan",
+                "Santiago"
+            ],
+            "answer": "Santiago"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la meta o recompensa final prometida a los cristianos en la vida después de la muerte?",
+            "options": [
+                "Vida eterna",
+                "Riquezas terrenales",
+                "Conocimiento perfecto",
+                "Poder espiritual"
+            ],
+            "answer": "Vida eterna"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué concepto religioso implica un viaje a un lugar sagrado como acto de devoción?",
+            "options": [
+                "Ayuno",
+                "Peregrinación",
+                "Meditación",
+                "Penitencia"
+            ],
+            "answer": "Peregrinación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué libro de la Biblia comienza con \"Vanidad de vanidades, todo es vanidad\"?",
+            "options": [
+                "Proverbios",
+                "Job",
+                "Eclesiastés",
+                "Lamentaciones"
+            ],
+            "answer": "Eclesiastés"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término se usa para los cuatro escritores cuyos relatos forman los Evangelios del Nuevo Testamento?",
+            "options": [
+                "Evangelistas",
+                "Apóstoles",
+                "Profetas",
+                "Discípulos"
+            ],
+            "answer": "Evangelistas"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Con qué concepto se asocia principalmente la palabra \"shalom\" en hebreo?",
+            "options": [
+                "Paz (plenitud/bienestar)",
+                "Guerra",
+                "Fuerza",
+                "Ley"
+            ],
+            "answer": "Paz (plenitud/bienestar)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El concepto del Nuevo Testamento de ________ se refiere a los dones espirituales dados por el Espíritu Santo.",
+            "options": [
+                "Carisma (Dones)",
+                "Ágape",
+                "Koinonía (Comunión)",
+                "Logos (Verbo)"
+            ],
+            "answer": "Carisma (Dones)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la oración judía recitada por los dolientes después de la muerte de un pariente cercano?",
+            "options": [
+                "Shemá",
+                "Amidá",
+                "Kadish",
+                "Tefilín"
+            ],
+            "answer": "Kadish"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "La doctrina de ________ describe el control completo y final de Dios sobre todos los eventos.",
+            "options": [
+                "Omnipotencia",
+                "Soberanía",
+                "Omnipresencia",
+                "Omnisciencia"
+            ],
+            "answer": "Soberanía"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el nombre del juicio final de la humanidad, según la escatología cristiana?",
+            "options": [
+                "El Milenio",
+                "El Juicio del Trono Blanco",
+                "La Gran Tribulación",
+                "El Rapto"
+            ],
+            "answer": "El Juicio del Trono Blanco"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué significa el acrónimo \"I.N.R.I.\" en la cruz, según lo escrito por los romanos?",
+            "options": [
+                "Jesús de Nazaret, Rey de los Judíos",
+                "Israel Necesita Justicia Inmediatamente",
+                "Yo Nunca Realmente Me Identifiqué",
+                "En la Nueva Roma Confío"
+            ],
+            "answer": "Jesús de Nazaret, Rey de los Judíos"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el significado de la palabra hebrea \"Halal\" (como en \"Aleluya\")?",
+            "options": [
+                "Llorar",
+                "Alabar",
+                "Bendecir",
+                "Adorar"
+            ],
+            "answer": "Alabar"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué libro del Antiguo Testamento contiene la famosa frase \"El Señor es mi pastor; nada me faltará\"?",
+            "options": [
+                "Proverbios",
+                "Salmos",
+                "Cantar de los Cantares",
+                "Jeremías"
+            ],
+            "answer": "Salmos"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "En la tradición cristiana, ¿cuáles son las tres virtudes teológicas mencionadas por Pablo en 1 Corintios 13?",
+            "options": [
+                "Gozo, Paz, Paciencia",
+                "Fe, Esperanza, Amor (Caridad)",
+                "Humildad, Servicio, Obediencia",
+                "Templanza, Prudencia, Justicia"
+            ],
+            "answer": "Fe, Esperanza, Amor (Caridad)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la bendición judía tradicional utilizada para marcar el comienzo y el final del Sábado?",
+            "options": [
+                "Shofar",
+                "Kidush",
+                "Mezuzá",
+                "Talit"
+            ],
+            "answer": "Kidush"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la práctica cristiana de dar una porción (generalmente el 10%) de los ingresos a la iglesia?",
+            "options": [
+                "Ofrenda",
+                "Mayordomía",
+                "Diezmo",
+                "Limonsna"
+            ],
+            "answer": "Diezmo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la palabra griega para el amor fraternal, a menudo usada para describir el amor en la comunidad cristiana?",
+            "options": [
+                "Eros",
+                "Philia (Fraterno)",
+                "Ágape",
+                "Storge (Familiar)"
+            ],
+            "answer": "Philia (Fraterno)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para la creencia de que la salvación se logra a través del conocimiento humano en lugar de la revelación divina?",
+            "options": [
+                "Gnosticismo",
+                "Misticismo",
+                "Arrianismo",
+                "Docetismo"
+            ],
+            "answer": "Gnosticismo"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿A qué se refiere el término \"Era Mesiánica\" en el judaísmo?",
+            "options": [
+                "El tiempo de la reconstrucción del Templo",
+                "El mundo por venir después de la llegada del Mesías",
+                "El período del reinado del Rey David",
+                "La época de los profetas"
+            ],
+            "answer": "El mundo por venir después de la llegada del Mesías"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la característica principal de los libros categorizados como los \"Profetas Menores\"?",
+            "options": [
+                "Son sobre naciones no israelitas",
+                "Todos fueron escritos antes del exilio",
+                "Son más cortos en longitud que los Profetas Mayores",
+                "Todos fueron escritos después de Jesús"
+            ],
+            "answer": "Son más cortos en longitud que los Profetas Mayores"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "La frase \"Sed perfectos, como vuestro Padre celestial es perfecto\" se encuentra en ¿qué sermón importante de Jesús?",
+            "options": [
+                "Sermón del Monte",
+                "Discurso del Monte de los Olivos",
+                "Sermón de la Llanura",
+                "Discurso de Despedida"
+            ],
+            "answer": "Sermón del Monte"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término se usa para la disciplina espiritual de la reflexión profunda o el enfoque en ideas religiosas?",
+            "options": [
+                "Ayuno",
+                "Meditación",
+                "Abogacía",
+                "Liturgia"
+            ],
+            "answer": "Meditación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el nombre de la oración específica que Jesús enseñó a sus discípulos a orar?",
+            "options": [
+                "El Credo de los Apóstoles",
+                "El Shemá",
+                "El Padre Nuestro",
+                "El Credo Niceno"
+            ],
+            "answer": "El Padre Nuestro"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "La costumbre judía de colocar un pequeño rollo que contiene escrituras en los postes de las puertas de las casas se llama...",
+            "options": [
+                "Talit",
+                "Tzitzit",
+                "Mezuzá",
+                "Filacterias"
+            ],
+            "answer": "Mezuzá"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué significa literalmente el nombre \"Satán\" en hebreo?",
+            "options": [
+                "Gobernante del mundo",
+                "Adversario (o acusador)",
+                "Ángel Caído",
+                "Espíritu Maligno"
+            ],
+            "answer": "Adversario (o acusador)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué tradición cristiana implica la preparación y observancia de los cuatro domingos previos a la Navidad?",
+            "options": [
+                "Cuaresma",
+                "Epifanía",
+                "Adviento",
+                "Pascua"
+            ],
+            "answer": "Adviento"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué término teológico describe la intervención salvadora de Dios en la historia humana?",
+            "options": [
+                "Revelación",
+                "Redención",
+                "Providencia",
+                "Creación"
+            ],
+            "answer": "Redención"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es la oración judía específica que comienza con \"Oye, Israel: El Señor nuestro Dios, el Señor uno es\"?",
+            "options": [
+                "El Shemá",
+                "El Kadish",
+                "La Amidá",
+                "El Kol Nidré"
+            ],
+            "answer": "El Shemá"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para los escritos que se encuentran en algunas Biblias cristianas pero excluidos de otras (p. ej., Tobit, Sabiduría de Salomón)?",
+            "options": [
+                "Pseudepigráfos",
+                "Gnosticismo",
+                "Apócrifos",
+                "Canon"
+            ],
+            "answer": "Apócrifos"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El concepto judío central de \"Brit\" se refiere a...",
+            "options": [
+                "La Ley",
+                "El Pacto",
+                "El Profeta",
+                "El Rey"
+            ],
+            "answer": "El Pacto"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para el don de hablar en un idioma desconocido, asociado con el Espíritu Santo?",
+            "options": [
+                "Profecía",
+                "Sanidad",
+                "Glosolalia (Lenguas)",
+                "Discernimiento"
+            ],
+            "answer": "Glosolalia (Lenguas)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Qué doctrina del Nuevo Testamento describe la transformación de los muertos en cuerpos glorificados en la resurrección final?",
+            "options": [
+                "Transubstanciación",
+                "Glorificación",
+                "Santificación",
+                "Justificación"
+            ],
+            "answer": "Glorificación"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el enfoque principal del libro de Levítico?",
+            "options": [
+                "Historia de los patriarcas",
+                "Leyes, sacrificio y sacerdocio",
+                "Profecías de los tiempos finales",
+                "Sabiduría y poesía"
+            ],
+            "answer": "Leyes, sacrificio y sacerdocio"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "El término \"Ágape\" es la palabra griega para ¿qué tipo de amor?",
+            "options": [
+                "Fraternal",
+                "Romántico",
+                "Condicional",
+                "Incondicional (Desinteresado)"
+            ],
+            "answer": "Incondicional (Desinteresado)"
+        },
+        {
+            "topic": "Fe y Creencias",
+            "question": "¿Cuál es el término para el estudio de las últimas cosas: muerte, juicio, cielo e infierno?",
+            "options": [
+                "Cristología",
+                "Soteriología",
+                "Escatología",
+                "Pneumatología"
+            ],
+            "answer": "Escatología"
+        }
+    ]
+}

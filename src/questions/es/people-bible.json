@@ -1,0 +1,642 @@
+{
+    "questions": [
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué apóstol negó famosamente a Jesús tres veces antes de que cantara el gallo?",
+            "options": [
+                "Tomás",
+                "Judas Iscariote",
+                "Pedro",
+                "Santiago"
+            ],
+            "answer": "Pedro"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el primer hombre creado por Dios en el Jardín del Edén?",
+            "options": [
+                "Noé",
+                "Adán",
+                "Caín",
+                "Abel"
+            ],
+            "answer": "Adán"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre original del Apóstol Pablo antes de su conversión en el camino a Damasco?",
+            "options": [
+                "Silas",
+                "Bernabé",
+                "Esteban",
+                "Saulo"
+            ],
+            "answer": "Saulo"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era el hermano menor de Moisés que a menudo actuaba como su portavoz ante el Faraón?",
+            "options": [
+                "Josué",
+                "Aarón",
+                "Caleb",
+                "Hur"
+            ],
+            "answer": "Aarón"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué persona traicionó a Jesús a las autoridades judías por treinta piezas de plata?",
+            "options": [
+                "Pedro",
+                "Judas Iscariote",
+                "Simón el Zelote",
+                "Tomás"
+            ],
+            "answer": "Judas Iscariote"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue la persona que más vivió registrada en la Biblia, llegando a los 969 años?",
+            "options": [
+                "Noé",
+                "Adán",
+                "Matusalén",
+                "Set"
+            ],
+            "answer": "Matusalén"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué profeta fue llevado al cielo en un torbellino por un carro de fuego?",
+            "options": [
+                "Isaías",
+                "Elías",
+                "Eliseo",
+                "Jeremías"
+            ],
+            "answer": "Elías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el gobernador romano que presidió el juicio y ordenó la crucifixión de Jesús?",
+            "options": [
+                "Rey Herodes",
+                "Poncio Pilato",
+                "Félix",
+                "Festo"
+            ],
+            "answer": "Poncio Pilato"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién sucedió a Moisés como líder de los israelitas y los llevó a la Tierra Prometida?",
+            "options": [
+                "Aarón",
+                "Caleb",
+                "Josué",
+                "Samuel"
+            ],
+            "answer": "Josué"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el primer rey de Israel, ungido por el profeta Samuel?",
+            "options": [
+                "David",
+                "Saúl",
+                "Salomón",
+                "Roboam"
+            ],
+            "answer": "Saúl"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra al padre del rey David.",
+            "options": [
+                "Isaí",
+                "Obed",
+                "Booz",
+                "Nahas"
+            ],
+            "answer": "Isaí"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué profeta predijo correctamente el nacimiento virginal de Jesús?",
+            "options": [
+                "Ezequiel",
+                "Jeremías",
+                "Isaías",
+                "Malaquías"
+            ],
+            "answer": "Isaías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra a la mujer que fue la primera en ver y hablar con Jesús resucitado fuera de la tumba vacía.",
+            "options": [
+                "María, la madre de Jesús",
+                "María Magdalena",
+                "Salomé",
+                "Marta"
+            ],
+            "answer": "María Magdalena"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué personaje bíblico fue renombrado \"Israel\" después de luchar con un ángel?",
+            "options": [
+                "Abraham",
+                "Isaac",
+                "Jacob",
+                "José"
+            ],
+            "answer": "Jacob"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué figura del Antiguo Testamento fue conocida por su increíble paciencia y sufrimiento?",
+            "options": [
+                "Abraham",
+                "Moisés",
+                "Job",
+                "Isaac"
+            ],
+            "answer": "Job"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era el hombre rico en Jerusalén que dio su propia tumba nueva para el entierro de Jesús?",
+            "options": [
+                "Nicodemo",
+                "Lázaro",
+                "José de Arimatea",
+                "Caifás"
+            ],
+            "answer": "José de Arimatea"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era la esposa de Abraham y madre de Isaac?",
+            "options": [
+                "Agar",
+                "Rebeca",
+                "Sara",
+                "Raquel"
+            ],
+            "answer": "Sara"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue la jueza y profetisa que llevó a Israel a la victoria sobre los cananeos?",
+            "options": [
+                "Dalila",
+                "Betsabé",
+                "Débora",
+                "Jael"
+            ],
+            "answer": "Débora"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del mejor amigo del rey David, el hijo del rey Saúl?",
+            "options": [
+                "Absalón",
+                "Joab",
+                "Natán",
+                "Jonatán"
+            ],
+            "answer": "Jonatán"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué Apóstol era conocido como \"el discípulo a quien Jesús amaba\" y escribió el último Evangelio?",
+            "options": [
+                "Pedro",
+                "Santiago",
+                "Juan",
+                "Andrés"
+            ],
+            "answer": "Juan"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el profeta que realizó milagros y sucedió a Elías?",
+            "options": [
+                "Amós",
+                "Oseas",
+                "Eliseo",
+                "Miqueas"
+            ],
+            "answer": "Eliseo"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra a la madre de Jesús.",
+            "options": [
+                "Elisabet",
+                "Marta",
+                "María",
+                "Salomé"
+            ],
+            "answer": "María"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el hombre cuya vida fue perdonada a cambio de la liberación de Jesús por Pilato?",
+            "options": [
+                "Bernabé",
+                "Barrabás",
+                "Simón de Cirene",
+                "Esteban"
+            ],
+            "answer": "Barrabás"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del recaudador de impuestos que trepó a una higuera sicómora para ver a Jesús?",
+            "options": [
+                "Mateo",
+                "Zaqueo",
+                "Leví",
+                "Simón"
+            ],
+            "answer": "Zaqueo"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el Rey de Judea que ordenó la matanza de todos los niños varones en Belén después del nacimiento de Jesús?",
+            "options": [
+                "Rey Ciro",
+                "Rey Darío",
+                "Herodes el Grande",
+                "Herodes Antipas"
+            ],
+            "answer": "Herodes el Grande"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué Apóstol dudó famosamente de la resurrección de Jesús hasta que pudo ver y tocar físicamente sus heridas?",
+            "options": [
+                "Andrés",
+                "Felipe",
+                "Tomás",
+                "Bartolomé"
+            ],
+            "answer": "Tomás"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra al profeta que vio una visión de huesos secos que volvían a la vida.",
+            "options": [
+                "Daniel",
+                "Ezequiel",
+                "Isaías",
+                "Jeremías"
+            ],
+            "answer": "Ezequiel"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era la esposa de Urías el hitita, a quien el rey David luego se casó después de la muerte de Urías?",
+            "options": [
+                "Mical",
+                "Betsabé",
+                "Abigail",
+                "Tamar"
+            ],
+            "answer": "Betsabé"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del hombre que, junto con su esposa Safira, fue fulminado por mentir sobre su ofrenda?",
+            "options": [
+                "Ananías",
+                "Gamaliel",
+                "Bernabé",
+                "Silas"
+            ],
+            "answer": "Ananías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué mujer del Antiguo Testamento se casó con Booz y es antepasada del rey David y de Jesús?",
+            "options": [
+                "Rahab",
+                "Rut",
+                "Noemí",
+                "Ester"
+            ],
+            "answer": "Rut"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue la profetisa que reconoció al niño Jesús como el Mesías cuando fue presentado en el Templo?",
+            "options": [
+                "Ana",
+                "Ana (la profetisa)",
+                "Elisabet",
+                "Hulda"
+            ],
+            "answer": "Ana (la profetisa)"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué discípulo nombró Jesús para reemplazar a Judas Iscariote?",
+            "options": [
+                "Tito",
+                "Timoteo",
+                "Matías",
+                "Bernabé"
+            ],
+            "answer": "Matías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra al padre de Juan el Bautista.",
+            "options": [
+                "José",
+                "Simón",
+                "Zacarías",
+                "Nicodemo"
+            ],
+            "answer": "Zacarías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué Rey de Israel fue castigado por Dios por hacer un censo del pueblo?",
+            "options": [
+                "Saúl",
+                "David",
+                "Salomón",
+                "Asa"
+            ],
+            "answer": "David"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué centurión romano se convirtió en uno de los primeros conversos gentiles al cristianismo, como se registra en el Libro de los Hechos?",
+            "options": [
+                "Sergio Paulo",
+                "Cornelio",
+                "Galión",
+                "Festo"
+            ],
+            "answer": "Cornelio"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del Faraón egipcio que se negó tercamente a dejar ir a los israelitas?",
+            "options": [
+                "Ramsés II",
+                "Seti I",
+                "El texto no lo nombra",
+                "Tutmosis III"
+            ],
+            "answer": "El texto no lo nombra"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el profeta que predijo que Jesús nacería en Belén?",
+            "options": [
+                "Miqueas",
+                "Isaías",
+                "Jeremías",
+                "Zacarías"
+            ],
+            "answer": "Miqueas"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué figura bíblica fue conocida por su gran sabiduría y por construir el Primer Templo?",
+            "options": [
+                "David",
+                "Salomón",
+                "Roboam",
+                "Ezequías"
+            ],
+            "answer": "Salomón"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre de la hermana de Moisés y Aarón?",
+            "options": [
+                "Miriam",
+                "Rebeca",
+                "Lea",
+                "Dina"
+            ],
+            "answer": "Miriam"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el hijo de Abraham y Agar, considerado el antepasado del pueblo árabe?",
+            "options": [
+                "Isaac",
+                "Esaú",
+                "Ismael",
+                "Sem"
+            ],
+            "answer": "Ismael"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "Nombra al rey que fue hallado culpable de adorar dioses falsos y fue herido con lepra por su pecado.",
+            "options": [
+                "Uzías",
+                "Jeroboam",
+                "Acab",
+                "Manasés"
+            ],
+            "answer": "Uzías"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué profeta fue instruido por Dios para casarse con una prostituta como un acto simbólico?",
+            "options": [
+                "Oseas",
+                "Joel",
+                "Amós",
+                "Abdías"
+            ],
+            "answer": "Oseas"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del sumo sacerdote que presidió el juicio de Jesús?",
+            "options": [
+                "Anás",
+                "Caifás",
+                "Gamaliel",
+                "Nicodemo"
+            ],
+            "answer": "Caifás"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era el hombre en el Nuevo Testamento que fue bajado por un techo en su camilla para ser sanado por Jesús?",
+            "options": [
+                "Bartimeo",
+                "Lázaro",
+                "El paralítico",
+                "El Centurión Romano"
+            ],
+            "answer": "El paralítico"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el Rey de Israel conocido por su gran maldad y por casarse con la princesa extranjera Jezabel?",
+            "options": [
+                "Saúl",
+                "Acab",
+                "Jeroboam",
+                "Roboam"
+            ],
+            "answer": "Acab"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del ángel que se apareció a María para anunciar el nacimiento de Jesús?",
+            "options": [
+                "Miguel",
+                "Rafael",
+                "Gabriel",
+                "Uriel"
+            ],
+            "answer": "Gabriel"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el emperador romano durante el tiempo del ministerio y crucifixión de Jesús?",
+            "options": [
+                "Augusto",
+                "Claudio",
+                "Nerón",
+                "Tiberio"
+            ],
+            "answer": "Tiberio"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál de los hijos de Jacob tuvo la tribu de la que descendió la línea real de David y Jesús?",
+            "options": [
+                "Rubén",
+                "Judá",
+                "José",
+                "Benjamín"
+            ],
+            "answer": "Judá"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el discípulo al que Jesús se refirió como \"la Roca\"?",
+            "options": [
+                "Juan",
+                "Pedro",
+                "Andrés",
+                "Felipe"
+            ],
+            "answer": "Pedro"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué figura bíblica fue visitada por Dios y advertida de construir un arca para salvar a su familia de un diluvio global?",
+            "options": [
+                "Adán",
+                "Noé",
+                "Abel",
+                "Set"
+            ],
+            "answer": "Noé"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue la Reina de Saba, que vino a probar la sabiduría de un famoso Rey israelita?",
+            "options": [
+                "Rey Salomón",
+                "Rey David",
+                "Rey Acab",
+                "Rey Ezequías"
+            ],
+            "answer": "Rey Salomón"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Cuál era el nombre del juez de Israel que fue conocido por su increíble fuerza, que estaba atada a su cabello?",
+            "options": [
+                "Gedeón",
+                "Sansón",
+                "Jefté",
+                "Aod"
+            ],
+            "answer": "Sansón"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién era el padre de Abraham, que llevó a su familia fuera de Ur hacia Canaán?",
+            "options": [
+                "Isaac",
+                "Taré",
+                "Nacor",
+                "Sem"
+            ],
+            "answer": "Taré"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el Rey de Babilonia que fue humillado por Dios y forzado a vivir como un animal en el campo?",
+            "options": [
+                "Belsasar",
+                "Nabucodonosor",
+                "Darío",
+                "Ciro"
+            ],
+            "answer": "Nabucodonosor"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Quién fue el hijo de Jacob que inicialmente se pensó que estaba muerto pero luego se convirtió en el segundo al mando de Egipto?",
+            "options": [
+                "Benjamín",
+                "José",
+                "Judá",
+                "Rubén"
+            ],
+            "answer": "José"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué libro de la Biblia contiene la historia de una mujer que deja su hogar para encontrar refugio y luego se casa con Booz?",
+            "options": [
+                "Jueces",
+                "Rut",
+                "Ester",
+                "Proverbios"
+            ],
+            "answer": "Rut"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué Apóstol era recaudador de impuestos antes de seguir a Jesús y se le atribuye la escritura de un Evangelio?",
+            "options": [
+                "Marcos",
+                "Lucas",
+                "Mateo",
+                "Juan"
+            ],
+            "answer": "Mateo"
+        },
+        {
+            "topic": "Personajes de la Biblia",
+            "question": "¿Qué profeta fue conocido por confrontar al rey David sobre su pecado con Betsabé?",
+            "options": [
+                "Samuel",
+                "Natán",
+                "Gad",
+                "Ahías"
+            ],
+            "answer": "Natán"
+        }
+    ]
+}

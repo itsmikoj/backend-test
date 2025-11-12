@@ -1,0 +1,2204 @@
+{
+    "questions": [
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué principio bíblico aborda más directamente el uso ético del dinero y los recursos?",
+            "options": [
+                "Descanso sabático",
+                "Dones espirituales",
+                "Mayordomía",
+                "Evangelismo"
+            ],
+            "answer": "Mayordomía"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "Según la cosmovisión cristiana, ¿de dónde se origina el valor y la dignidad inherentes de la vida humana?",
+            "options": [
+                "Consenso social",
+                "Contribución económica",
+                "Ser creados a imagen de Dios (Imago Dei)",
+                "Capacidad intelectual"
+            ],
+            "answer": "Ser creados a imagen de Dios (Imago Dei)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque cristiano sobre la mentira, basado en Efesios 4:25?",
+            "options": [
+                "Es permisible si la intención es buena",
+                "Solo está mal si daña a otros",
+                "Hablad verdad, habiendo desechado la mentira",
+                "Es un pecado menor"
+            ],
+            "answer": "Hablad verdad, habiendo desechado la mentira"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto ético de la gracia redentora en la cultura?",
+            "options": [
+                "Perdonar todas las prácticas culturales",
+                "Rechazar toda la cultura",
+                "Involucrarse en la cultura para transformarla con la verdad de Cristo",
+                "Solo consumir productos hechos por cristianos"
+            ],
+            "answer": "Involucrarse en la cultura para transformarla con la verdad de Cristo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué declaración resume mejor la ética cristiana sobre el sexo fuera del matrimonio (1 Cor. 6:18)?",
+            "options": [
+                "Es una cuestión de libertad personal",
+                "Solo es pecado si conduce al embarazo",
+                "Huid de la inmoralidad sexual, pues es pecado contra el propio cuerpo",
+                "Es aceptable si ambas partes consienten"
+            ],
+            "answer": "Huid de la inmoralidad sexual, pues es pecado contra el propio cuerpo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué principio de la ley del Antiguo Testamento se usa a menudo en los debates sobre la mayordomía ambiental?",
+            "options": [
+                "La Ley de la Retribución",
+                "La Ley del Sacrificio",
+                "El Mandato de Dominio (Génesis 1:28)",
+                "La Ley de Limpio e Inmundo"
+            ],
+            "answer": "El Mandato de Dominio (Génesis 1:28)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cómo debe responder un cristiano a la autoridad gubernamental, según Romanos 13:1?",
+            "options": [
+                "Siempre protestando",
+                "Obedeciendo solo lo que es conveniente",
+                "Sometiéndose a las autoridades gobernantes, pues están instituidas por Dios",
+                "Ignorando los sistemas políticos"
+            ],
+            "answer": "Sometiéndose a las autoridades gobernantes, pues están instituidas por Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el defecto ético central del materialismo desde una perspectiva bíblica (Mateo 6:24)?",
+            "options": [
+                "Es demasiado difícil administrar la riqueza",
+                "No podéis servir a Dios y a las riquezas",
+                "Siempre conduce a la pobreza",
+                "Es una forma de idolatría del yo"
+            ],
+            "answer": "No podéis servir a Dios y a las riquezas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué término se usa para la práctica de ofrecer donativos financieros a los necesitados, motivada por el amor cristiano?",
+            "options": [
+                "Diezmo",
+                "Inversión",
+                "Limonsna (o Caridad)",
+                "Pago de deudas"
+            ],
+            "answer": "Limonsna (o Caridad)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué libro del Nuevo Testamento advierte fuertemente contra los chismes y el habla descontrolada, comparando la lengua con un pequeño fuego (Santiago 3)?",
+            "options": [
+                "Romanos",
+                "Efesios",
+                "Santiago",
+                "Hebreos"
+            ],
+            "answer": "Santiago"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué narrativa bíblica proporciona la base para la crítica cristiana al globalismo y el orgullo centrado en el hombre?",
+            "options": [
+                "El Diluvio",
+                "La Torre de Babel",
+                "Sodoma y Gomorra",
+                "El Éxodo"
+            ],
+            "answer": "La Torre de Babel"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es el fundamento bíblico para la participación cristiana en la justicia y la igualdad para todas las personas?",
+            "options": [
+                "Prudencia",
+                "Templanza",
+                "Justicia (o Rectitud)",
+                "Diligencia"
+            ],
+            "answer": "Justicia (o Rectitud)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el arma principal del cristiano contra \"las asechanzas del diablo\" en la guerra cultural (Ef. 6:17)?",
+            "options": [
+                "Riqueza",
+                "Influencia política",
+                "La Espada del Espíritu, que es la Palabra de Dios",
+                "Redes sociales"
+            ],
+            "answer": "La Espada del Espíritu, que es la Palabra de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término teológico para el proceso de determinar lo correcto e incorrecto basándose en el carácter de Dios y Su voluntad revelada?",
+            "options": [
+                "Antropología",
+                "Soteriología",
+                "Ética",
+                "Eclesiología"
+            ],
+            "answer": "Ética"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué profeta del Antiguo Testamento resumió famosamente el requisito de Dios para la humanidad: \"hacer justicia, amar misericordia y humillarte ante tu Dios\"?",
+            "options": [
+                "Isaías",
+                "Jeremías",
+                "Miqueas",
+                "Oseas"
+            ],
+            "answer": "Miqueas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "El concepto cristiano de vocación o llamado se aplica a qué área de la vida?",
+            "options": [
+                "Solo al ministerio eclesiástico",
+                "Solo a los dones espirituales",
+                "Todas las áreas legítimas de la vida y el trabajo",
+                "Solo a la planificación de la jubilación"
+            ],
+            "answer": "Todas las áreas legítimas de la vida y el trabajo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué preocupación ética plantea la creación de Inteligencia Artificial sofisticada desde una perspectiva cristiana?",
+            "options": [
+                "Miedo a la pérdida de empleos",
+                "Definir la personería y la imagen de Dios (Imago Dei)",
+                "Dificultad en la programación",
+                "Falta de entretenimiento"
+            ],
+            "answer": "Definir la personería y la imagen de Dios (Imago Dei)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué instrucción da Pablo sobre la deuda en Romanos 13:8?",
+            "options": [
+                "No prestéis a otros",
+                "Pagadla solo cuando sea conveniente",
+                "No debáis nada a nadie, sino amaros unos a otros",
+                "La deuda es siempre un pecado"
+            ],
+            "answer": "No debáis nada a nadie, sino amaros unos a otros"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué significa principalmente el concepto de \"sal y luz\" en Mateo 5:13-16 para el papel del cristiano en el mundo?",
+            "options": [
+                "Ser exclusivo y crítico",
+                "Aislarse de la sociedad",
+                "Ser una influencia conservadora y señalar la verdad de Dios",
+                "Involucrarse solo en política"
+            ],
+            "answer": "Ser una influencia conservadora y señalar la verdad de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a las prácticas culturales que violan la santidad de la vida?",
+            "options": [
+                "Silencio y aceptación",
+                "Oposición violenta",
+                "Testimonio profético y defensa amorosa de los vulnerables",
+                "Retirada de la vista pública"
+            ],
+            "answer": "Testimonio profético y defensa amorosa de los vulnerables"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la posición bíblica sobre la retaliación contra una persona que te ha hecho mal (Romanos 12:19)?",
+            "options": [
+                "Buscar venganza inmediata",
+                "No os venguéis vosotros mismos, dejad lugar a la ira de Dios",
+                "Vengarse solo si el daño fue físico",
+                "Buscar acción legal inmediatamente"
+            ],
+            "answer": "No os venguéis vosotros mismos, dejad lugar a la ira de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué concepto es la raíz filosófica del relativismo, que contradice la creencia cristiana en la verdad objetiva?",
+            "options": [
+                "Absolutismo",
+                "Subjetivismo (o Autosuficiencia)",
+                "Dualismo",
+                "Materialismo"
+            ],
+            "answer": "Subjetivismo (o Autosuficiencia)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud del Nuevo Testamento es esencial para que los cristianos interactúen respetuosamente con personas de diferentes orígenes culturales o religiosos (1 Pedro 3:15)?",
+            "options": [
+                "Dominio",
+                "Agresión",
+                "Mansedumbre y respeto",
+                "Intrepidez"
+            ],
+            "answer": "Mansedumbre y respeto"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué problema ético aborda la Biblia respecto a la explotación de los trabajadores (Santiago 5:4)?",
+            "options": [
+                "Mala inversión",
+                "Comercialización insuficiente",
+                "Retener el salario a los que trabajaron",
+                "Usar maquinaria moderna"
+            ],
+            "answer": "Retener el salario a los que trabajaron"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué aconsejó Pablo sobre comer alimentos sacrificados a ídolos, mostrando sensibilidad cultural (1 Cor. 10:23-33)?",
+            "options": [
+                "Siempre comerlo para mostrar libertad",
+                "Es permisible, pero evitar hacer tropezar a un hermano débil",
+                "Nunca comerlo bajo ninguna circunstancia",
+                "Solo comerlo en secreto"
+            ],
+            "answer": "Es permisible, pero evitar hacer tropezar a un hermano débil"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término teológico para la acción de Dios en el tiempo y la historia para guiar y sostener la creación?",
+            "options": [
+                "Providencia",
+                "Predestinación",
+                "Determinismo",
+                "Omnisciencia"
+            ],
+            "answer": "Providencia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué requiere la ética cristiana de la justicia en términos de castigo y misericordia?",
+            "options": [
+                "Solo castigo",
+                "Solo misericordia",
+                "Un equilibrio de castigo que se ajuste al crimen y compasión",
+                "Ignorar todos los códigos legales"
+            ],
+            "answer": "Un equilibrio de castigo que se ajuste al crimen y compasión"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la perspectiva bíblica sobre la idolatría en un contexto cultural moderno?",
+            "options": [
+                "Solo se refiere a inclinarse ante estatuas",
+                "Poner cualquier cosa por encima de la devoción suprema a Dios",
+                "Ver demasiada televisión",
+                "Comprar ropa cara"
+            ],
+            "answer": "Poner cualquier cosa por encima de la devoción suprema a Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué forma específica de medios modernos es a menudo criticada por fomentar el escapismo y disminuir las responsabilidades del mundo real?",
+            "options": [
+                "Leer libros",
+                "Asistir a la iglesia",
+                "Consumo excesivo de entretenimiento digital/juegos",
+                "Jardinería"
+            ],
+            "answer": "Consumo excesivo de entretenimiento digital/juegos"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es la opuesta al hedonismo, la búsqueda cultural del placer como el bien supremo?",
+            "options": [
+                "Gozo",
+                "Felicidad",
+                "Autocontrol (o Templanza)",
+                "Amor"
+            ],
+            "answer": "Autocontrol (o Templanza)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la diferencia principal entre el amor bíblico (ágape) y la tolerancia cultural?",
+            "options": [
+                "El ágape requiere acuerdo",
+                "La tolerancia requiere acción",
+                "El ágape busca el bien del otro, incluso en desacuerdo",
+                "La tolerancia a menudo evita el juicio/la verdad"
+            ],
+            "answer": "El ágape busca el bien del otro, incluso en desacuerdo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término teológico para el estudio de las últimas cosas: muerte, juicio y el estado eterno?",
+            "options": [
+                "Soteriología",
+                "Escatología",
+                "Cristología",
+                "Pneumatología"
+            ],
+            "answer": "Escatología"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la responsabilidad ética del cristiano hacia los pobres y marginados en la sociedad (Proverbios 31:9)?",
+            "options": [
+                "Ignorarlos",
+                "Juzgar su pobreza",
+                "Hablar y defender sus derechos y justicia",
+                "Solo orar por ellos"
+            ],
+            "answer": "Hablar y defender sus derechos y justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué figura del Antiguo Testamento demostró el principio de compromiso cultural interpretando sueños para un rey pagano mientras mantenía su fe?",
+            "options": [
+                "Moisés",
+                "Elías",
+                "Daniel",
+                "Josué"
+            ],
+            "answer": "Daniel"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cómo llama la Biblia al cuerpo de un creyente, enfatizando su santidad y propósito en el mundo (1 Cor. 6:19)?",
+            "options": [
+                "Una morada temporal",
+                "Una máquina",
+                "Un templo del Espíritu Santo",
+                "Un vaso insignificante"
+            ],
+            "answer": "Un templo del Espíritu Santo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la creencia de que todo conocimiento y verdad se deriva únicamente de la ciencia empírica, a menudo en conflicto con la fe?",
+            "options": [
+                "Racionalismo",
+                "Dualismo",
+                "Cientificismo",
+                "Existencialismo"
+            ],
+            "answer": "Cientificismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principio ético de la rendición de cuentas en un contexto cristiano?",
+            "options": [
+                "Ser financieramente responsable",
+                "Solo confesar los pecados a Dios",
+                "Someterse a la autoridad y compartir luchas con creyentes de confianza",
+                "Nunca cometer un error"
+            ],
+            "answer": "Someterse a la autoridad y compartir luchas con creyentes de confianza"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué identificó Jesús como la raíz principal de todo pecado externo (Mateo 15:18-19)?",
+            "options": [
+                "El gobierno",
+                "La pobreza",
+                "El Corazón (Pensamientos e Intenciones)",
+                "Malas compañías"
+            ],
+            "answer": "El Corazón (Pensamientos e Intenciones)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta cristiana a la cultura de la cancelación con respecto al arrepentimiento y la restauración?",
+            "options": [
+                "Exclusión permanente",
+                "Fomentar el perdón y la restauración después de un genuino arrepentimiento",
+                "Ignorar completamente a la persona",
+                "Unirse a la condenación"
+            ],
+            "answer": "Fomentar el perdón y la restauración después de un genuino arrepentimiento"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el significado del concepto bíblico de Shalom, que se aplica a un estado de bienestar integral en todas las relaciones?",
+            "options": [
+                "Victoria en la guerra",
+                "Éxito financiero",
+                "Paz, plenitud y florecimiento",
+                "Poder político"
+            ],
+            "answer": "Paz, plenitud y florecimiento"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cómo se relaciona el concepto cristiano de Creatividad con las Artes?",
+            "options": [
+                "Es un mal necesario",
+                "Es solo para servicios eclesiásticos",
+                "Refleja la naturaleza creativa de Dios (el Creador supremo)",
+                "Debe evitarse debido a la influencia mundana"
+            ],
+            "answer": "Refleja la naturaleza creativa de Dios (el Creador supremo)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro ético de las redes sociales desde el punto de vista cristiano, en relación con la autopercepción?",
+            "options": [
+                "Demasiada lectura",
+                "Falta de conexión",
+                "Cultivar el orgullo y la auto-adoración a través de imágenes curadas",
+                "Dificultad para compartir opiniones"
+            ],
+            "answer": "Cultivar el orgullo y la auto-adoración a través de imágenes curadas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la instrucción bíblica respecto a las cosas en las que debemos fijar nuestros pensamientos (Filipenses 4:8)?",
+            "options": [
+                "Cualquier cosa que sea popular",
+                "Cualquier cosa que sea rentable",
+                "Todo lo que es verdadero, noble, justo, puro, amable y digno de admiración",
+                "Cualquier cosa que sea entretenida"
+            ],
+            "answer": "Todo lo que es verdadero, noble, justo, puro, amable y digno de admiración"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"cumplimiento subversivo\" en el arte cristiano?",
+            "options": [
+                "Crear arte que sea solo cristiano",
+                "Crear arte que sea ofensivo",
+                "Usar formas seculares para transmitir sutilmente la verdad bíblica o criticar la cultura",
+                "Copiar arte cristiano existente"
+            ],
+            "answer": "Usar formas seculares para transmitir sutilmente la verdad bíblica o criticar la cultura"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la responsabilidad ética de un artista cristiano que usa su trabajo para la crítica profética?",
+            "options": [
+                "Ser lo más desagradable posible",
+                "Solo alabar a la sociedad",
+                "Decir la verdad con amor y desafiar la injusticia/la idolatría",
+                "Ganar tanto dinero como sea posible"
+            ],
+            "answer": "Decir la verdad con amor y desafiar la injusticia/la idolatría"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el principio ético de \"alfabetización mediática\" para los cristianos?",
+            "options": [
+                "No consumir medios",
+                "Solo ver medios cristianos",
+                "Analizar y evaluar el contenido de los medios a través de una cosmovisión bíblica",
+                "Crear muchos medios"
+            ],
+            "answer": "Analizar y evaluar el contenido de los medios a través de una cosmovisión bíblica"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "La tecnología de la imprenta a menudo se cita como un factor cultural clave en la difusión de ¿qué movimiento histórico cristiano importante?",
+            "options": [
+                "El Gran Despertar",
+                "Las Cruzadas",
+                "La Reforma Protestante",
+                "La Ilustración"
+            ],
+            "answer": "La Reforma Protestante"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del entretenimiento escapista cuando se lleva al extremo?",
+            "options": [
+                "Demasiado ejercicio",
+                "Demasiada lectura",
+                "Evitar las responsabilidades y el sufrimiento del mundo real",
+                "No dormir lo suficiente"
+            ],
+            "answer": "Evitar las responsabilidades y el sufrimiento del mundo real"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana respecto a la velocidad y el anonimato de internet?",
+            "options": [
+                "Nos permite ser más ruidosos",
+                "La tentación de hablar/actuar sin responsabilidad o amor",
+                "La capacidad de compartir opiniones más rápido",
+                "La facilidad para comprar cosas"
+            ],
+            "answer": "La tentación de hablar/actuar sin responsabilidad o amor"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el papel cultural de la música cristiana más allá de la adoración en la iglesia?",
+            "options": [
+                "Solo usarse en funerales",
+                "Proporcionar alternativas y hablar la verdad dentro de la industria musical secular",
+                "Estar completamente separada de la música secular",
+                "Ser una inversión financiera"
+            ],
+            "answer": "Proporcionar alternativas y hablar la verdad dentro de la industria musical secular"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética del \"clickbait\" y el sensacionalismo en la comunicación cristiana moderna?",
+            "options": [
+                "Es demasiado aburrido",
+                "La priorización de la atención/el beneficio sobre la verdad y la integridad",
+                "Es demasiado corto",
+                "Es demasiado fácil de leer"
+            ],
+            "answer": "La priorización de la atención/el beneficio sobre la verdad y la integridad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué implica la ética cristiana de la \"simplicidad\" sobre el uso de la tecnología?",
+            "options": [
+                "Evitar toda tecnología",
+                "Usar la tecnología intencionalmente y evitar ser esclavizado por ella",
+                "Comprar la tecnología más compleja",
+                "Solo usar tecnología antigua"
+            ],
+            "answer": "Usar la tecnología intencionalmente y evitar ser esclavizado por ella"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el propósito principal de la narrativa cristiana (por ejemplo, en literatura o cine)?",
+            "options": [
+                "Representar perfectamente eventos bíblicos",
+                "Explorar la condición humana y la necesidad de redención",
+                "Solo predicar sermones",
+                "Solo entretener"
+            ],
+            "answer": "Explorar la condición humana y la necesidad de redención"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético del plagio en un contexto cristiano?",
+            "options": [
+                "Es demasiado trabajo",
+                "Es solo un problema legal",
+                "Viola el principio bíblico de honestidad y dar crédito donde se debe",
+                "Es necesario para la eficiencia"
+            ],
+            "answer": "Viola el principio bíblico de honestidad y dar crédito donde se debe"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"gracia común\" aplicado al arte y la cultura secular?",
+            "options": [
+                "Que todo arte es sagrado",
+                "Que todo arte es pecaminoso",
+                "Que Dios da creatividad y bondad a todas las personas, llevando a un hermoso trabajo secular",
+                "Que Dios solo usa artistas cristianos"
+            ],
+            "answer": "Que Dios da creatividad y bondad a todas las personas, llevando a un hermoso trabajo secular"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál debería ser la actitud del cristiano hacia el compromiso con el arte que contiene temas moralmente ambiguos o desafiantes?",
+            "options": [
+                "Evitación completa",
+                "Aceptación acrítica",
+                "Compromiso crítico, buscando la verdad y temas redentores",
+                "Juzgar al artista inmediatamente"
+            ],
+            "answer": "Compromiso crítico, buscando la verdad y temas redentores"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el fenómeno cultural donde las creencias religiosas se adaptan para ajustarse a las tendencias de consumo y la comodidad?",
+            "options": [
+                "Espiritualidad",
+                "Avivamiento",
+                "Consumismo/Deísmo Terapéutico",
+                "Tradicionalismo"
+            ],
+            "answer": "Consumismo/Deísmo Terapéutico"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro ético de las cámaras de eco en línea para la comunión cristiana?",
+            "options": [
+                "Demasiado acuerdo",
+                "Demasiada gente",
+                "Aislarse de perspectivas diversas y promover el juicio",
+                "No hay suficiente información"
+            ],
+            "answer": "Aislarse de perspectivas diversas y promover el juicio"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué indica el uso de parábolas por Jesús sobre el papel de la narrativa y el contexto cultural en la enseñanza?",
+            "options": [
+                "Que las ideas complejas deben evitarse",
+                "Que las historias culturalmente familiares son herramientas efectivas para la verdad espiritual",
+                "Que solo se debe enseñar a los agricultores",
+                "Que la verdad siempre está oculta"
+            ],
+            "answer": "Que las historias culturalmente familiares son herramientas efectivas para la verdad espiritual"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para el uso de la tecnología deepfake?",
+            "options": [
+                "Es una forma de arte",
+                "Es una herramienta necesaria",
+                "Promueve el engaño y viola el principio de veracidad",
+                "Es solo para entretenimiento"
+            ],
+            "answer": "Promueve el engaño y viola el principio de veracidad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto ético de \"consumo responsable\" respecto a los medios?",
+            "options": [
+                "Solo consumir medios cristianos",
+                "Ser selectivo y consciente del impacto moral y espiritual de las elecciones de medios",
+                "Consumir todo lo disponible",
+                "Consumir solo medios educativos"
+            ],
+            "answer": "Ser selectivo y consciente del impacto moral y espiritual de las elecciones de medios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es la opuesta al \"culto a la celebridad\" a menudo visto en la cultura del entretenimiento?",
+            "options": [
+                "Poder",
+                "Riqueza",
+                "Humildad",
+                "Fama"
+            ],
+            "answer": "Humildad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el papel principal de un cristiano en el mercado de las ideas?",
+            "options": [
+                "Gritar más fuerte",
+                "Permanecer en silencio",
+                "Participar en un diálogo razonado y amoroso, presentando el Evangelio como verdadero",
+                "Forzar la conversión"
+            ],
+            "answer": "Participar en un diálogo razonado y amoroso, presentando el Evangelio como verdadero"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"discipulado digital\"?",
+            "options": [
+                "Usar internet para todo el ministerio",
+                "Solo usar papel para enseñar",
+                "Utilizar herramientas digitales para difundir el Evangelio y nutrir a los creyentes",
+                "Evitar toda tecnología en el ministerio"
+            ],
+            "answer": "Utilizar herramientas digitales para difundir el Evangelio y nutrir a los creyentes"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética sobre la privacidad en la era digital desde una perspectiva cristiana?",
+            "options": [
+                "Es irrelevante",
+                "Es solo un problema legal",
+                "Proteger la dignidad y autonomía de las personas creadas a imagen de Dios",
+                "Es imposible de lograr"
+            ],
+            "answer": "Proteger la dignidad y autonomía de las personas creadas a imagen de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la razón bíblica para adorar a través de las artes (por ejemplo, música, arte visual)?",
+            "options": [
+                "Hacer que el edificio de la iglesia se vea bien",
+                "Ofrecer alabanza y expresar la gloria de Dios con toda la capacidad creativa",
+                "Entretener a la congregación",
+                "Recaudar dinero"
+            ],
+            "answer": "Ofrecer alabanza y expresar la gloria de Dios con toda la capacidad creativa"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué peligro ético plantea la pornografía según la enseñanza de Jesús (Mateo 5:28)?",
+            "options": [
+                "Solo afecta los ojos",
+                "Es una fantasía inofensiva",
+                "Es un pecado del corazón (lujuria) que deshumaniza y objetiviza",
+                "Solo afecta a las personas solteras"
+            ],
+            "answer": "Es un pecado del corazón (lujuria) que deshumaniza y objetiviza"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el concepto cultural que sugiere que la moralidad y la verdad son relativas al tiempo y lugar histórico específico?",
+            "options": [
+                "Absolutismo",
+                "Realismo",
+                "Historicismo (o Relativismo Cultural)",
+                "Idealismo"
+            ],
+            "answer": "Historicismo (o Relativismo Cultural)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el papel del cristiano respecto a la preservación cultural de las cosas buenas y bellas?",
+            "options": [
+                "Destruir todas las cosas viejas",
+                "Solo preservar artefactos eclesiásticos",
+                "Ser mayordomos de los buenos dones (cultura) que Dios ha permitido florecer",
+                "Ignorar todas las obras pasadas"
+            ],
+            "answer": "Ser mayordomos de los buenos dones (cultura) que Dios ha permitido florecer"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del sentimentalismo en los medios cristianos?",
+            "options": [
+                "Es demasiado intelectual",
+                "Priorizar la manipulación emocional sobre la verdad bíblica y la sustancia",
+                "Es demasiado factual",
+                "Es demasiado realista"
+            ],
+            "answer": "Priorizar la manipulación emocional sobre la verdad bíblica y la sustancia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué concepto describe la mezcla de creencias cristianas con elementos de otras tradiciones espirituales o culturales?",
+            "options": [
+                "Sincretismo",
+                "Avivamiento",
+                "Evangelismo",
+                "Contextualización"
+            ],
+            "answer": "Sincretismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética con el uso de perfiles anónimos en línea?",
+            "options": [
+                "Son aburridos",
+                "Son demasiado honestos",
+                "Permiten la cobardía, la malicia y la falta de responsabilidad",
+                "Son demasiado difíciles de crear"
+            ],
+            "answer": "Permiten la cobardía, la malicia y la falta de responsabilidad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la disciplina espiritual del discernimiento más relevante para el consumo de medios?",
+            "options": [
+                "Evitar los medios",
+                "Ver todo",
+                "La capacidad de distinguir entre la verdad y el error, el bien y el mal",
+                "La capacidad de crear medios"
+            ],
+            "answer": "La capacidad de distinguir entre la verdad y el error, el bien y el mal"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cómo llama la Biblia a la reputación de una persona (Proverbios 22:1)?",
+            "options": [
+                "Menos valiosa que el dinero",
+                "Sin importancia",
+                "Más deseable que las grandes riquezas",
+                "Un trofeo personal"
+            ],
+            "answer": "Más deseable que las grandes riquezas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión cristiana sobre la creatividad en la moda y la apariencia?",
+            "options": [
+                "Toda la moda es pecado",
+                "Debe reflejar modestia, dignidad y evitar el enfoque excesivo en uno mismo",
+                "Debe ser lo más extravagante posible",
+                "Siempre debe estar oculta"
+            ],
+            "answer": "Debe reflejar modestia, dignidad y evitar el enfoque excesivo en uno mismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético con la publicidad falsa en un negocio dirigido por cristianos?",
+            "options": [
+                "Es una práctica común",
+                "Es solo un problema legal",
+                "Viola el principio bíblico de honestidad e integridad en el comercio",
+                "Es necesaria para la competencia"
+            ],
+            "answer": "Viola el principio bíblico de honestidad e integridad en el comercio"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"contextualización\" en misiones y cultura?",
+            "options": [
+                "Ignorar la cultura",
+                "Adoptar la cultura por completo",
+                "Comunicar el Evangelio de maneras culturalmente comprensibles sin comprometer la verdad",
+                "Solo usar un idioma"
+            ],
+            "answer": "Comunicar el Evangelio de maneras culturalmente comprensibles sin comprometer la verdad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del consumismo en la iglesia (2 Timoteo 4:3)?",
+            "options": [
+                "Dar demasiado",
+                "Cantar muy poco",
+                "Tratar a la iglesia/Dios como un proveedor de servicios para satisfacer necesidades personales",
+                "Demasiada doctrina"
+            ],
+            "answer": "Tratar a la iglesia/Dios como un proveedor de servicios para satisfacer necesidades personales"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para la propiedad intelectual?",
+            "options": [
+                "Debe ser gratuita para todos",
+                "Respetar los derechos del creador, basándose en el principio de propiedad y trabajo",
+                "Ignorar las leyes de derechos de autor",
+                "Robar ideas es eficiente"
+            ],
+            "answer": "Respetar los derechos del creador, basándose en el principio de propiedad y trabajo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué usó Jesús para comunicar la verdad eterna, demostrando el uso de la narrativa culturalmente relevante?",
+            "options": [
+                "Parábolas",
+                "Tratados largos",
+                "Informes financieros",
+                "Códigos legales"
+            ],
+            "answer": "Parábolas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la razón bíblica central por la que los cristianos deberían preocuparse por la justicia racial?",
+            "options": [
+                "Corrección política",
+                "Necesidad económica",
+                "Todos los humanos son una sola raza (humanidad) creada a imagen de Dios y redimida en Cristo",
+                "Tendencia social"
+            ],
+            "answer": "Todos los humanos son una sola raza (humanidad) creada a imagen de Dios y redimida en Cristo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué práctica del Antiguo Testamento (cada 7º año) es un ejemplo de un sistema económico diseñado para promover la igualdad y el descanso?",
+            "options": [
+                "Pésaj (Pascua)",
+                "Fiesta de los Tabernáculos",
+                "Año Sabático",
+                "Pentecostés"
+            ],
+            "answer": "Año Sabático"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque principal del llamado cristiano a la justicia social?",
+            "options": [
+                "Solo cambiar leyes",
+                "Solo dar dinero",
+                "Asegurar equidad, justicia y dignidad para los marginados",
+                "Solo la conversión individual"
+            ],
+            "answer": "Asegurar equidad, justicia y dignidad para los marginados"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué demanda el concepto bíblico de imparcialidad de los cristianos en la vida pública y la sala del tribunal (Santiago 2:1-4)?",
+            "options": [
+                "Favorecer a los ricos",
+                "Favorecer a los pobres",
+                "No mostrar favoritismo, independientemente de la riqueza o el estatus",
+                "Favorecer a los educados"
+            ],
+            "answer": "No mostrar favoritismo, independientemente de la riqueza o el estatus"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema global de la trata de personas?",
+            "options": [
+                "Ignorarlo como un problema extranjero",
+                "Abolición activa y defensa de la libertad y dignidad de las víctimas",
+                "Solo orar al respecto",
+                "Financiar a los perpetradores"
+            ],
+            "answer": "Abolición activa y defensa de la libertad y dignidad de las víctimas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la injusticia sistémica que está incrustada en las leyes, prácticas y cultura de una sociedad?",
+            "options": [
+                "Pecado Individual",
+                "Falta personal",
+                "Pecado Estructural/Sistémico",
+                "Mala suerte"
+            ],
+            "answer": "Pecado Estructural/Sistémico"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el papel del cristiano en abordar el problema de la pobreza (Deuteronomio 15:11)?",
+            "options": [
+                "Es problema de Dios",
+                "Debe ser ignorado",
+                "Abrir tu mano al hermano pobre y necesitado en la tierra",
+                "Solo el gobierno debería resolverlo"
+            ],
+            "answer": "Abrir tu mano al hermano pobre y necesitado en la tierra"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es necesaria para que un cristiano practique verdaderamente la empatía por el sufrimiento de los demás?",
+            "options": [
+                "Autosuficiencia",
+                "Seguridad financiera",
+                "Compasión (o Misericordia)",
+                "Elocuencia"
+            ],
+            "answer": "Compasión (o Misericordia)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética cristiana respecto a la desigualdad económica?",
+            "options": [
+                "Que todos deben ser igualmente ricos",
+                "Que la riqueza excesiva a menudo ocurre junto con la opresión de los pobres",
+                "Que la riqueza es siempre mala",
+                "Que la pobreza es un castigo"
+            ],
+            "answer": "Que la riqueza excesiva a menudo ocurre junto con la opresión de los pobres"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué libro del Nuevo Testamento enfatiza la necesidad de cuidar a las viudas y los huérfanos como una marca de la religión verdadera?",
+            "options": [
+                "Romanos",
+                "Gálatas",
+                "Santiago",
+                "Apocalipsis"
+            ],
+            "answer": "Santiago"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la definición bíblica de opresión?",
+            "options": [
+                "Desacuerdo",
+                "Ejercer poder y autoridad injustamente para explotar a los débiles",
+                "Cometer errores",
+                "Tener un mal día"
+            ],
+            "answer": "Ejercer poder y autoridad injustamente para explotar a los débiles"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la creencia de que la iglesia debe retirarse del mundo y enfocarse solo en asuntos espirituales?",
+            "options": [
+                "Separacionismo (o Retirada)",
+                "Integración",
+                "Transformación",
+                "Contextualización"
+            ],
+            "answer": "Separacionismo (o Retirada)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la clave para superar el prejuicio y la intolerancia desde el punto de vista cristiano (Col. 3:11)?",
+            "options": [
+                "Programas sociales",
+                "Mandatos políticos",
+                "Reconocer que \"Cristo es todo, y está en todos\" los creyentes",
+                "Diálogo interreligioso"
+            ],
+            "answer": "Reconocer que \"Cristo es todo, y está en todos\" los creyentes"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué figura del Antiguo Testamento representa el epítome del testimonio profético contra la injusticia social y real?",
+            "options": [
+                "David",
+                "Elías (o Amós)",
+                "Salomón",
+                "Aarón"
+            ],
+            "answer": "Elías (o Amós)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión cristiana sobre los refugiados e inmigrantes?",
+            "options": [
+                "Deben ser temidos",
+                "Deben ser aislados",
+                "El mandato bíblico de acoger al extranjero y forastero",
+                "Solo deben ser acogidos si se convierten"
+            ],
+            "answer": "El mandato bíblico de acoger al extranjero y forastero"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro de la justificación por obras al perseguir la justicia social?",
+            "options": [
+                "Ignorar a los pobres",
+                "Depender de las buenas obras para la salvación en lugar de la obra consumada de Cristo",
+                "No trabajar lo suficiente",
+                "Solo ayudar a cristianos"
+            ],
+            "answer": "Depender de las buenas obras para la salvación en lugar de la obra consumada de Cristo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto ético que sugiere que las acciones de uno, incluso si no son estrictamente ilegales, pueden hacer que un hermano o hermana en Cristo peque?",
+            "options": [
+                "Legalismo",
+                "Antinomianismo",
+                "Piedra de Tropiezo",
+                "Conciencia"
+            ],
+            "answer": "Piedra de Tropiezo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la diferencia entre la misericordia bíblica y la justicia bíblica?",
+            "options": [
+                "La justicia es para Dios, la misericordia es para el hombre",
+                "Son lo mismo",
+                "La justicia es recibir lo que mereces, la misericordia es no recibir lo que mereces",
+                "La misericordia es solo para los ricos"
+            ],
+            "answer": "La justicia es recibir lo que mereces, la misericordia es no recibir lo que mereces"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al conflicto militar (existen varias opiniones, pero ¿cuál es el hilo común?)?",
+            "options": [
+                "Pacifismo",
+                "Guerra Justa",
+                "Guerra Santa",
+                "Un enfoque sobrio que prioriza la paz, minimiza el daño y actúa con justicia"
+            ],
+            "answer": "Un enfoque sobrio que prioriza la paz, minimiza el daño y actúa con justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la responsabilidad ética cristiana respecto al uso del poder?",
+            "options": [
+                "Explotar a los débiles",
+                "Acapararlo",
+                "Usarlo para servir a otros y sostener la justicia",
+                "Ocultarlo"
+            ],
+            "answer": "Usarlo para servir a otros y sostener la justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué principio del Antiguo Testamento aseguraba que la tierra y la propiedad eventualmente volverían a la familia original, promoviendo la estabilidad económica a largo plazo?",
+            "options": [
+                "El Diezmo",
+                "El Año del Jubileo",
+                "La Pascua",
+                "La Fiesta de las Semanas"
+            ],
+            "answer": "El Año del Jubileo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del humanitarismo sin el Evangelio?",
+            "options": [
+                "Demasiado amor",
+                "Demasiada caridad",
+                "Abordar las necesidades físicas sin tratar la raíz espiritual (pecado)",
+                "No hay suficiente participación gubernamental"
+            ],
+            "answer": "Abordar las necesidades físicas sin tratar la raíz espiritual (pecado)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión cristiana sobre los derechos de los trabajadores y el trato justo en el lugar de trabajo?",
+            "options": [
+                "Es irrelevante",
+                "Los trabajadores siempre deben estar en silencio",
+                "Salarios justos y condiciones laborales justas son una cuestión de justicia",
+                "Los empleadores tienen derechos ilimitados"
+            ],
+            "answer": "Salarios justos y condiciones laborales justas son una cuestión de justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es el antídoto bíblico contra la envidia y la codicia?",
+            "options": [
+                "Enojo",
+                "Miedo",
+                "Contentamiento",
+                "Ambición"
+            ],
+            "answer": "Contentamiento"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética con la mano de obra y manufactura globalizada desde una perspectiva cristiana?",
+            "options": [
+                "Es demasiado eficiente",
+                "La explotación y falta de dignidad para los trabajadores en naciones en desarrollo",
+                "Es demasiado cara",
+                "Es demasiado lenta"
+            ],
+            "answer": "La explotación y falta de dignidad para los trabajadores en naciones en desarrollo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"reconciliación\" entre individuos o grupos distanciados?",
+            "options": [
+                "Solo perdón",
+                "Solo acuerdo legal",
+                "La restauración de la relación y la confianza a través de la confesión y el perdón",
+                "Ignorar el pasado"
+            ],
+            "answer": "La restauración de la relación y la confianza a través de la confesión y el perdón"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque principal del compromiso cívico cristiano en una democracia?",
+            "options": [
+                "Solo ganar elecciones",
+                "Abogar por leyes que reflejen justicia, dignidad humana y el bien común",
+                "Causar caos",
+                "Aislar a la iglesia"
+            ],
+            "answer": "Abogar por leyes que reflejen justicia, dignidad humana y el bien común"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético cristiano con chismear sobre temas sociales?",
+            "options": [
+                "Es demasiado lento",
+                "Es demasiado honesto",
+                "A menudo carece de amor, es calumnioso y no edifica a otros",
+                "Es demasiado formal"
+            ],
+            "answer": "A menudo carece de amor, es calumnioso y no edifica a otros"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término bíblico para una deuda que no se puede pagar, simbolizando nuestro estado espiritual?",
+            "options": [
+                "Préstamo",
+                "Diezmo",
+                "Transgresión (o Pecado)",
+                "Hipoteca"
+            ],
+            "answer": "Transgresión (o Pecado)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema del hambre global?",
+            "options": [
+                "No es nuestro problema",
+                "Solo dar dinero al gobierno",
+                "Participar activamente en alimentar a los hambrientos y abordar las causas sistémicas",
+                "Solo orar"
+            ],
+            "answer": "Participar activamente en alimentar a los hambrientos y abordar las causas sistémicas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión cristiana sobre el valor del trabajo en sí (Colosenses 3:23)?",
+            "options": [
+                "Es una maldición necesaria",
+                "Todo lo que hagáis, hacedlo de corazón, como para el Señor",
+                "Es solo por dinero",
+                "Debe evitarse"
+            ],
+            "answer": "Todo lo que hagáis, hacedlo de corazón, como para el Señor"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la responsabilidad ética de un cristiano que observa injusticia?",
+            "options": [
+                "Mirar para otro lado",
+                "Dar testimonio y hablar contra la injusticia con amor y verdad",
+                "Guardar silencio para mantener la paz",
+                "Solo escribir en un diario"
+            ],
+            "answer": "Dar testimonio y hablar contra la injusticia con amor y verdad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de que todas las personas, independientemente de su capacidad o salud, tienen el mismo estatus ante Dios?",
+            "options": [
+                "Igualdad de Imagen (Imago Dei)",
+                "Igualdad de Resultado",
+                "Igualdad de Riqueza",
+                "Igualdad de Poder"
+            ],
+            "answer": "Igualdad de Imagen (Imago Dei)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del legalismo en la acción social?",
+            "options": [
+                "Demasiada gracia",
+                "Ignorar la ley",
+                "Juzgar a otros por el desempeño externo en lugar de los motivos internos y la fe",
+                "No hay suficientes reglas"
+            ],
+            "answer": "Juzgar a otros por el desempeño externo en lugar de los motivos internos y la fe"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la postura ética cristiana sobre el soborno (Éxodo 23:8)?",
+            "options": [
+                "Es una herramienta necesaria",
+                "Solo está mal si es grande",
+                "No tomarás soborno, porque el soborno ciega al perspicaz y pervierte las causas de los justos",
+                "Es una forma de dar"
+            ],
+            "answer": "No tomarás soborno, porque el soborno ciega al perspicaz y pervierte las causas de los justos"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"ciudadanía del reino\" en el compromiso cultural?",
+            "options": [
+                "Solo obedecer las leyes de la iglesia",
+                "Vivir según las leyes de Cristo mientras se está sujeto al gobierno terrenal",
+                "Solo obedecer al gobierno",
+                "Ignorar todas las leyes"
+            ],
+            "answer": "Vivir según las leyes de Cristo mientras se está sujeto al gobierno terrenal"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cómo llama la Biblia a una persona que no provee para su propia familia (1 Timoteo 5:8)?",
+            "options": [
+                "Imprudente",
+                "Ocupado",
+                "Peor que un incrédulo",
+                "Necesitado"
+            ],
+            "answer": "Peor que un incrédulo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético cristiano con el consumo y desperdicio excesivos?",
+            "options": [
+                "Es demasiado difícil comprar cosas",
+                "Es solo una cuestión de gusto",
+                "Ignora las necesidades de los demás y es una mala mayordomía de los recursos de Dios",
+                "Hace crecer la economía"
+            ],
+            "answer": "Ignora las necesidades de los demás y es una mala mayordomía de los recursos de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué virtud es la opuesta a la autocompasión y permite al cristiano servir a otros efectivamente?",
+            "options": [
+                "Conocimiento",
+                "Poder",
+                "Altruismo",
+                "Aislamiento"
+            ],
+            "answer": "Altruismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el propósito principal de la defensa cristiana de los que no tienen voz?",
+            "options": [
+                "Ganar poder político",
+                "Sentirse bien",
+                "Sostener la dignidad y los derechos dados por Dios a los vulnerables",
+                "Solo criticar el sistema"
+            ],
+            "answer": "Sostener la dignidad y los derechos dados por Dios a los vulnerables"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es la Apologética en la fe cristiana (1 Pedro 3:15)?",
+            "options": [
+                "Disculparse por la fe",
+                "Negociar la doctrina",
+                "Una defensa razonada de la fe cristiana",
+                "Atacar otras religiones"
+            ],
+            "answer": "Una defensa razonada de la fe cristiana"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la característica principal de la cosmovisión del Secularismo?",
+            "options": [
+                "Creencia en todos los dioses",
+                "Creencia en un solo dios",
+                "Excluir a Dios y la religión de los asuntos públicos y la toma de decisiones",
+                "Creencia en milagros"
+            ],
+            "answer": "Excluir a Dios y la religión de los asuntos públicos y la toma de decisiones"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta cristiana a la afirmación cultural de que todas las religiones son igualmente verdaderas?",
+            "options": [
+                "Acuerdo",
+                "Silencio",
+                "La afirmación de que Jesucristo es el camino único y exclusivo a Dios (Juan 14:6)",
+                "Condenación"
+            ],
+            "answer": "La afirmación de que Jesucristo es el camino único y exclusivo a Dios (Juan 14:6)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la posición filosófica que niega la posibilidad de conocer la verdad objetiva?",
+            "options": [
+                "Agnosticismo (o Escepticismo)",
+                "Deísmo",
+                "Teísmo",
+                "Panteísmo"
+            ],
+            "answer": "Agnosticismo (o Escepticismo)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el argumento lógico que intenta reconciliar la existencia del mal y el sufrimiento con un Dios todopoderoso y bondadoso?",
+            "options": [
+                "Ontología",
+                "Cosmología",
+                "Teodicea",
+                "Teleología"
+            ],
+            "answer": "Teodicea"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la cosmovisión de que Dios creó el mundo pero ya no está involucrado en él?",
+            "options": [
+                "Ateísmo",
+                "Deísmo",
+                "Teísmo",
+                "Panteísmo"
+            ],
+            "answer": "Deísmo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque ético del cristiano al usar la razón y la lógica en la discusión cultural?",
+            "options": [
+                "Evitar la lógica por completo",
+                "Usar la lógica como un don de Dios para entender la verdad y presentar el Evangelio coherentemente",
+                "Confiando solo en la emoción",
+                "Usar la lógica para derrotar a las personas"
+            ],
+            "answer": "Usar la lógica como un don de Dios para entender la verdad y presentar el Evangelio coherentemente"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término teológico para la idea de que Dios se ha revelado a Sí mismo a través del mundo creado y la conciencia humana (Romanos 1:20)?",
+            "options": [
+                "Revelación General",
+                "Revelación Especial",
+                "Hecho Científico",
+                "Tradición"
+            ],
+            "answer": "Revelación General"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal desafío de la cosmovisión del Posmodernismo para la fe cristiana?",
+            "options": [
+                "Negar toda emoción",
+                "Promover el modernismo",
+                "Negar la posibilidad de la verdad objetiva o las \"metanarrativas\"",
+                "Enfoque excesivo en la ciencia"
+            ],
+            "answer": "Negar la posibilidad de la verdad objetiva o las \"metanarrativas\""
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la razón bíblica para la existencia de diferentes idiomas y culturas (Génesis 11)?",
+            "options": [
+                "Decisión arbitraria de Dios",
+                "Un proceso evolutivo natural",
+                "El juicio en la Torre de Babel para limitar el orgullo humano",
+                "Para facilitar los viajes"
+            ],
+            "answer": "El juicio en la Torre de Babel para limitar el orgullo humano"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la base filosófica para la creencia cristiana en los milagros?",
+            "options": [
+                "Fe ciega",
+                "Prueba científica",
+                "La capacidad de Dios para intervenir sobrenaturalmente en el orden natural que Él creó",
+                "Mitos culturales"
+            ],
+            "answer": "La capacidad de Dios para intervenir sobrenaturalmente en el orden natural que Él creó"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la cosmovisión de que el universo y todo en él es Dios (Dios es todo)?",
+            "options": [
+                "Monoteísmo",
+                "Panteísmo",
+                "Politeísmo",
+                "Dualismo"
+            ],
+            "answer": "Panteísmo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a los intentos culturales de redefinir el matrimonio y la estructura familiar?",
+            "options": [
+                "Aceptación silenciosa",
+                "Sostener la enseñanza bíblica del matrimonio como un pacto de por vida entre un hombre y una mujer",
+                "Retirada política total",
+                "Solo enfocarse en el divorcio"
+            ],
+            "answer": "Sostener la enseñanza bíblica del matrimonio como un pacto de por vida entre un hombre y una mujer"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la creencia teológica de que Dios se revela a Sí mismo a través de la Biblia y Jesucristo?",
+            "options": [
+                "Revelación General",
+                "Revelación Especial",
+                "Hecho Científico",
+                "Tradición"
+            ],
+            "answer": "Revelación Especial"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro ético del gnosticismo en la espiritualidad moderna?",
+            "options": [
+                "Enfoque excesivo en el cuerpo",
+                "Enfoque excesivo en la ley",
+                "Subestimar el mundo físico y el cuerpo humano en favor del conocimiento secreto",
+                "Negar la existencia de Dios"
+            ],
+            "answer": "Subestimar el mundo físico y el cuerpo humano en favor del conocimiento secreto"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta cristiana al problema del mal basada en la cruz?",
+            "options": [
+                "Negar que el mal existe",
+                "Dios entrando y conquistando el mal y el sufrimiento a través de Cristo",
+                "Culpar a la víctima",
+                "Ignorar el sufrimiento"
+            ],
+            "answer": "Dios entrando y conquistando el mal y el sufrimiento a través de Cristo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la afirmación de que todo conocimiento proviene de la experiencia sensorial (observación)?",
+            "options": [
+                "Racionalismo",
+                "Idealismo",
+                "Empirismo",
+                "Existencialismo"
+            ],
+            "answer": "Empirismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a los movimientos culturales que promueven el utopianismo (sociedad perfecta en la Tierra)?",
+            "options": [
+                "Acuerdo completo",
+                "Reconocer que la verdadera perfección solo puede ser lograda por Dios en el Nuevo Cielo y la Nueva Tierra",
+                "Dar todos los recursos al gobierno",
+                "Ignorar toda reforma social"
+            ],
+            "answer": "Reconocer que la verdadera perfección solo puede ser lograda por Dios en el Nuevo Cielo y la Nueva Tierra"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término teológico para la enseñanza bíblica de que Jesucristo es completamente Dios y completamente hombre?",
+            "options": [
+                "Unión Hipostática",
+                "Trinidad",
+                "Encarnación",
+                "Glorificación"
+            ],
+            "answer": "Unión Hipostática"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro del dualismo en la cultura cristiana?",
+            "options": [
+                "Sobre-enfoque en la ciencia",
+                "Separar la vida espiritual del mundo físico/secular",
+                "Poco enfoque en Dios",
+                "Demasiado enfoque en la tradición"
+            ],
+            "answer": "Separar la vida espiritual del mundo físico/secular"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la cosmovisión que se centra en la razón humana, la ciencia y el individualismo como las claves del progreso?",
+            "options": [
+                "Modernismo (o Ilustración)",
+                "Posmodernismo",
+                "Medievalismo",
+                "Fundamentalismo"
+            ],
+            "answer": "Modernismo (o Ilustración)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el papel del cristiano en la búsqueda de la verdad histórica?",
+            "options": [
+                "Fabricar historia",
+                "Búsqueda diligente de la verdad, reconociendo que Dios es el autor de la historia",
+                "Solo confiar en la tradición",
+                "Ignorar todos los datos históricos"
+            ],
+            "answer": "Búsqueda diligente de la verdad, reconociendo que Dios es el autor de la historia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el estudio de la naturaleza del ser, la existencia o la realidad?",
+            "options": [
+                "Ontología",
+                "Epistemología",
+                "Ética",
+                "Axiología"
+            ],
+            "answer": "Ontología"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el concepto de que la Biblia es la única fuente de verdad infalible y autoridad última?",
+            "options": [
+                "Traducianismo",
+                "Pelagianismo",
+                "Sola Scriptura",
+                "Arminianismo"
+            ],
+            "answer": "Sola Scriptura"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para la práctica cultural de la astrología y la adivinación?",
+            "options": [
+                "Es entretenimiento inofensivo",
+                "Es una forma de adivinación e idolatría que confía en las cosas creadas en lugar del Creador",
+                "Es una forma de ciencia",
+                "Es un buen pasatiempo"
+            ],
+            "answer": "Es una forma de adivinación e idolatría que confía en las cosas creadas en lugar del Creador"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el sistema filosófico que coloca a la humanidad, en lugar de a Dios, en el centro de todas las cosas?",
+            "options": [
+                "Humanismo",
+                "Teísmo",
+                "Idealismo",
+                "Materialismo"
+            ],
+            "answer": "Humanismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el argumento de que las constantes finamente ajustadas del universo apuntan a un diseñador inteligente?",
+            "options": [
+                "Cosmológico",
+                "Ontológico",
+                "Teleológico (o del Diseño)",
+                "Moral"
+            ],
+            "answer": "Teleológico (o del Diseño)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético con la hipocresía en la vida cristiana (Mateo 23:2-3)?",
+            "options": [
+                "Es un mal necesario",
+                "Es solo sobre el dinero",
+                "Profesar fe mientras se falla en vivir consistentemente, lo que desacredita el Evangelio",
+                "Es una forma de arte"
+            ],
+            "answer": "Profesar fe mientras se falla en vivir consistentemente, lo que desacredita el Evangelio"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la cosmovisión que niega la existencia de un Dios o dioses?",
+            "options": [
+                "Ateísmo",
+                "Agnosticismo",
+                "Politeísmo",
+                "Monoteísmo"
+            ],
+            "answer": "Ateísmo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a las injusticias históricas cometidas en nombre de la iglesia?",
+            "options": [
+                "Negar que sucedieron",
+                "Confesión, arrepentimiento y buscar reparar el daño (restitución)",
+                "Culpar a las generaciones pasadas",
+                "Ignorar el problema"
+            ],
+            "answer": "Confesión, arrepentimiento y buscar reparar el daño (restitución)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el estudio de cómo los humanos saben lo que saben (la teoría del conocimiento)?",
+            "options": [
+                "Ontología",
+                "Epistemología",
+                "Ética",
+                "Axiología"
+            ],
+            "answer": "Epistemología"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la afirmación cristiana respecto a la singularidad del Evangelio en el evangelismo cultural?",
+            "options": [
+                "Es uno de muchos caminos",
+                "Es el único mensaje que reconcilia a la humanidad con Dios a través de la muerte y resurrección de Cristo",
+                "Es una buena historia moral",
+                "Es solo para ciertas personas"
+            ],
+            "answer": "Es el único mensaje que reconcilia a la humanidad con Dios a través de la muerte y resurrección de Cristo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la posición filosófica de que no hay significado o valor en la vida?",
+            "options": [
+                "Existencialismo",
+                "Humanismo",
+                "Nihilismo",
+                "Idealismo"
+            ],
+            "answer": "Nihilismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque del cristiano hacia el descubrimiento científico (Salmo 19:1)?",
+            "options": [
+                "Rechazar la ciencia",
+                "Aceptar que la ciencia es el estudio de la creación de Dios, revelando Su gloria y orden",
+                "Elevar la ciencia por encima de la Biblia",
+                "Solo confiar en textos históricos"
+            ],
+            "answer": "Aceptar que la ciencia es el estudio de la creación de Dios, revelando Su gloria y orden"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para el uso de productos farmacéuticos y medicina?",
+            "options": [
+                "Rechazar toda medicina",
+                "Usar la medicina como un don de la gracia común para aliviar el sufrimiento y ser mayordomo del cuerpo",
+                "Solo usar remedios naturales",
+                "Confiando en la medicina más que en Dios"
+            ],
+            "answer": "Usar la medicina como un don de la gracia común para aliviar el sufrimiento y ser mayordomo del cuerpo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la cosmovisión que se centra en los sentimientos y experiencias individuales como la fuente principal de verdad y significado?",
+            "options": [
+                "Individualismo Expresivo",
+                "Comunismo",
+                "Colectivismo",
+                "Tradicionalismo"
+            ],
+            "answer": "Individualismo Expresivo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético con la superstición en la vida cristiana?",
+            "options": [
+                "Es demasiado simple",
+                "Es demasiado intelectual",
+                "Atribuye poder a objetos creados o rituales en lugar de solo a Dios",
+                "Es demasiado inofensiva"
+            ],
+            "answer": "Atribuye poder a objetos creados o rituales en lugar de solo a Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la perspectiva ética cristiana sobre la libertad religiosa?",
+            "options": [
+                "Solo los cristianos deberían tener libertad",
+                "Abogar por el derecho de todas las personas a seguir su conciencia en asuntos de religión",
+                "Negar la libertad a todos los no cristianos",
+                "La libertad religiosa es irrelevante"
+            ],
+            "answer": "Abogar por el derecho de todas las personas a seguir su conciencia en asuntos de religión"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro del deísmo terapéutico moralista?",
+            "options": [
+                "Demasiado enfoque en la doctrina",
+                "Reducir a Dios a una fuerza útil centrada en la felicidad personal y el buen comportamiento",
+                "Demasiado enfoque en el pecado",
+                "Demasiado enfoque en la Biblia"
+            ],
+            "answer": "Reducir a Dios a una fuerza útil centrada en la felicidad personal y el buen comportamiento"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la posición filosófica que niega la realidad del mundo físico en favor de la conciencia?",
+            "options": [
+                "Realismo",
+                "Materialismo",
+                "Idealismo",
+                "Nihilismo"
+            ],
+            "answer": "Idealismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética con las tecnologías reproductivas (como la FIV) desde una perspectiva cristiana?",
+            "options": [
+                "Es demasiado cara",
+                "Es demasiado difícil",
+                "La santidad de la vida, especialmente con respecto a la selección y destrucción de embriones",
+                "Es demasiado natural"
+            ],
+            "answer": "La santidad de la vida, especialmente con respecto a la selección y destrucción de embriones"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el enfoque ético cristiano hacia el lugar de trabajo secular?",
+            "options": [
+                "Solo predicar",
+                "Trabajar con excelencia e integridad, tratando a los colegas con amor y respeto",
+                "Ser perezoso",
+                "Ignorar todas las reglas"
+            ],
+            "answer": "Trabajar con excelencia e integridad, tratando a los colegas con amor y respeto"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el fenómeno cultural donde los sentimientos personales y la identidad son primordiales sobre la verdad objetiva?",
+            "options": [
+                "Expresivismo",
+                "Racionalismo",
+                "Empirismo",
+                "Modernismo"
+            ],
+            "answer": "Expresivismo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la responsabilidad ética cristiana respecto a la deuda y los préstamos?",
+            "options": [
+                "Nunca prestar dinero",
+                "Siempre prestar dinero",
+                "Prestar generosamente a los pobres, pero evitar intereses explotadores (usura)",
+                "Solo prestar a la familia"
+            ],
+            "answer": "Prestar generosamente a los pobres, pero evitar intereses explotadores (usura)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro del individualismo en la vida cristiana?",
+            "options": [
+                "Demasiada comunidad",
+                "Muy poca libertad",
+                "Descuidar la necesidad de comunidad, responsabilidad y apoyo mutuo",
+                "Demasiado trabajo"
+            ],
+            "answer": "Descuidar la necesidad de comunidad, responsabilidad y apoyo mutuo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al tema de la pena de muerte?",
+            "options": [
+                "Rechazo total",
+                "Aceptación total",
+                "Reconocer el derecho dado por Dios al estado de usar la espada (Romanos 13), mientras también considera la justicia y la misericordia",
+                "Ignorar la ley"
+            ],
+            "answer": "Reconocer el derecho dado por Dios al estado de usar la espada (Romanos 13), mientras también considera la justicia y la misericordia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética cristiana con el transhumanismo (usar la tecnología para mejorar radicalmente el cuerpo/mente humano)?",
+            "options": [
+                "Es demasiado caro",
+                "Es demasiado lento",
+                "Intenta superar los límites de la creación y la mortalidad sin la intervención de Dios",
+                "Es demasiado simple"
+            ],
+            "answer": "Intenta superar los límites de la creación y la mortalidad sin la intervención de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"vida misionera\" en el cristianismo contemporáneo?",
+            "options": [
+                "Solo ir al extranjero",
+                "Solo predicar los domingos",
+                "Integrar el evangelismo y el servicio en todas las áreas de la vida diaria",
+                "Solo trabajar para una organización sin fines de lucro"
+            ],
+            "answer": "Integrar el evangelismo y el servicio en todas las áreas de la vida diaria"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la instrucción bíblica respecto a la actitud del cristiano hacia la riqueza (1 Timoteo 6:17)?",
+            "options": [
+                "Acapararla",
+                "Negarla",
+                "No ser arrogantes ni poner la esperanza en la riqueza, sino en Dios",
+                "Usarla para lujo personal"
+            ],
+            "answer": "No ser arrogantes ni poner la esperanza en la riqueza, sino en Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la preocupación ética con el suicidio asistido/eutanasia desde una perspectiva de santidad de la vida?",
+            "options": [
+                "Es demasiado caro",
+                "Es demasiado difícil",
+                "Toma deliberadamente una vida creada a imagen de Dios, usurpando la autoridad de Dios sobre la vida y la muerte",
+                "Es demasiado fácil"
+            ],
+            "answer": "Toma deliberadamente una vida creada a imagen de Dios, usurpando la autoridad de Dios sobre la vida y la muerte"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a la adicción (por ejemplo, abuso de sustancias, juego)?",
+            "options": [
+                "Aislamiento",
+                "Condenación",
+                "Ofrecer esperanza, perdón y comunidad para la liberación espiritual y física",
+                "Ignorar el problema"
+            ],
+            "answer": "Ofrecer esperanza, perdón y comunidad para la liberación espiritual y física"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión ética cristiana sobre los roles de género dentro de la iglesia y la familia (existen varias opiniones, pero ¿cuál es el fundamento común?)?",
+            "options": [
+                "Son arbitrarios",
+                "Son irrelevantes",
+                "Deben estar arraigados en la enseñanza bíblica, reflejando el orden y diseño de Dios",
+                "Son puramente culturales"
+            ],
+            "answer": "Deben estar arraigados en la enseñanza bíblica, reflejando el orden y diseño de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro del legalismo en el compromiso cultural?",
+            "options": [
+                "Demasiada gracia",
+                "Intentar cambiar el mundo con reglas/leyes en lugar de la transformación del Evangelio",
+                "Ignorar todas las reglas",
+                "Demasiada libertad"
+            ],
+            "answer": "Intentar cambiar el mundo con reglas/leyes en lugar de la transformación del Evangelio"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"mandato cultural\"?",
+            "options": [
+                "Solo obedecer las leyes gubernamentales",
+                "El mandato original a la humanidad de llenar la tierra y ejercer dominio sobre ella",
+                "Solo evangelizar",
+                "Evitar toda cultura"
+            ],
+            "answer": "El mandato original a la humanidad de llenar la tierra y ejercer dominio sobre ella"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema de la persecución religiosa a nivel global?",
+            "options": [
+                "Silencio",
+                "Defensa, intercesión y apoyo práctico para la iglesia perseguida",
+                "Retaliación violenta",
+                "Ignorar el problema"
+            ],
+            "answer": "Defensa, intercesión y apoyo práctico para la iglesia perseguida"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué dice la Biblia sobre el uso del tiempo por parte del cristiano (Efesios 5:16)?",
+            "options": [
+                "Gastarlo todo en el trabajo",
+                "Gastarlo todo en ocio",
+                "Aprovechando bien el tiempo (redimiendo el tiempo)",
+                "Ignorar el reloj"
+            ],
+            "answer": "Aprovechando bien el tiempo (redimiendo el tiempo)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el problema ético cristiano con el aborto?",
+            "options": [
+                "Es demasiado caro",
+                "Es demasiado fácil",
+                "Viola la santidad de la vida, ya que los no nacidos son creados a imagen de Dios",
+                "Es una cuestión de elección personal"
+            ],
+            "answer": "Viola la santidad de la vida, ya que los no nacidos son creados a imagen de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"trabajo secular\" en misiones y cultura?",
+            "options": [
+                "Vivir en una carpa",
+                "Construir iglesias",
+                "Usar el trabajo secular para ganar acceso y apoyar el ministerio en áreas no alcanzadas",
+                "Solo trabajar en la iglesia"
+            ],
+            "answer": "Usar el trabajo secular para ganar acceso y apoyar el ministerio en áreas no alcanzadas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro de la psicología secular para la fe cristiana?",
+            "options": [
+                "Es demasiado útil",
+                "A menudo se basa en principios humanistas en lugar de pecado/redención para diagnosticar problemas",
+                "Es demasiado bíblica",
+                "Es demasiado cara"
+            ],
+            "answer": "A menudo se basa en principios humanistas en lugar de pecado/redención para diagnosticar problemas"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema de las luchas de salud mental?",
+            "options": [
+                "Culpar a la víctima",
+                "Ignorar el cerebro físico",
+                "Cuidado compasivo, reconociendo tanto factores espirituales como fisiológicos",
+                "Solo confiar en la sanación por fe"
+            ],
+            "answer": "Cuidado compasivo, reconociendo tanto factores espirituales como fisiológicos"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión ética cristiana sobre los tatuajes y la modificación corporal?",
+            "options": [
+                "Siempre un pecado",
+                "Siempre requerido",
+                "Varía según la tradición, centrado en la modestia, dignidad y evitar prácticas culturales/paganas (Levítico 19:28)",
+                "Solo para autoexpresión"
+            ],
+            "answer": "Varía según la tradición, centrado en la modestia, dignidad y evitar prácticas culturales/paganas (Levítico 19:28)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el fenómeno cultural donde la identidad está determinada principalmente por la orientación o preferencia sexual?",
+            "options": [
+                "Naturalismo",
+                "Existencialismo",
+                "Identidad Sexual",
+                "Materialismo"
+            ],
+            "answer": "Identidad Sexual"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para la donación de órganos?",
+            "options": [
+                "Siempre es un pecado",
+                "Generalmente aceptada como un acto de caridad cristiana (dar vida), respetando el cuerpo",
+                "Siempre requerida",
+                "Es solo para los ricos"
+            ],
+            "answer": "Generalmente aceptada como un acto de caridad cristiana (dar vida), respetando el cuerpo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"imaginación profética\" en la cultura cristiana?",
+            "options": [
+                "Predecir el futuro",
+                "Solo leer la Biblia",
+                "La capacidad de visualizar un mundo transformado por el reino de Dios y desafiar el statu quo actual",
+                "Solo aceptar el mundo actual"
+            ],
+            "answer": "La capacidad de visualizar un mundo transformado por el reino de Dios y desafiar el statu quo actual"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el principal peligro del activismo sin relación?",
+            "options": [
+                "Demasiado amor",
+                "Abogar por las personas sin realmente conocerlas, servirlas o amarlas personalmente",
+                "Muy poco esfuerzo",
+                "Demasiada oración"
+            ],
+            "answer": "Abogar por las personas sin realmente conocerlas, servirlas o amarlas personalmente"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la postura ética cristiana sobre el bienestar animal?",
+            "options": [
+                "Los animales son irrelevantes",
+                "Los animales son iguales a los humanos",
+                "Los humanos son mayordomos (dominio) sobre los animales, requiriendo cuidado responsable y compasivo",
+                "Los animales deben ser adorados"
+            ],
+            "answer": "Los humanos son mayordomos (dominio) sobre los animales, requiriendo cuidado responsable y compasivo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el proceso de crecimiento espiritual que ocurre dentro del contexto de la comunidad cristiana?",
+            "options": [
+                "Individualismo",
+                "Santificación Corporativa",
+                "Justificación",
+                "Aislamiento"
+            ],
+            "answer": "Santificación Corporativa"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema de las crisis de refugiados?",
+            "options": [
+                "Ignorarlos",
+                "Culparlos",
+                "Proporcionar cuidado práctico y espiritual, recordando el mandato bíblico de hospitalidad y justicia",
+                "Solo apoyar a un país"
+            ],
+            "answer": "Proporcionar cuidado práctico y espiritual, recordando el mandato bíblico de hospitalidad y justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el peligro del anti-intelectualismo en la cultura cristiana?",
+            "options": [
+                "Demasiado pensamiento",
+                "Rechazar la necesidad de la razón y el estudio riguroso de Dios y el mundo",
+                "Demasiada emoción",
+                "Demasiada oración"
+            ],
+            "answer": "Rechazar la necesidad de la razón y el estudio riguroso de Dios y el mundo"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para la modificación genética (OGM)?",
+            "options": [
+                "Siempre es un pecado",
+                "Siempre es requerida",
+                "Juzgada en base a la mayordomía, el potencial para el bien (alimentar a los hambrientos) y evitar la manipulación del diseño de Dios",
+                "Es una nueva forma de adoración"
+            ],
+            "answer": "Juzgada en base a la mayordomía, el potencial para el bien (alimentar a los hambrientos) y evitar la manipulación del diseño de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema del nacionalismo?",
+            "options": [
+                "Devoción total al estado",
+                "Rechazo total del estado",
+                "Reconocer que la lealtad última es al Reino de Cristo, mientras se respeta el gobierno terrenal",
+                "Solo apoyar a una nación"
+            ],
+            "answer": "Reconocer que la lealtad última es al Reino de Cristo, mientras se respeta el gobierno terrenal"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para el fenómeno cultural donde la creencia religiosa es completamente privada y no tiene expresión pública?",
+            "options": [
+                "Privatización de la Fe",
+                "Fe Pública",
+                "Evangelismo",
+                "Misiones"
+            ],
+            "answer": "Privatización de la Fe"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana al problema de la guerra y la violencia?",
+            "options": [
+                "Glorificarla",
+                "Ignorarla",
+                "Priorizar la paz, buscar la reconciliación y actuar con justicia cuando la violencia es inevitable",
+                "Siempre participar en la guerra"
+            ],
+            "answer": "Priorizar la paz, buscar la reconciliación y actuar con justicia cuando la violencia es inevitable"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la definición bíblica de sabiduría en un contexto cultural (Santiago 3:17)?",
+            "options": [
+                "Astucia",
+                "Conocimiento",
+                "Pureza, paz, amabilidad, misericordia e imparcialidad",
+                "Ser la persona más inteligente"
+            ],
+            "answer": "Pureza, paz, amabilidad, misericordia e imparcialidad"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la visión ética cristiana sobre la creación de riqueza?",
+            "options": [
+                "Siempre es mala",
+                "Es irrelevante",
+                "Es permisible, siempre que se use para la gloria de Dios, la generosidad y la justicia",
+                "Es la única meta"
+            ],
+            "answer": "Es permisible, siempre que se use para la gloria de Dios, la generosidad y la justicia"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Qué es el concepto de \"compromiso transformador\" en la cultura?",
+            "options": [
+                "Solo enfocarse en uno mismo",
+                "Comprometerse con la cultura con el Evangelio para cambiarla desde adentro hacia afuera",
+                "Solo criticar la cultura",
+                "Solo separarse de la cultura"
+            ],
+            "answer": "Comprometerse con la cultura con el Evangelio para cambiarla desde adentro hacia afuera"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la respuesta ética cristiana a la promiscuidad sexual en la cultura?",
+            "options": [
+                "Aceptación silenciosa",
+                "Abogar por el diseño de Dios para la pureza sexual, arraigado en la dignidad del cuerpo y el matrimonio",
+                "Ignorar el problema",
+                "Promover todas las formas de sexo"
+            ],
+            "answer": "Abogar por el diseño de Dios para la pureza sexual, arraigado en la dignidad del cuerpo y el matrimonio"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el término para la creencia cultural de que el bien humano más alto es la libertad y autonomía individual?",
+            "options": [
+                "Libertarismo (o Individualismo Radical)",
+                "Colectivismo",
+                "Comunismo",
+                "Socialismo"
+            ],
+            "answer": "Libertarismo (o Individualismo Radical)"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es la consideración ética cristiana para las pruebas genéticas (por ejemplo, para predecir enfermedades)?",
+            "options": [
+                "Siempre es un pecado",
+                "Usar el conocimiento responsablemente para la mayordomía de la salud, sin usurpar la providencia de Dios",
+                "Es demasiado simple",
+                "Debe evitarse"
+            ],
+            "answer": "Usar el conocimiento responsablemente para la mayordomía de la salud, sin usurpar la providencia de Dios"
+        },
+        {
+            "topic": "Fe y Cultura",
+            "question": "¿Cuál es el estándar final y no negociable para el compromiso cristiano con todos los aspectos de la cultura?",
+            "options": [
+                "Opinión personal",
+                "Tendencia social",
+                "La Autoridad de las Escrituras (La Biblia)",
+                "Consenso científico"
+            ],
+            "answer": "La Autoridad de las Escrituras (La Biblia)"
+        }
+    ]
+}

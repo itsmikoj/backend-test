@@ -1,0 +1,818 @@
+{
+    "questions": [
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Jewish belief in one God is called what?",
+            "options": [
+                "Polytheism",
+                "Monotheism",
+                "Pantheism",
+                "Animism"
+            ],
+            "answer": "Monotheism"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Christian theological term for God's unmerited favor toward humanity?",
+            "options": [
+                "Works",
+                "Law",
+                "Grace",
+                "Merit"
+            ],
+            "answer": "Grace"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the promised ultimate deliverer of the Jewish nation, a concept also central to Christian belief?",
+            "options": [
+                "Prophet",
+                "Messiah",
+                "King",
+                "Sage"
+            ],
+            "answer": "Messiah"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which set of laws forms the moral foundation given to Moses?",
+            "options": [
+                "The Beatitudes",
+                "The Ten Commandments",
+                "The Golden Rule",
+                "The Apostolic Decrees"
+            ],
+            "answer": "The Ten Commandments"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Christian doctrine that describes God existing as three persons: Father, Son, and Holy Spirit?",
+            "options": [
+                "The Sovereignty",
+                "The Incarnation",
+                "The Trinity",
+                "The Redemption"
+            ],
+            "answer": "The Trinity"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the spiritual and moral condition of humanity inherited from Adam's sin?",
+            "options": [
+                "Total Depravity",
+                "Original Sin",
+                "Imputed Righteousness",
+                "Legalism"
+            ],
+            "answer": "Original Sin"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which term describes the act of turning away from sin and committing to a change in direction toward God?",
+            "options": [
+                "Justification",
+                "Sanctification",
+                "Repentance",
+                "Redemption"
+            ],
+            "answer": "Repentance"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the name of the Jewish day of rest and worship observed from Friday evening to Saturday evening?",
+            "options": [
+                "Sukkot",
+                "Sabbath",
+                "Passover",
+                "Hanukkah"
+            ],
+            "answer": "Sabbath"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What Christian sacrament involves the symbolic washing with water, representing new life in Christ?",
+            "options": [
+                "Confirmation",
+                "Eucharist",
+                "Baptism",
+                "Anointing"
+            ],
+            "answer": "Baptism"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Christian ceremony involving bread and wine, commemorating Jesus' Last Supper, is most commonly called what?",
+            "options": [
+                "Advent",
+                "Lent",
+                "Communion (or Eucharist)",
+                "Penance"
+            ],
+            "answer": "Communion (or Eucharist)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the collective term for the first five books of the Bible (Genesis, Exodus, Leviticus, Numbers, Deuteronomy)?",
+            "options": [
+                "Nevi'im",
+                "Ketuvim",
+                "Apocrypha",
+                "Pentateuch (or Torah)"
+            ],
+            "answer": "Pentateuch (or Torah)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the belief that the Scriptures are without error in the original manuscripts?",
+            "options": [
+                "Inerrancy",
+                "Atonement",
+                "Revelation",
+                "Inspiration"
+            ],
+            "answer": "Inerrancy"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Christian holiday that celebrates the resurrection of Jesus Christ?",
+            "options": [
+                "Christmas",
+                "Lent",
+                "Easter",
+                "Pentecost"
+            ],
+            "answer": "Easter"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What Jewish holiday is known as the \"Day of Atonement,\" the holiest day of the year?",
+            "options": [
+                "Purim",
+                "Rosh Hashanah",
+                "Yom Kippur",
+                "Shavuot"
+            ],
+            "answer": "Yom Kippur"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The concept of \"Tzedakah\" in Judaism primarily refers to what practice?",
+            "options": [
+                "Studying the Torah",
+                "Giving charity/Justice",
+                "Fasting",
+                "Worshipping in the Temple"
+            ],
+            "answer": "Giving charity/Justice"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the belief that everything that happens has been eternally decided by God?",
+            "options": [
+                "Free Will",
+                "Providence",
+                "Predestination",
+                "Humanism"
+            ],
+            "answer": "Predestination"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the name \"Jesus\" (Yeshua) literally mean?",
+            "options": [
+                "God is Salvation",
+                "God is Love",
+                "God is Holy",
+                "God is Mighty"
+            ],
+            "answer": "God is Salvation"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Gospel of John famously begins with the statement: \"In the beginning was the ________.\"",
+            "options": [
+                "Light",
+                "Man",
+                "Word",
+                "Spirit"
+            ],
+            "answer": "Word"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What term describes the act of proclaiming religious truths to non-believers, often commanded by Jesus?",
+            "options": [
+                "Discipleship",
+                "Evangelism",
+                "Fellowship",
+                "Asceticism"
+            ],
+            "answer": "Evangelism"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which major Christian feast celebrates the incarnation, or the birth of Jesus?",
+            "options": [
+                "Advent",
+                "Epiphany",
+                "Easter",
+                "Christmas"
+            ],
+            "answer": "Christmas"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the final book of the New Testament, primarily focused on prophecy and the end times?",
+            "options": [
+                "Romans",
+                "James",
+                "Revelation",
+                "Hebrews"
+            ],
+            "answer": "Revelation"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What religious practice involves abstaining from food for a period, often for spiritual discipline and mourning?",
+            "options": [
+                "Meditation",
+                "Fasting",
+                "Almsgiving",
+                "Pilgrimage"
+            ],
+            "answer": "Fasting"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Christian concept of ________ is the state of being declared righteous in God's sight.",
+            "options": [
+                "Sanctification",
+                "Justification",
+                "Glorification",
+                "Redemption"
+            ],
+            "answer": "Justification"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the spiritual and physical signs that accompany the return of Christ and the end of the world?",
+            "options": [
+                "Eschatology",
+                "Pneumatology",
+                "Soteriology",
+                "Ecclesiology"
+            ],
+            "answer": "Eschatology"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which of the Ten Commandments focuses on honoring one's parents?",
+            "options": [
+                "Fourth",
+                "Fifth",
+                "Sixth",
+                "Seventh"
+            ],
+            "answer": "Fifth"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the study of the nature of God and religious truth?",
+            "options": [
+                "Sociology",
+                "Philosophy",
+                "Theology",
+                "Anthropology"
+            ],
+            "answer": "Theology"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What specific New Testament event is often considered the birth of the Christian Church?",
+            "options": [
+                "The Transfiguration",
+                "The Crucifixion",
+                "The Day of Pentecost",
+                "The Last Supper"
+            ],
+            "answer": "The Day of Pentecost"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the word \"Christ\" (Christos) mean?",
+            "options": [
+                "Son of God",
+                "Anointed One",
+                "Savior",
+                "Lord of Lords"
+            ],
+            "answer": "Anointed One"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the name of the main religious structure used for worship and teaching in Judaism?",
+            "options": [
+                "Temple",
+                "Mosque",
+                "Church",
+                "Synagogue"
+            ],
+            "answer": "Synagogue"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which book of the Bible is primarily a collection of hymns and prayers?",
+            "options": [
+                "Proverbs",
+                "Ecclesiastes",
+                "Psalms",
+                "Song of Solomon"
+            ],
+            "answer": "Psalms"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Jewish dietary law governing food preparation and consumption?",
+            "options": [
+                "Halal",
+                "Kosher (Kashrut)",
+                "Sharia",
+                "Mitzvah"
+            ],
+            "answer": "Kosher (Kashrut)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Christian teaching that Jesus was both fully God and fully man is called what?",
+            "options": [
+                "Omniscience",
+                "Transubstantiation",
+                "The Hypostatic Union",
+                "Immutability"
+            ],
+            "answer": "The Hypostatic Union"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What Jewish festival celebrates the rededication of the Second Temple in Jerusalem?",
+            "options": [
+                "Passover",
+                "Sukkot",
+                "Hanukkah",
+                "Yom Kippur"
+            ],
+            "answer": "Hanukkah"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the belief that Jesus's body was taken directly into heaven after his resurrection?",
+            "options": [
+                "Rapture",
+                "Assumption",
+                "Ascension",
+                "Transfiguration"
+            ],
+            "answer": "Ascension"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the New Testament term for a \"letter\" written by an Apostle?",
+            "options": [
+                "Prophecy",
+                "Parable",
+                "Gospel",
+                "Epistle"
+            ],
+            "answer": "Epistle"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the Hebrew term \"Amen\" mean?",
+            "options": [
+                "Let us pray",
+                "Praise God",
+                "So be it",
+                "The King is coming"
+            ],
+            "answer": "So be it"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The concept of \"sheol\" in the Old Testament is often translated as what?",
+            "options": [
+                "Heaven",
+                "Hell",
+                "The grave (or pit)",
+                "Paradise"
+            ],
+            "answer": "The grave (or pit)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which of the Ten Commandments forbids worshipping false idols or images?",
+            "options": [
+                "First",
+                "Second",
+                "Third",
+                "Fourth"
+            ],
+            "answer": "Second"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the doctrine that emphasizes the church's unique authority and structure?",
+            "options": [
+                "Soteriology",
+                "Pneumatology",
+                "Ecclesiology",
+                "Christology"
+            ],
+            "answer": "Ecclesiology"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "In the New Testament, which apostle is known for emphasizing the relationship between faith and good works?",
+            "options": [
+                "Paul",
+                "Peter",
+                "John",
+                "James"
+            ],
+            "answer": "James"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the ultimate goal or reward promised to Christians in the afterlife?",
+            "options": [
+                "Eternal life",
+                "Earthly riches",
+                "Perfect knowledge",
+                "Spiritual power"
+            ],
+            "answer": "Eternal life"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What religious concept involves a journey to a sacred place as an act of devotion?",
+            "options": [
+                "Fasting",
+                "Pilgrimage",
+                "Meditation",
+                "Penance"
+            ],
+            "answer": "Pilgrimage"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which book of the Bible opens with, \"Vanity of vanities, all is vanity\"?",
+            "options": [
+                "Proverbs",
+                "Job",
+                "Ecclesiastes",
+                "Lamentations"
+            ],
+            "answer": "Ecclesiastes"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What term is used for the four writers whose accounts form the New Testament Gospels?",
+            "options": [
+                "Evangelists",
+                "Apostles",
+                "Prophets",
+                "Disciples"
+            ],
+            "answer": "Evangelists"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What concept is primarily associated with the word \"shalom\" in Hebrew?",
+            "options": [
+                "Peace (completeness/well-being)",
+                "War",
+                "Strength",
+                "Law"
+            ],
+            "answer": "Peace (completeness/well-being)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The New Testament concept of ________ refers to the spiritual gifts given by the Holy Spirit.",
+            "options": [
+                "Charisma",
+                "Agape",
+                "Koinonia",
+                "Logos"
+            ],
+            "answer": "Charisma"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Jewish prayer recited by mourners after the death of a close relative?",
+            "options": [
+                "Shema",
+                "Amidah",
+                "Kaddish",
+                "Tefillin"
+            ],
+            "answer": "Kaddish"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The doctrine of ________ describes God's complete and final control over all events.",
+            "options": [
+                "Omnipotence",
+                "Sovereignty",
+                "Omnipresence",
+                "Omniscience"
+            ],
+            "answer": "Sovereignty"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the name of the final judgment of humanity, according to Christian eschatology?",
+            "options": [
+                "The Millennium",
+                "The White Throne Judgment",
+                "The Great Tribulation",
+                "The Rapture"
+            ],
+            "answer": "The White Throne Judgment"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the acronym \"I.N.R.I.\" on the cross stand for, as written by the Romans?",
+            "options": [
+                "Jesus of Nazareth, King of the Jews",
+                "Israel Needs Righteousness Immediately",
+                "I Have Never Really Identified",
+                "In New Rome I Trust"
+            ],
+            "answer": "Jesus of Nazareth, King of the Jews"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the meaning of the Hebrew word \"Halal\" (as in \"Hallelujah\")?",
+            "options": [
+                "To mourn",
+                "To praise",
+                "To bless",
+                "To worship"
+            ],
+            "answer": "To praise"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "Which book of the Old Testament contains the famous phrase, \"The Lord is my shepherd; I shall not want\"?",
+            "options": [
+                "Proverbs",
+                "Psalms",
+                "Song of Solomon",
+                "Jeremiah"
+            ],
+            "answer": "Psalms"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "In Christian tradition, what are the three theological virtues mentioned by Paul in 1 Corinthians 13?",
+            "options": [
+                "Joy, Peace, Patience",
+                "Faith, Hope, Love",
+                "Humility, Service, Obedience",
+                "Temperance, Prudence, Justice"
+            ],
+            "answer": "Faith, Hope, Love"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the traditional Jewish blessing used to mark the beginning and end of the Sabbath?",
+            "options": [
+                "Shofar",
+                "Kiddush",
+                "Mezuzah",
+                "Tallit"
+            ],
+            "answer": "Kiddush"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Christian practice of giving a portion (usually 10%) of one's income to the church?",
+            "options": [
+                "Offering",
+                "Stewardship",
+                "Tithe",
+                "Alms"
+            ],
+            "answer": "Tithe"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the Greek word for brotherly love, often used to describe Christian community love?",
+            "options": [
+                "Eros",
+                "Philia",
+                "Agape",
+                "Storge"
+            ],
+            "answer": "Philia"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the belief that salvation is achieved through human knowledge rather than divine revelation?",
+            "options": [
+                "Gnosticism",
+                "Mysticism",
+                "Arianism",
+                "Docetism"
+            ],
+            "answer": "Gnosticism"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the term \"Messianic Age\" refer to in Judaism?",
+            "options": [
+                "The time of the Temple's rebuilding",
+                "The world to come after the arrival of the Messiah",
+                "The period of King David's reign",
+                "The time of the prophets"
+            ],
+            "answer": "The world to come after the arrival of the Messiah"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the main characteristic of the books categorized as the \"Minor Prophets\"?",
+            "options": [
+                "They are about non-Israelite nations",
+                "They were all written before the exile",
+                "They are shorter in length than the Major Prophets",
+                "They were all written after Jesus"
+            ],
+            "answer": "They are shorter in length than the Major Prophets"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The phrase \"Be perfect, therefore, as your heavenly Father is perfect\" is found in which major sermon by Jesus?",
+            "options": [
+                "Sermon on the Mount",
+                "Olivet Discourse",
+                "Sermon on the Plain",
+                "Farewell Discourse"
+            ],
+            "answer": "Sermon on the Mount"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What term is used for the spiritual discipline of deep reflection or focus on religious ideas?",
+            "options": [
+                "Fasting",
+                "Meditation",
+                "Advocacy",
+                "Liturgy"
+            ],
+            "answer": "Meditation"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the name of the specific prayer Jesus taught his disciples to pray?",
+            "options": [
+                "The Apostles' Creed",
+                "The Shema",
+                "The Lord's Prayer",
+                "The Nicene Creed"
+            ],
+            "answer": "The Lord's Prayer"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The Jewish custom of placing a small scroll containing scripture on the doorposts of houses is called what?",
+            "options": [
+                "Tallit",
+                "Tzitzit",
+                "Mezuzah",
+                "Phylactery"
+            ],
+            "answer": "Mezuzah"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What does the name \"Satan\" literally mean in Hebrew?",
+            "options": [
+                "Ruler of the world",
+                "Adversary (or accuser)",
+                "Fallen Angel",
+                "Evil Spirit"
+            ],
+            "answer": "Adversary (or accuser)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What Christian tradition involves the preparation and observance of the four Sundays leading up to Christmas?",
+            "options": [
+                "Lent",
+                "Epiphany",
+                "Advent",
+                "Easter"
+            ],
+            "answer": "Advent"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What theological term describes God's saving intervention in human history?",
+            "options": [
+                "Revelation",
+                "Redemption",
+                "Providence",
+                "Creation"
+            ],
+            "answer": "Redemption"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the specific Jewish prayer that begins with \"Hear, O Israel: The Lord our God, the Lord is one\"?",
+            "options": [
+                "The Shema",
+                "The Kaddish",
+                "The Amidah",
+                "The Kol Nidre"
+            ],
+            "answer": "The Shema"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the writings found in some Christian Bibles but excluded from others (e.g., Tobit, Wisdom of Solomon)?",
+            "options": [
+                "Pseudepigrapha",
+                "Gnosticism",
+                "Apocrypha",
+                "Canon"
+            ],
+            "answer": "Apocrypha"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The central Jewish concept of \"Brit\" refers to what?",
+            "options": [
+                "The Law",
+                "The Covenant",
+                "The Prophet",
+                "The King"
+            ],
+            "answer": "The Covenant"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the gift of speaking in an unknown language, associated with the Holy Spirit?",
+            "options": [
+                "Prophecy",
+                "Healing",
+                "Glossolalia (Tongues)",
+                "Discernment"
+            ],
+            "answer": "Glossolalia (Tongues)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What New Testament doctrine describes the transformation of the dead into glorified bodies at the final resurrection?",
+            "options": [
+                "Transubstantiation",
+                "Glorification",
+                "Sanctification",
+                "Justification"
+            ],
+            "answer": "Glorification"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the primary focus of the book of Leviticus?",
+            "options": [
+                "History of the patriarchs",
+                "Laws, sacrifice, and priesthood",
+                "Prophecies of the end times",
+                "Wisdom and poetry"
+            ],
+            "answer": "Laws, sacrifice, and priesthood"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "The term \"Agape\" is the Greek word for which type of love?",
+            "options": [
+                "Brotherly",
+                "Romantic",
+                "Conditional",
+                "Unconditional (Selfless)"
+            ],
+            "answer": "Unconditional (Selfless)"
+        },
+        {
+            "topic": "Faith and Beliefs",
+            "question": "What is the term for the study of the last things: death, judgment, heaven, and hell?",
+            "options": [
+                "Christology",
+                "Soteriology",
+                "Eschatology",
+                "Pneumatology"
+            ],
+            "answer": "Eschatology"
+        }
+    ]
+}

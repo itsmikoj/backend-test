@@ -1,0 +1,1621 @@
+{
+    "questions": [
+        {
+            "topic": "Famous Stories",
+            "question": "What was the sign of God's covenant with Noah after the Great Flood?",
+            "options": [
+                "A dove",
+                "A rainbow",
+                "A pillar of cloud",
+                "A burning bush"
+            ],
+            "answer": "A rainbow"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was commanded by God to leave his country and family for a new land, making him the patriarch of the Israelites?",
+            "options": [
+                "Jacob",
+                "Moses",
+                "Abraham",
+                "Isaac"
+            ],
+            "answer": "Abraham"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man who sold his birthright for a bowl of stew?",
+            "options": [
+                "Jacob",
+                "Esau",
+                "Reuben",
+                "Simeon"
+            ],
+            "answer": "Esau"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which plague did God inflict on Egypt just before the Exodus, where the firstborn of every family was killed?",
+            "options": [
+                "Plague of frogs",
+                "Plague of darkness",
+                "Plague of the firstborn",
+                "Plague of flies"
+            ],
+            "answer": "Plague of the firstborn"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What object did Moses hold up to part the waters of the Red Sea?",
+            "options": [
+                "A staff",
+                "A sword",
+                "A scroll",
+                "A stone tablet"
+            ],
+            "answer": "A staff"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was thrown into a pit by his brothers and later became a powerful official in Egypt?",
+            "options": [
+                "Benjamin",
+                "Joseph",
+                "Judah",
+                "Levi"
+            ],
+            "answer": "Joseph"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "How many days and nights did the rain last during the Great Flood?",
+            "options": [
+                "7 days and 7 nights",
+                "40 days and 40 nights",
+                "150 days and 150 nights",
+                "1 year and 40 days"
+            ],
+            "answer": "40 days and 40 nights"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which king succeeded Saul and was known for writing many of the Psalms?",
+            "options": [
+                "Solomon",
+                "Hezekiah",
+                "David",
+                "Josiah"
+            ],
+            "answer": "David"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What unusual circumstance surrounded the birth of John the Baptist's father, Zechariah, when the news was announced?",
+            "options": [
+                "He was exiled",
+                "He was struck blind",
+                "He was struck mute",
+                "He was given a vision"
+            ],
+            "answer": "He was struck mute"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the giant that David defeated with a stone and a slingshot?",
+            "options": [
+                "Goliath",
+                "Abner",
+                "Ishbi-Benob",
+                "Lahmi"
+            ],
+            "answer": "Goliath"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What happened to Lot's wife when she looked back at the destruction of Sodom and Gomorrah?",
+            "options": [
+                "She was blinded",
+                "She was turned into a pillar of salt",
+                "She was turned into a pillar of fire",
+                "She was swallowed by the earth"
+            ],
+            "answer": "She was turned into a pillar of salt"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What Old Testament prophet was swallowed by a great fish?",
+            "options": [
+                "Jeremiah",
+                "Elijah",
+                "Jonah",
+                "Elisha"
+            ],
+            "answer": "Jonah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific kind of tree did Zacchaeus climb to see Jesus?",
+            "options": [
+                "Cedar tree",
+                "Sycamore-fig tree",
+                "Olive tree",
+                "Palm tree"
+            ],
+            "answer": "Sycamore-fig tree"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What miraculous event did Jesus perform at the wedding in Cana?",
+            "options": [
+                "He walked on water",
+                "He healed a leper",
+                "He fed the 5,000",
+                "He turned water into wine"
+            ],
+            "answer": "He turned water into wine"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the garden where Jesus prayed intensely before his arrest?",
+            "options": [
+                "The Garden of Eden",
+                "The Garden of Gethsemane",
+                "The Garden of olives",
+                "The Garden of Sharon"
+            ],
+            "answer": "The Garden of Gethsemane"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which queen famously risked her life by approaching the king uninvited to save her people?",
+            "options": [
+                "Jezebel",
+                "Bathsheba",
+                "Esther",
+                "Michal"
+            ],
+            "answer": "Esther"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the story of the fiery furnace, how many men were thrown in, and how many appeared to be there in the fire?",
+            "options": [
+                "Three, four",
+                "Four, five",
+                "Two, three",
+                "Three, three"
+            ],
+            "answer": "Three, four"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What gift did Jacob give to his son Joseph that sparked jealousy among his brothers?",
+            "options": [
+                "A golden ring",
+                "A flock of sheep",
+                "A coat of many colors",
+                "A new staff"
+            ],
+            "answer": "A coat of many colors"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man Jesus raised from the dead after he had been in the tomb for four days?",
+            "options": [
+                "Simon",
+                "Lazarus",
+                "Nicodemus",
+                "Stephen"
+            ],
+            "answer": "Lazarus"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What city did the Israelites march around for seven days before its walls miraculously fell?",
+            "options": [
+                "Babylon",
+                "Jericho",
+                "Jerusalem",
+                "Samaria"
+            ],
+            "answer": "Jericho"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the place where Jesus was crucified?",
+            "options": [
+                "Capernaum",
+                "Bethlehem",
+                "Golgotha",
+                "Nazareth"
+            ],
+            "answer": "Golgotha"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which judge of Israel defeated the Midianites with only 300 men, each carrying a trumpet and a jar with a torch?",
+            "options": [
+                "Samson",
+                "Gideon",
+                "Jephthah",
+                "Ehud"
+            ],
+            "answer": "Gideon"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus use to feed the crowd in the story of the Feeding of the 5,000?",
+            "options": [
+                "Seven loaves and a few small fish",
+                "Five loaves and two fish",
+                "Manna from heaven",
+                "A single loaf of bread"
+            ],
+            "answer": "Five loaves and two fish"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the Apostle Peter do for a living before he followed Jesus?",
+            "options": [
+                "Tax collector",
+                "Tentmaker",
+                "Fisherman",
+                "Carpenter"
+            ],
+            "answer": "Fisherman"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the wise men (Magi) follow to find the infant Jesus?",
+            "options": [
+                "A pillar of fire",
+                "A bright star",
+                "A flock of angels",
+                "The River Jordan"
+            ],
+            "answer": "A bright star"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Name the prophet who challenged the prophets of Baal on Mount Carmel to a contest of fire.",
+            "options": [
+                "Isaiah",
+                "Jeremiah",
+                "Elijah",
+                "Elisha"
+            ],
+            "answer": "Elijah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the parable of the Prodigal Son, what was the son doing when his father saw him and ran to him?",
+            "options": [
+                "Working in the fields",
+                "Returning to the city",
+                "Feeding pigs",
+                "Sitting at the gate"
+            ],
+            "answer": "Feeding pigs"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the king of Babylon who cast Daniel into the lions' den?",
+            "options": [
+                "Belshazzar",
+                "Cyrus",
+                "Nebuchadnezzar",
+                "Darius"
+            ],
+            "answer": "Darius"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What two types of offerings did Cain and Abel bring to God?",
+            "options": [
+                "Gold and frankincense",
+                "Wheat and wine",
+                "Vegetables and meat",
+                "Fruits and animal sacrifices"
+            ],
+            "answer": "Vegetables and meat"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which New Testament event is celebrated as the coming of the Holy Spirit upon the Apostles?",
+            "options": [
+                "Pentecost",
+                "Transfiguration",
+                "Ascension",
+                "Annunciation"
+            ],
+            "answer": "Pentecost"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What happened to the Temple curtain when Jesus died on the cross?",
+            "options": [
+                "It caught fire",
+                "It was rolled up",
+                "It tore in two",
+                "It turned black"
+            ],
+            "answer": "It tore in two"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the shepherds find when they went to Bethlehem after the angels' announcement?",
+            "options": [
+                "A baby wrapped in swaddling clothes",
+                "Jesus preaching at the Temple",
+                "Mary and Joseph preparing to flee",
+                "The wise men presenting gifts"
+            ],
+            "answer": "A baby wrapped in swaddling clothes"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What part of his body did Jacob injure when wrestling with an angel?",
+            "options": [
+                "His shoulder",
+                "His knee",
+                "His hip socket",
+                "His ankle"
+            ],
+            "answer": "His hip socket"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What food did God provide to the Israelites in the wilderness after they left Egypt?",
+            "options": [
+                "Bread and honey",
+                "Quail and manna",
+                "Fish and lentils",
+                "Figs and grapes"
+            ],
+            "answer": "Quail and manna"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the first person to enter the empty tomb on Easter morning, according to the Gospel of John?",
+            "options": [
+                "Peter",
+                "Mary Magdalene",
+                "John",
+                "Mary, the mother of Jesus"
+            ],
+            "answer": "Mary Magdalene"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the occupation of the Apostle Matthew before he followed Jesus?",
+            "options": [
+                "Fisherman",
+                "Doctor",
+                "Tax Collector",
+                "Tentmaker"
+            ],
+            "answer": "Tax Collector"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the book of Judges, which woman drove a tent peg through the head of the enemy commander Sisera?",
+            "options": [
+                "Jael",
+                "Deborah",
+                "Delilah",
+                "Rahab"
+            ],
+            "answer": "Jael"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus often use to teach moral and spiritual lessons, such as the story of the Good Samaritan?",
+            "options": [
+                "Parables",
+                "Songs",
+                "Proverbs",
+                "Poetry"
+            ],
+            "answer": "Parables"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the mountain where God gave Moses the Ten Commandments?",
+            "options": [
+                "Mount of Olives",
+                "Mount Tabor",
+                "Mount Hermon",
+                "Mount Sinai"
+            ],
+            "answer": "Mount Sinai"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the woman who protected the spies in Jericho by hiding them on her roof?",
+            "options": [
+                "Abigail",
+                "Delilah",
+                "Rahab",
+                "Ruth"
+            ],
+            "answer": "Rahab"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which prophet experienced a vision where a huge fish spat him out onto dry land?",
+            "options": [
+                "Daniel",
+                "Jonah",
+                "Hosea",
+                "Joel"
+            ],
+            "answer": "Jonah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What animal spoke to the prophet Balaam?",
+            "options": [
+                "A serpent",
+                "A donkey",
+                "A camel",
+                "A raven"
+            ],
+            "answer": "A donkey"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific item did the High Priest wear with twelve stones, each representing a tribe of Israel?",
+            "options": [
+                "A crown",
+                "An ephod",
+                "A breastplate",
+                "A royal robe"
+            ],
+            "answer": "A breastplate"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the city that became the capital of David's kingdom?",
+            "options": [
+                "Bethlehem",
+                "Jerusalem",
+                "Hebron",
+                "Jericho"
+            ],
+            "answer": "Jerusalem"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which Gospel writer was a physician and historian, often considered to have written the most detailed account of Jesus' birth?",
+            "options": [
+                "Mark",
+                "Luke",
+                "Matthew",
+                "John"
+            ],
+            "answer": "Luke"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus miraculously heal in the man born blind?",
+            "options": [
+                "His hearing",
+                "His sight",
+                "His paralysis",
+                "His speech"
+            ],
+            "answer": "His sight"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What part of the Bible contains the story of the Tower of Babel?",
+            "options": [
+                "Genesis",
+                "Exodus",
+                "Numbers",
+                "Deuteronomy"
+            ],
+            "answer": "Genesis"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which King had a dream of a statue made of four different materials, which Daniel interpreted?",
+            "options": [
+                "Saul",
+                "Nebuchadnezzar",
+                "Belshazzar",
+                "Herod"
+            ],
+            "answer": "Nebuchadnezzar"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the judge renowned for his great strength, which was tied to his hair?",
+            "options": [
+                "Gideon",
+                "Samson",
+                "Jephthah",
+                "Samuel"
+            ],
+            "answer": "Samson"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the people of Israel ask Samuel for that displeased God?",
+            "options": [
+                "A new temple",
+                "A king to rule over them",
+                "A larger territory",
+                "A new set of laws"
+            ],
+            "answer": "A king to rule over them"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What famous passage did Jesus preach on the side of a mountain, beginning with the Beatitudes?",
+            "options": [
+                "The Lord's Prayer",
+                "The Sermon on the Mount",
+                "The Olivet Discourse",
+                "The Great Commission"
+            ],
+            "answer": "The Sermon on the Mount"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What food was miraculously provided to Elijah by ravens while he hid by the Brook Cherith?",
+            "options": [
+                "Bread and water",
+                "Meat and bread",
+                "Fish and wine",
+                "Figs and dates"
+            ],
+            "answer": "Meat and bread"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the city Jesus grew up in?",
+            "options": [
+                "Bethlehem",
+                "Jerusalem",
+                "Nazareth",
+                "Capernaum"
+            ],
+            "answer": "Nazareth"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the woman with the issue of blood do to be healed by Jesus?",
+            "options": [
+                "She shouted for him",
+                "She begged the disciples",
+                "She touched the edge of his garment",
+                "She prayed silently"
+            ],
+            "answer": "She touched the edge of his garment"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did God change Jacob's name to?",
+            "options": [
+                "Israel",
+                "Judah",
+                "Abraham",
+                "Moses"
+            ],
+            "answer": "Israel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which King built the First Temple in Jerusalem?",
+            "options": [
+                "David",
+                "Hezekiah",
+                "Solomon",
+                "Rehoboam"
+            ],
+            "answer": "Solomon"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the prophet who saw a \"wheel within a wheel\" vision?",
+            "options": [
+                "Daniel",
+                "Ezekiel",
+                "Isaiah",
+                "Zechariah"
+            ],
+            "answer": "Ezekiel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What does the word \"Exodus\" mean?",
+            "options": [
+                "The Beginning",
+                "The Law",
+                "The Departure",
+                "The Journey"
+            ],
+            "answer": "The Departure"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the last plague in Egypt?",
+            "options": [
+                "Death of the livestock",
+                "Hail",
+                "Death of the firstborn",
+                "Locusts"
+            ],
+            "answer": "Death of the firstborn"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the book written by the Apostle John while he was exiled on the island of Patmos?",
+            "options": [
+                "Revelation",
+                "Jude",
+                "Acts",
+                "Hebrews"
+            ],
+            "answer": "Revelation"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the story of the Good Samaritan, who was the first person to pass by the injured man and ignore him?",
+            "options": [
+                "A tax collector",
+                "A priest",
+                "A soldier",
+                "A Levite"
+            ],
+            "answer": "A priest"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What famous phrase did Jesus use to describe John the Baptist's role?",
+            "options": [
+                "The Cornerstone",
+                "The Lamb of God",
+                "A voice crying in the wilderness",
+                "The Son of Man"
+            ],
+            "answer": "A voice crying in the wilderness"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What happened to the city of Sodom and Gomorrah?",
+            "options": [
+                "They were flooded",
+                "They were struck by fire and brimstone",
+                "They were overthrown by a foreign army",
+                "They suffered a severe famine"
+            ],
+            "answer": "They were struck by fire and brimstone"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which woman was the mother of Isaac?",
+            "options": [
+                "Rebekah",
+                "Rachel",
+                "Leah",
+                "Sarah"
+            ],
+            "answer": "Sarah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who saw the handwriting on the wall that predicted the fall of the Babylonian kingdom?",
+            "options": [
+                "Belshazzar",
+                "Darius",
+                "Nebuchadnezzar",
+                "Cyrus"
+            ],
+            "answer": "Belshazzar"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus ride into Jerusalem on during what is now celebrated as Palm Sunday?",
+            "options": [
+                "A camel",
+                "A horse",
+                "A colt/donkey",
+                "A chariot"
+            ],
+            "answer": "A colt/donkey"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the specific mountain where Noah's Ark finally rested?",
+            "options": [
+                "Mount Carmel",
+                "Mount Zion",
+                "Mountains of Ararat",
+                "Mount Hermon"
+            ],
+            "answer": "Mountains of Ararat"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the wealthy man in the Old Testament whose faith was tested by Satan?",
+            "options": [
+                "Job",
+                "Boaz",
+                "Nabal",
+                "Caleb"
+            ],
+            "answer": "Job"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the prophet who confronted King David about his sin with Bathsheba?",
+            "options": [
+                "Samuel",
+                "Nathan",
+                "Gad",
+                "Ahijah"
+            ],
+            "answer": "Nathan"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the Parable of the Sower, what does the 'seed' represent?",
+            "options": [
+                "The Word of God",
+                "Money",
+                "Good deeds",
+                "The Holy Spirit"
+            ],
+            "answer": "The Word of God"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What does the name 'Immanuel,' prophesied by Isaiah, mean?",
+            "options": [
+                "God is Great",
+                "God is Holy",
+                "God is with us",
+                "God saves"
+            ],
+            "answer": "God is with us"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What physical ailment did the man Jesus healed at the Pool of Bethesda suffer from?",
+            "options": [
+                "Deafness",
+                "Blindness",
+                "Paralysis",
+                "Leprosy"
+            ],
+            "answer": "Paralysis"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which book of the Bible contains the story of the three men in the fiery furnace?",
+            "options": [
+                "Daniel",
+                "Ezekiel",
+                "Jeremiah",
+                "Isaiah"
+            ],
+            "answer": "Daniel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the first bird Noah sent out from the Ark that did not return?",
+            "options": [
+                "A dove",
+                "A raven",
+                "A sparrow",
+                "An eagle"
+            ],
+            "answer": "A raven"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What city was David born in?",
+            "options": [
+                "Jerusalem",
+                "Hebron",
+                "Bethlehem",
+                "Nazareth"
+            ],
+            "answer": "Bethlehem"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which Old Testament book recounts the story of Israel's journey through the wilderness and the census taken?",
+            "options": [
+                "Leviticus",
+                "Numbers",
+                "Deuteronomy",
+                "Joshua"
+            ],
+            "answer": "Numbers"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "How many original Apostles did Jesus appoint?",
+            "options": [
+                "7",
+                "10",
+                "12",
+                "70"
+            ],
+            "answer": "12"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the well-known Pharisee who came to Jesus at night to ask him questions?",
+            "options": [
+                "Joseph of Arimathea",
+                "Nicodemus",
+                "Caiaphas",
+                "Gamaliel"
+            ],
+            "answer": "Nicodemus"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus do to the merchants and money changers in the Temple courts?",
+            "options": [
+                "He offered them counsel",
+                "He drove them out with a whip",
+                "He offered them forgiveness",
+                "He healed the sick among them"
+            ],
+            "answer": "He drove them out with a whip"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did the crowds lay down on the road when Jesus entered Jerusalem?",
+            "options": [
+                "Palm branches and garments",
+                "Gold and silver",
+                "Stones and dirt",
+                "Torches and flowers"
+            ],
+            "answer": "Palm branches and garments"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which book of the Bible opens with the words, \"In the beginning, God created the heavens and the earth\"?",
+            "options": [
+                "Exodus",
+                "Genesis",
+                "Psalms",
+                "Job"
+            ],
+            "answer": "Genesis"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the brother of Moses, who made the golden calf for the Israelites?",
+            "options": [
+                "Caleb",
+                "Joshua",
+                "Aaron",
+                "Hur"
+            ],
+            "answer": "Aaron"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the hill where the prophet Elijah had his contest with the prophets of Baal?",
+            "options": [
+                "Mount Sinai",
+                "Mount Horeb",
+                "Mount Carmel",
+                "Mount Zion"
+            ],
+            "answer": "Mount Carmel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the river Jesus was baptized in?",
+            "options": [
+                "Euphrates River",
+                "Nile River",
+                "River Jordan",
+                "Tigris River"
+            ],
+            "answer": "River Jordan"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the Parable of the Lost Sheep, how many sheep did the shepherd leave to find the one that was lost?",
+            "options": [
+                "1",
+                "9",
+                "99",
+                "100"
+            ],
+            "answer": "99"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific item did Esau receive from Jacob in exchange for his birthright?",
+            "options": [
+                "A coat of many colors",
+                "A bowl of lentil stew",
+                "A flock of goats",
+                "A promise of land"
+            ],
+            "answer": "A bowl of lentil stew"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the prostitute that helped the Israelite spies escape from Jericho?",
+            "options": [
+                "Delilah",
+                "Rahab",
+                "Jael",
+                "Tamar"
+            ],
+            "answer": "Rahab"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the disciple who brought the boy with the loaves and fish to Jesus?",
+            "options": [
+                "Andrew",
+                "Philip",
+                "Peter",
+                "John"
+            ],
+            "answer": "Andrew"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the physical structure built to house the Ark of the Covenant during Israel's wanderings in the wilderness?",
+            "options": [
+                "The Temple",
+                "The Tabernacle",
+                "The Synagogue",
+                "The Sanctuary"
+            ],
+            "answer": "The Tabernacle"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which king was given an extra 15 years of life after praying to God?",
+            "options": [
+                "Ahaz",
+                "Hezekiah",
+                "Josiah",
+                "Manasseh"
+            ],
+            "answer": "Hezekiah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did King Solomon ask God for when he became king?",
+            "options": [
+                "Riches and long life",
+                "Victory over his enemies",
+                "An understanding heart (wisdom)",
+                "A new palace"
+            ],
+            "answer": "An understanding heart (wisdom)"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the Roman governor who authorized Jesus's crucifixion?",
+            "options": [
+                "Herod Antipas",
+                "Festus",
+                "Pilate",
+                "Felix"
+            ],
+            "answer": "Pilate"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus use to cleanse the temple area?",
+            "options": [
+                "A stick",
+                "A whip of cords",
+                "His staff",
+                "Fire"
+            ],
+            "answer": "A whip of cords"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the younger brother of Moses?",
+            "options": [
+                "Aaron",
+                "Caleb",
+                "Joshua",
+                "Hur"
+            ],
+            "answer": "Aaron"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man who sold a field to the Apostles and kept back part of the money, then fell dead?",
+            "options": [
+                "Stephen",
+                "Barnabas",
+                "Ananias",
+                "Silas"
+            ],
+            "answer": "Ananias"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which Old Testament book is known as the book of the Law?",
+            "options": [
+                "Judges",
+                "Proverbs",
+                "Psalms",
+                "Deuteronomy"
+            ],
+            "answer": "Deuteronomy"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did King David do to the captured city of Jerusalem?",
+            "options": [
+                "He burned it down",
+                "He made it his capital",
+                "He gave it back to the Jebusites",
+                "He dedicated it to Saul"
+            ],
+            "answer": "He made it his capital"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man who sold his birthright for a bowl of red lentil stew?",
+            "options": [
+                "Ishmael",
+                "Esau",
+                "Reuben",
+                "Lot"
+            ],
+            "answer": "Esau"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "How many stones did David take from the riverbed before facing Goliath?",
+            "options": [
+                "One",
+                "Three",
+                "Five",
+                "Ten"
+            ],
+            "answer": "Five"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the occupation of the Apostle Matthew before he became a follower of Jesus?",
+            "options": [
+                "Fisherman",
+                "Tentmaker",
+                "Tax Collector",
+                "Doctor"
+            ],
+            "answer": "Tax Collector"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which man was thrown into a fiery furnace for refusing to worship a golden idol, and emerged unharmed?",
+            "options": [
+                "Daniel",
+                "Hananiah (Shadrach)",
+                "Nehemiah",
+                "Mordecai"
+            ],
+            "answer": "Hananiah (Shadrach)"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the angel who appeared to Mary to announce the birth of Jesus?",
+            "options": [
+                "Michael",
+                "Raphael",
+                "Gabriel",
+                "Uriel"
+            ],
+            "answer": "Gabriel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did God use to speak to Moses from a mountain?",
+            "options": [
+                "A pillar of cloud",
+                "A burning bush",
+                "A golden tablet",
+                "A stone altar"
+            ],
+            "answer": "A burning bush"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What food did John the Baptist eat while in the wilderness?",
+            "options": [
+                "Bread and water",
+                "Fish and honey",
+                "Locusts and wild honey",
+                "Dates and wine"
+            ],
+            "answer": "Locusts and wild honey"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which city was struck down by fire and brimstone in the Old Testament?",
+            "options": [
+                "Jerusalem",
+                "Babylon",
+                "Jericho",
+                "Sodom"
+            ],
+            "answer": "Sodom"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What miraculous event did Jesus perform on the Sea of Galilee that scared his disciples?",
+            "options": [
+                "Turning water into wine",
+                "Walking on the water",
+                "Calming the storm",
+                "Feeding the 5,000"
+            ],
+            "answer": "Walking on the water"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the king of Babylon who cast Daniel into the lions' den?",
+            "options": [
+                "Nebuchadnezzar",
+                "Belshazzar",
+                "Darius",
+                "Cyrus"
+            ],
+            "answer": "Darius"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific item did Jesus use to cleanse the Temple courts of merchants?",
+            "options": [
+                "A wooden staff",
+                "A whip of cords",
+                "His hands",
+                "A stone"
+            ],
+            "answer": "A whip of cords"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which prophet was known for his \"vision of the valley of dry bones\"?",
+            "options": [
+                "Isaiah",
+                "Jeremiah",
+                "Ezekiel",
+                "Daniel"
+            ],
+            "answer": "Ezekiel"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the parable of the sower, what represents the person who hears the word but is quickly snatched away by the devil?",
+            "options": [
+                "Seeds on rocky ground",
+                "Seeds among thorns",
+                "Seeds by the path",
+                "Seeds on good soil"
+            ],
+            "answer": "Seeds by the path"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the judge of Israel who made a vow to sacrifice the first thing that came out of his house upon his return?",
+            "options": [
+                "Samson",
+                "Gideon",
+                "Jephthah",
+                "Ehud"
+            ],
+            "answer": "Jephthah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What happened to the sun during the crucifixion of Jesus?",
+            "options": [
+                "It turned red",
+                "It became dark for three hours",
+                "It split the sky",
+                "It appeared twice"
+            ],
+            "answer": "It became dark for three hours"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the giant Philistine champion killed by David?",
+            "options": [
+                "Lahmi",
+                "Abner",
+                "Ishbi-Benob",
+                "Goliath"
+            ],
+            "answer": "Goliath"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the city Jesus grew up in after returning from Egypt?",
+            "options": [
+                "Bethlehem",
+                "Jerusalem",
+                "Nazareth",
+                "Capernaum"
+            ],
+            "answer": "Nazareth"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man Jesus raised from the dead, who was the brother of Mary and Martha?",
+            "options": [
+                "Simon",
+                "Lazarus",
+                "Nicodemus",
+                "Stephen"
+            ],
+            "answer": "Lazarus"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What animal spoke to the prophet Balaam, warning him about an angel?",
+            "options": [
+                "A serpent",
+                "A horse",
+                "A donkey",
+                "A raven"
+            ],
+            "answer": "A donkey"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did King Solomon ask God for when he was given the chance to request anything?",
+            "options": [
+                "Riches",
+                "Power",
+                "Wisdom",
+                "Long life"
+            ],
+            "answer": "Wisdom"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which Old Testament book recounts the story of Israel's journey through the wilderness after the Exodus?",
+            "options": [
+                "Leviticus",
+                "Numbers",
+                "Deuteronomy",
+                "Joshua"
+            ],
+            "answer": "Numbers"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific physical ailment did the man Jesus healed at the Pool of Bethesda suffer from?",
+            "options": [
+                "Blindness",
+                "Leprosy",
+                "Paralysis",
+                "Muteness"
+            ],
+            "answer": "Paralysis"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the king who saw the handwriting on the wall foretelling the doom of his kingdom?",
+            "options": [
+                "Nebuchadnezzar",
+                "Cyrus",
+                "Darius",
+                "Belshazzar"
+            ],
+            "answer": "Belshazzar"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the wife of Abraham, who laughed when she heard she would have a son in her old age?",
+            "options": [
+                "Hagar",
+                "Rebekah",
+                "Sarah",
+                "Rachel"
+            ],
+            "answer": "Sarah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man who was lowered through a hole in the roof to be healed by Jesus?",
+            "options": [
+                "Lazarus",
+                "Bartimaeus",
+                "Zacchaeus",
+                "The paralytic"
+            ],
+            "answer": "The paralytic"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "In the story of the flood, what specific bird returned to Noah with an olive leaf?",
+            "options": [
+                "A raven",
+                "A sparrow",
+                "A dove",
+                "A finch"
+            ],
+            "answer": "A dove"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the man who sold his portion of land to the Apostles but secretly kept some of the money?",
+            "options": [
+                "Barnabas",
+                "Silas",
+                "Ananias",
+                "Stephen"
+            ],
+            "answer": "Ananias"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which prophet of God defeated the prophets of Baal in a contest of fire on Mount Carmel?",
+            "options": [
+                "Jonah",
+                "Elijah",
+                "Elisha",
+                "Jeremiah"
+            ],
+            "answer": "Elijah"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the first woman created by God?",
+            "options": [
+                "Mary",
+                "Eve",
+                "Sarah",
+                "Miriam"
+            ],
+            "answer": "Eve"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "How many days did Jesus fast in the wilderness before being tempted by the devil?",
+            "options": [
+                "7 days",
+                "12 days",
+                "30 days",
+                "40 days"
+            ],
+            "answer": "40 days"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the garden where Adam and Eve first lived?",
+            "options": [
+                "The Garden of Gethsemane",
+                "The Garden of Eden",
+                "The Garden of Horeb",
+                "The Garden of Sharon"
+            ],
+            "answer": "The Garden of Eden"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What miraculous event allowed the Israelites, led by Moses, to escape the Egyptian army?",
+            "options": [
+                "The parting of the Red Sea",
+                "The River Nile turning to blood",
+                "The manna from heaven",
+                "The Pillar of Cloud"
+            ],
+            "answer": "The parting of the Red Sea"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific kind of tree did Zacchaeus climb to better see Jesus?",
+            "options": [
+                "Sycamore-fig tree",
+                "Olive tree",
+                "Cedar tree",
+                "Willow tree"
+            ],
+            "answer": "Sycamore-fig tree"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which book of the Bible recounts the story of Job's suffering and perseverance?",
+            "options": [
+                "Psalms",
+                "Proverbs",
+                "Job",
+                "Ecclesiastes"
+            ],
+            "answer": "Job"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What happened to Lot's wife when she disobeyed the angel's instruction not to look back at the destruction of Sodom?",
+            "options": [
+                "She was blinded",
+                "She was turned into a pillar of salt",
+                "She was swallowed by the earth",
+                "She was turned into stone"
+            ],
+            "answer": "She was turned into a pillar of salt"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the structure built by Noah to save his family and animals from the flood?",
+            "options": [
+                "A barge",
+                "An ark",
+                "A ship",
+                "A float"
+            ],
+            "answer": "An ark"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the prostitute who helped the Israelite spies in Jericho?",
+            "options": [
+                "Jael",
+                "Rahab",
+                "Delilah",
+                "Tamar"
+            ],
+            "answer": "Rahab"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the younger brother of Moses who often acted as his spokesman?",
+            "options": [
+                "Joshua",
+                "Aaron",
+                "Caleb",
+                "Hur"
+            ],
+            "answer": "Aaron"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which king was succeeded by his son Solomon, who built the first Temple?",
+            "options": [
+                "Saul",
+                "David",
+                "Rehoboam",
+                "Hezekiah"
+            ],
+            "answer": "David"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What object did Moses lift up in the wilderness to heal the people who had been bitten by venomous snakes?",
+            "options": [
+                "The Bronze Serpent",
+                "A wooden cross",
+                "A stone altar",
+                "A golden idol"
+            ],
+            "answer": "The Bronze Serpent"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the first bird Noah sent out from the Ark that did not return?",
+            "options": [
+                "A dove",
+                "A raven",
+                "A sparrow",
+                "A crow"
+            ],
+            "answer": "A raven"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What did Jesus ride into Jerusalem on during what is known as Palm Sunday?",
+            "options": [
+                "A horse",
+                "A chariot",
+                "A donkey (colt)",
+                "A camel"
+            ],
+            "answer": "A donkey (colt)"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What miraculous event happened to the curtain in the Temple when Jesus died?",
+            "options": [
+                "It was set on fire",
+                "It was miraculously opened",
+                "It tore in two from top to bottom",
+                "It turned black"
+            ],
+            "answer": "It tore in two from top to bottom"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the name of the hill where Jesus was crucified?",
+            "options": [
+                "Mount of Olives",
+                "Mount Hermon",
+                "Golgotha",
+                "Mount Zion"
+            ],
+            "answer": "Golgotha"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Who was the Old Testament queen who revealed her Jewish identity to save her people from a Persian decree?",
+            "options": [
+                "Jezebel",
+                "Esther",
+                "Bathsheba",
+                "Vashti"
+            ],
+            "answer": "Esther"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What was the last plague that God inflicted on Egypt before the Israelites were allowed to leave?",
+            "options": [
+                "The plague of darkness",
+                "The death of the firstborn",
+                "The plague of livestock",
+                "The plague of boils"
+            ],
+            "answer": "The death of the firstborn"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What specific item did King Solomon ask God for when he was given the opportunity to request anything?",
+            "options": [
+                "An understanding heart (wisdom)",
+                "Riches",
+                "Long life",
+                "Victory over enemies"
+            ],
+            "answer": "An understanding heart (wisdom)"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "Which prophet was known for confronting King David about his sin with Bathsheba?",
+            "options": [
+                "Samuel",
+                "Nathan",
+                "Gad",
+                "Ahijah"
+            ],
+            "answer": "Nathan"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What physical ailment did the man Jesus healed at the Pool of Bethesda suffer from?",
+            "options": [
+                "Blindness",
+                "Paralysis",
+                "Leprosy",
+                "Deafness"
+            ],
+            "answer": "Paralysis"
+        },
+        {
+            "topic": "Famous Stories",
+            "question": "What famous passage did Jesus preach on the side of a mountain, beginning with the Beatitudes?",
+            "options": [
+                "The Lord's Prayer",
+                "The Sermon on the Mount",
+                "The Olivet Discourse",
+                "The Great Commandment"
+            ],
+            "answer": "The Sermon on the Mount"
+        }
+    ]
+}

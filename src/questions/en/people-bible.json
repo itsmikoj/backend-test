@@ -1,0 +1,642 @@
+{
+    "questions": [
+        {
+            "topic": "People of the Bible",
+            "question": "Which Apostle famously denied Jesus three times before the rooster crowed?",
+            "options": [
+                "Thomas",
+                "Judas Iscariot",
+                "Peter",
+                "James"
+            ],
+            "answer": "Peter"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the first man created by God in the Garden of Eden?",
+            "options": [
+                "Noah",
+                "Adam",
+                "Cain",
+                "Abel"
+            ],
+            "answer": "Adam"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the original name of the Apostle Paul before his conversion on the road to Damascus?",
+            "options": [
+                "Silas",
+                "Barnabas",
+                "Stephen",
+                "Saul"
+            ],
+            "answer": "Saul"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the younger brother of Moses who often acted as his spokesman to Pharaoh?",
+            "options": [
+                "Joshua",
+                "Aaron",
+                "Caleb",
+                "Hur"
+            ],
+            "answer": "Aaron"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which person betrayed Jesus to the Jewish authorities for thirty pieces of silver?",
+            "options": [
+                "Peter",
+                "Judas Iscariot",
+                "Simon the Zealot",
+                "Thomas"
+            ],
+            "answer": "Judas Iscariot"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the longest-lived person recorded in the Bible, living to be 969 years old?",
+            "options": [
+                "Noah",
+                "Adam",
+                "Methuselah",
+                "Seth"
+            ],
+            "answer": "Methuselah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What prophet was taken up to heaven in a whirlwind by a chariot of fire?",
+            "options": [
+                "Isaiah",
+                "Elijah",
+                "Elisha",
+                "Jeremiah"
+            ],
+            "answer": "Elijah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the Roman governor who presided over the trial and ordered the crucifixion of Jesus?",
+            "options": [
+                "King Herod",
+                "Pontius Pilate",
+                "Felix",
+                "Festus"
+            ],
+            "answer": "Pontius Pilate"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who succeeded Moses as the leader of the Israelites and led them into the Promised Land?",
+            "options": [
+                "Aaron",
+                "Caleb",
+                "Joshua",
+                "Samuel"
+            ],
+            "answer": "Joshua"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the first king of Israel, anointed by the prophet Samuel?",
+            "options": [
+                "David",
+                "Saul",
+                "Solomon",
+                "Rehoboam"
+            ],
+            "answer": "Saul"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the father of King David.",
+            "options": [
+                "Jesse",
+                "Obed",
+                "Boaz",
+                "Nahash"
+            ],
+            "answer": "Jesse"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which prophet correctly foretold the virgin birth of Jesus?",
+            "options": [
+                "Ezekiel",
+                "Jeremiah",
+                "Isaiah",
+                "Malachi"
+            ],
+            "answer": "Isaiah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the woman who was the first to see and speak with the resurrected Jesus outside the empty tomb.",
+            "options": [
+                "Mary, the mother of Jesus",
+                "Mary Magdalene",
+                "Salome",
+                "Martha"
+            ],
+            "answer": "Mary Magdalene"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What biblical figure was renamed \"Israel\" after wrestling with an angel?",
+            "options": [
+                "Abraham",
+                "Isaac",
+                "Jacob",
+                "Joseph"
+            ],
+            "answer": "Jacob"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which Old Testament figure was known for his incredible patience and suffering?",
+            "options": [
+                "Abraham",
+                "Moses",
+                "Job",
+                "Isaac"
+            ],
+            "answer": "Job"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the wealthy man in Jerusalem who gave his own new tomb for Jesus's burial?",
+            "options": [
+                "Nicodemus",
+                "Lazarus",
+                "Joseph of Arimathea",
+                "Caiaphas"
+            ],
+            "answer": "Joseph of Arimathea"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the wife of Abraham and mother of Isaac?",
+            "options": [
+                "Hagar",
+                "Rebekah",
+                "Sarah",
+                "Rachel"
+            ],
+            "answer": "Sarah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the female judge and prophetess who led Israel to victory over the Canaanites?",
+            "options": [
+                "Delilah",
+                "Bathsheba",
+                "Deborah",
+                "Jael"
+            ],
+            "answer": "Deborah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of King David's best friend, the son of King Saul?",
+            "options": [
+                "Absalom",
+                "Joab",
+                "Nathan",
+                "Jonathan"
+            ],
+            "answer": "Jonathan"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which Apostle was known as the \"disciple whom Jesus loved\" and wrote the final Gospel?",
+            "options": [
+                "Peter",
+                "James",
+                "John",
+                "Andrew"
+            ],
+            "answer": "John"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the prophet who performed miracles and succeeded Elijah?",
+            "options": [
+                "Amos",
+                "Hosea",
+                "Elisha",
+                "Micah"
+            ],
+            "answer": "Elisha"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the mother of Jesus.",
+            "options": [
+                "Elizabeth",
+                "Martha",
+                "Mary",
+                "Salome"
+            ],
+            "answer": "Mary"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the man whose life was spared in exchange for Jesus's release by Pilate?",
+            "options": [
+                "Barnabas",
+                "Barabbas",
+                "Simon of Cyrene",
+                "Stephen"
+            ],
+            "answer": "Barabbas"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the tax collector who climbed a sycamore-fig tree to see Jesus?",
+            "options": [
+                "Matthew",
+                "Zacchaeus",
+                "Levi",
+                "Simon"
+            ],
+            "answer": "Zacchaeus"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the King of Judea who ordered the slaughter of all male children in Bethlehem after Jesus' birth?",
+            "options": [
+                "King Cyrus",
+                "King Darius",
+                "Herod the Great",
+                "Herod Antipas"
+            ],
+            "answer": "Herod the Great"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which Apostle famously doubted the resurrection of Jesus until he could physically see and touch his wounds?",
+            "options": [
+                "Andrew",
+                "Philip",
+                "Thomas",
+                "Bartholomew"
+            ],
+            "answer": "Thomas"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the prophet who saw a vision of dry bones coming to life.",
+            "options": [
+                "Daniel",
+                "Ezekiel",
+                "Isaiah",
+                "Jeremiah"
+            ],
+            "answer": "Ezekiel"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the wife of Uriah the Hittite, whom King David later married after Uriah's death?",
+            "options": [
+                "Michal",
+                "Bathsheba",
+                "Abigail",
+                "Tamar"
+            ],
+            "answer": "Bathsheba"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the man who, along with his wife Sapphira, was struck dead for lying about their offering?",
+            "options": [
+                "Ananias",
+                "Gamaliel",
+                "Barnabas",
+                "Silas"
+            ],
+            "answer": "Ananias"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which Old Testament woman was married to Boaz and is an ancestor of King David and Jesus?",
+            "options": [
+                "Rahab",
+                "Ruth",
+                "Naomi",
+                "Esther"
+            ],
+            "answer": "Ruth"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the prophetess who recognized the infant Jesus as the Messiah when he was presented at the Temple?",
+            "options": [
+                "Hannah",
+                "Anna",
+                "Elizabeth",
+                "Huldah"
+            ],
+            "answer": "Anna"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which disciple did Jesus appoint to replace Judas Iscariot?",
+            "options": [
+                "Titus",
+                "Timothy",
+                "Matthias",
+                "Barnabas"
+            ],
+            "answer": "Matthias"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the father of John the Baptist.",
+            "options": [
+                "Joseph",
+                "Simon",
+                "Zechariah",
+                "Nicodemus"
+            ],
+            "answer": "Zechariah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which King of Israel was punished by God for taking a census of the people?",
+            "options": [
+                "Saul",
+                "David",
+                "Solomon",
+                "Asa"
+            ],
+            "answer": "David"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What Roman centurion became one of the first Gentile converts to Christianity, as recorded in the Book of Acts?",
+            "options": [
+                "Sergius Paulus",
+                "Cornelius",
+                "Gallio",
+                "Festus"
+            ],
+            "answer": "Cornelius"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the Egyptian Pharaoh who stubbornly refused to let the Israelites go?",
+            "options": [
+                "Ramesses II",
+                "Seti I",
+                "The text does not name him",
+                "Thutmose III"
+            ],
+            "answer": "The text does not name him"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the prophet who predicted that Jesus would be born in Bethlehem?",
+            "options": [
+                "Micah",
+                "Isaiah",
+                "Jeremiah",
+                "Zechariah"
+            ],
+            "answer": "Micah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which biblical figure was known for his great wisdom and for building the First Temple?",
+            "options": [
+                "David",
+                "Solomon",
+                "Rehoboam",
+                "Hezekiah"
+            ],
+            "answer": "Solomon"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the sister of Moses and Aaron?",
+            "options": [
+                "Miriam",
+                "Rebekah",
+                "Leah",
+                "Dinah"
+            ],
+            "answer": "Miriam"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the son of Abraham and Hagar, considered the ancestor of the Arab people?",
+            "options": [
+                "Isaac",
+                "Esau",
+                "Ishmael",
+                "Shem"
+            ],
+            "answer": "Ishmael"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Name the king who was found guilty of worshipping false gods and was struck with leprosy for his sin.",
+            "options": [
+                "Uzziah",
+                "Jeroboam",
+                "Ahab",
+                "Manasseh"
+            ],
+            "answer": "Uzziah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which prophet was instructed by God to marry a prostitute as a symbolic act?",
+            "options": [
+                "Hosea",
+                "Joel",
+                "Amos",
+                "Obadiah"
+            ],
+            "answer": "Hosea"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the high priest who presided over the trial of Jesus?",
+            "options": [
+                "Annas",
+                "Caiaphas",
+                "Gamaliel",
+                "Nicodemus"
+            ],
+            "answer": "Caiaphas"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the man in the New Testament who was lowered through a roof on his mat to be healed by Jesus?",
+            "options": [
+                "Bartimaeus",
+                "Lazarus",
+                "The paralytic",
+                "The Roman Centurion"
+            ],
+            "answer": "The paralytic"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the King of Israel known for his great wickedness and for marrying the foreign princess Jezebel?",
+            "options": [
+                "Saul",
+                "Ahab",
+                "Jeroboam",
+                "Rehoboam"
+            ],
+            "answer": "Ahab"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the angel who appeared to Mary to announce the birth of Jesus?",
+            "options": [
+                "Michael",
+                "Raphael",
+                "Gabriel",
+                "Uriel"
+            ],
+            "answer": "Gabriel"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the Roman emperor during the time of Jesus's ministry and crucifixion?",
+            "options": [
+                "Augustus",
+                "Claudius",
+                "Nero",
+                "Tiberius"
+            ],
+            "answer": "Tiberius"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which of Jacob's sons had the tribe from which the royal line of David and Jesus descended?",
+            "options": [
+                "Reuben",
+                "Judah",
+                "Joseph",
+                "Benjamin"
+            ],
+            "answer": "Judah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the disciple that Jesus referred to as \"the Rock\"?",
+            "options": [
+                "John",
+                "Peter",
+                "Andrew",
+                "Philip"
+            ],
+            "answer": "Peter"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which biblical figure was visited by God and warned to build an ark to save his family from a global flood?",
+            "options": [
+                "Adam",
+                "Noah",
+                "Abel",
+                "Seth"
+            ],
+            "answer": "Noah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the Queen of Sheba, who came to test the wisdom of a famous Israelite King?",
+            "options": [
+                "King Solomon",
+                "King David",
+                "King Ahab",
+                "King Hezekiah"
+            ],
+            "answer": "King Solomon"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "What was the name of the judge of Israel who was known for his incredible strength, which was tied to his hair?",
+            "options": [
+                "Gideon",
+                "Samson",
+                "Jephthah",
+                "Ehud"
+            ],
+            "answer": "Samson"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the father of Abraham, who led his family out of Ur toward Canaan?",
+            "options": [
+                "Isaac",
+                "Terah",
+                "Nahor",
+                "Shem"
+            ],
+            "answer": "Terah"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the King of Babylon who was humbled by God and forced to live like an animal in the field?",
+            "options": [
+                "Belshazzar",
+                "Nebuchadnezzar",
+                "Darius",
+                "Cyrus"
+            ],
+            "answer": "Nebuchadnezzar"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Who was the son of Jacob who was initially thought to be dead but later became second-in-command of Egypt?",
+            "options": [
+                "Benjamin",
+                "Joseph",
+                "Judah",
+                "Reuben"
+            ],
+            "answer": "Joseph"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which book of the Bible contains the story of a woman who leaves her home to find refuge and later marries Boaz?",
+            "options": [
+                "Judges",
+                "Ruth",
+                "Esther",
+                "Proverbs"
+            ],
+            "answer": "Ruth"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which Apostle was a tax collector before following Jesus and is credited with writing a Gospel?",
+            "options": [
+                "Mark",
+                "Luke",
+                "Matthew",
+                "John"
+            ],
+            "answer": "Matthew"
+        },
+        {
+            "topic": "People of the Bible",
+            "question": "Which prophet was known for confronting King David about his sin with Bathsheba?",
+            "options": [
+                "Samuel",
+                "Nathan",
+                "Gad",
+                "Ahijah"
+            ],
+            "answer": "Nathan"
+        }
+    ]
+}
