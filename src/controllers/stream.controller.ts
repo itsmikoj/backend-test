@@ -78,8 +78,15 @@ export async function CreateController(req: Request, res: Response) {
 
         console.log('✅ Usuarios creados en Stream');
 
-        // 3. Crear ID del canal consistente (ordenado alfabéticamente)
-        const channelId = [userId, friendId].sort().join('-');
+        // 3. Crear ID del canal consistente (usando hash para mantenerlo corto)
+        const crypto = require('crypto');
+        const sortedIds = [userId, friendId].sort();
+        const channelId = crypto
+            .createHash('sha256')
+            .update(sortedIds.join('-'))
+            .digest('hex')
+            .substring(0, 32); // Usar solo 32 caracteres del hash
+        
         console.log('📝 Channel ID generado:', channelId);
 
         // 4. Crear o obtener el canal
