@@ -2,6 +2,7 @@ import express, { Application } from "express";
 import cors from "cors";
 import dotenv from "dotenv";
 import authRoutes from "./modules/auth/auth.route";
+import trackingRoutes from "./modules/tracking/tracking.route";
 
 dotenv.config();
 
@@ -14,11 +15,12 @@ app.use(express.json());
 // Routes
 app.get("/", (req, res) => {
   res.status(200).json({
-    message: "API v2 is running",
-    version: "2.0.2",
+    message: "Tracking API is running",
+    version: "1.0.0",
   });
 });
 app.use("/api/v2/auth", authRoutes);
+app.use("/api/v2/tracking", trackingRoutes);
 
 // Vercel
 //export default app;
