@@ -12,19 +12,20 @@ function secureShuffle(arr: string[]) {
 }
 
 export function generateId(size: number = 10): string {
-  if (size < 2) throw new Error("Size must be at least 2");
-
-  const maxNumbers = Math.floor((size - 1) / 2);
-  const numNumbers = crypto.randomInt(0, maxNumbers + 1);
-  const numLetters = size - numNumbers;
+  if (size < 1) throw new Error("Size must be at least 1");
 
   const result: string[] = [];
+
+  const hasNumber = crypto.randomInt(0, 2) === 1;
+
+  const numNumbers = hasNumber ? 1 : 0;
+  const numLetters = size - numNumbers;
 
   for (let i = 0; i < numLetters; i++) {
     result.push(LETTERS[crypto.randomInt(0, LETTERS.length)]);
   }
 
-  for (let i = 0; i < numNumbers; i++) {
+  if (hasNumber) {
     result.push(NUMBERS[crypto.randomInt(0, NUMBERS.length)]);
   }
 
